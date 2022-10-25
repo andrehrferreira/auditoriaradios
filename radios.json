@@ -140,16 +140,6 @@
         "url": "http://paineldj5.com.br:8013/stream"
     },
     {
-        "name": "Rádio Cultura FM - São Luís",
-        "location": "São Luís",
-        "url": "https://player-ssl.kshost.com.br:13040/live"
-    },
-    {
-        "name": "Rádio Educadora do Maranhão - São Luís",
-        "location": "São Luís",
-        "url": "https://player-ssl.kshost.com.br:13040/live"
-    },
-    {
         "name": "Rádio Senado Brasília - São Luís",
         "location": "São Luís",
         "url": "https://www12.senado.leg.br/radiosenado/fmaac/playlist.m3u8"
