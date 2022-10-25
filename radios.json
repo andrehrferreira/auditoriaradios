@@ -148,5 +148,80 @@
         "name": "Rádio Voz do Sertão - São Luís",
         "location": "São Luís",
         "url": "http://sv10.hdradios.net:10246/"
+    },
+    {
+        "name": "Rádio Jovem Gospel",
+        "location": "",
+        "url": "http://servidor26.brlogic.com:8038/live"
+    },
+    {
+        "name": "Rádio Araguaia Gurupi - Gurupi",
+        "location": "Gurupi",
+        "url": "https://live.ojc.com.br/e9cd_7/myStream.m3u8"
+    },
+    {
+        "name": "Rádio Aleluia FM Palmas - Palmas",
+        "location": "Palmas",
+        "url": "https://274398c.ha.azioncdn.net/primary/radio90_5fm.sdp/playlist.m3u8"
+    },
+    {
+        "name": "Rádio Líder FM - Palmas",
+        "location": "Palmas",
+        "url": "http://stm19.conectastm.com:13272/stream"
+    },
+    {
+        "name": "Rádio CBN Palmas - Palmas",
+        "location": "Palmas",
+        "url": "https://live.ojc.com.br/e9cd_6/myStream.m3u8"
+    },
+    {
+        "name": "Rádio Club AM - Palmas",
+        "location": "Palmas",
+        "url": "http://r13.ciclano.io:8443/stream"
+    },
+    {
+        "name": "Rádio Santa Fé - Santa Fé",
+        "location": "Santa Fé",
+        "url": "https://servidor29-5.brlogic.com:8090/live"
+    },
+    {
+        "name": "GFM Salvador - Salvador",
+        "location": "Salvador",
+        "url": "https://ice.fabricahost.com.br/radiogfm"
+    },
+    {
+        "name": "Rádio Itapoan FM - Salvador",
+        "location": "Salvador",
+        "url": "http://streaming.livecenter.com.br:9300/"
+    },
+    {
+        "name": "Nova Brasil FM Salvador - Salvador",
+        "location": "Salvador",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SSAAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5OTcxMCwiaXNzIjoidGlzcnYifQ.8VtFJ4vy4VGLAleBA_Ohw-w6buwk9K9GUX8qpDXdr1g"
+    },
+    {
+        "name": "Rádio A Tarde FM - Salvador",
+        "location": "Salvador",
+        "url": "http://sh.upx.com.br:8084/stream"
+    },
+    {
+        "name": "Rádio Bahia FM - Salvador",
+        "location": "Salvador",
+        "url": "https://ice.fabricahost.com.br/radiobahiafm"
+    },
+    {
+        "name": "Rádio Piatã FM - Salvador",
+        "location": "Salvador",
+        "url": "http://192.163.193.115:9992/stream"
+    },
+    {
+        "name": "Rádio Transamérica Salvador - Salvador",
+        "location": "Salvador",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SALAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5OTgyMCwiaXNzIjoidGlzcnYifQ.i2ESKx8f83QLqb5fczrYIuwyrsF4Ysl8iV7i-eo3Cb8"
+    },
+    {
+        "name": "Rádio Band FM Vitória da Conquista - Vitória da Conquista",
+        "location": "Vitória da Conquista",
+        "url": "http://hts02.kshost.com.br:12688/"
     }
 ]
