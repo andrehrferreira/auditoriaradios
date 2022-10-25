@@ -68,5 +68,95 @@
         "name": "Rádio Porto Brasil FM - Porto Seguro",
         "location": "Porto Seguro",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK102FMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5NDU0MiwiaXNzIjoidGlzcnYifQ.sEmOAVlpcQrcPAG866-ZZoAItEl6b_8GYU_cRG3m1Ow"
+    },
+    {
+        "name": "Difusora FM - São Luís",
+        "location": "São Luís",
+        "url": "https://webradio.amsolution.com.br/radio/8430/saoluis"
+    },
+    {
+        "name": "Rádio Mais FM - São Luís",
+        "location": "São Luís",
+        "url": "http://zoeweb.net:8122"
+    },
+    {
+        "name": "Rádio FM Terra Imperatriz - Imperatriz",
+        "location": "Imperatriz",
+        "url": "http://servidor30.brlogic.com:8622/live"
+    },
+    {
+        "name": "Rádio Timbira AM - São Luís",
+        "location": "São Luís",
+        "url": "http://aovivo.radiotimbira.ma.gov.br:8000/timbira"
+    },
+    {
+        "name": "Rádio Universidade FM - São Luís",
+        "location": "São Luís",
+        "url": "http://streaming21.hstbr.net:8280/live"
+    },
+    {
+        "name": "Criativa Radio",
+        "location": "",
+        "url": "https://stm2.playstm.com:7002"
+    },
+    {
+        "name": "Rádio FM Esperança - São Luís",
+        "location": "São Luís",
+        "url": "https://ssl.xcast.com.br:7940/stream"
+    },
+    {
+        "name": "Jovem Pan FM São Luís - São Luís",
+        "location": "São Luís",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FM_SC.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5NTAwNywiaXNzIjoidGlzcnYifQ.AXSDjuu62REcYgoXUCA5ex0rg4b26Azt57H_jSVkk_U"
+    },
+    {
+        "name": "Jovem Pan News São Luís - São Luís",
+        "location": "São Luís",
+        "url": "https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=176364845&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid%2fCFMHQFcQThMTQRdxflYDEwUZJXULEEpmXx5JWAQTDGwRSgIaGBwLEwUUWh5pGAFG%7e%7e%7e&render=json&qs=eTMKf2ZRGloJQD0qUyx1eQETW0VGYBZtVAZLd1FWD1tTBEhwdQVfUUAJd2tIATggH0NbCAUOVGl%2fZmljWk1LVVpBGl83QwkTTD5cBy0CO3tBHGZzS3MIdT9lQB9ENlhlNHkAcSg9AQlVDhcVVi9VajlmTyN5D0JyElNtNyEwDWkjDgkcUQIYVQNiIi8tS3BFXyl8XnlxMSJ2CWFdUHMsTWgaGSo3IXIXf2Aef3MYPmUjfmwTKw4eMUdwfj9jRlZIUGMEUTtGbR9TJRpIWi0fRRo0Y2MGYlJ2ExV6P2cnXxIhckBbCDVaEVc1Hwd2IU5RGFY9dUM1%7e%7e%7e"
+    },
+    {
+        "name": "Rádio 92.3 FM - São Luís",
+        "location": "São Luís",
+        "url": "https://centova.svdns.com.br:20024/stream"
+    },
+    {
+        "name": "Rádio Aleluia FM São Luís - São Luís",
+        "location": "São Luís",
+        "url": "https://84398c.ha.azioncdn.net/primary/radio105_5fm.sdp/playlist.m3u8"
+    },
+    {
+        "name": "Rádio Babaçu FM - Cidelandia",
+        "location": "Cidelandia",
+        "url": "http://servidor27.brlogic.com:8170/live"
+    },
+    {
+        "name": "Rádio CentroNorte FM Presidente Dutra - São Luís",
+        "location": "São Luís",
+        "url": "http://servidor27.brlogic.com:8170/live"
+    },
+    {
+        "name": "Rádio Clube de Itapicuru - São Luís",
+        "location": "São Luís",
+        "url": "http://paineldj5.com.br:8013/stream"
+    },
+    {
+        "name": "Rádio Cultura FM - São Luís",
+        "location": "São Luís",
+        "url": "https://player-ssl.kshost.com.br:13040/live"
+    },
+    {
+        "name": "Rádio Educadora do Maranhão - São Luís",
+        "location": "São Luís",
+        "url": "https://player-ssl.kshost.com.br:13040/live"
+    },
+    {
+        "name": "Rádio Senado Brasília - São Luís",
+        "location": "São Luís",
+        "url": "https://www12.senado.leg.br/radiosenado/fmaac/playlist.m3u8"
+    },
+    {
+        "name": "Rádio Voz do Sertão - São Luís",
+        "location": "São Luís",
+        "url": "http://sv10.hdradios.net:10246/"
     }
 ]
