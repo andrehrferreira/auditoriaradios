@@ -19,11 +19,14 @@ class MonitorarRadio{
         });
 
         this.deepgramLive.addListener('transcriptReceived', (message) => {
-            const data = JSON.parse(message)
-            const transcript = data.channel.alternatives[0].transcript;
+            try{
+                const data = JSON.parse(message)
+                const transcript = data.channel.alternatives[0].transcript;
 
-            if(transcript) 
-                this.stream.write('['+ new Date().getTime() +'] - ' + transcript + '\n');
+                if(transcript) 
+                    this.stream.write('['+ new Date().getTime() +'] - ' + transcript + '\n');
+            }
+            catch(err){}
         })
     }
 

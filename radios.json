@@ -1,16 +1,16 @@
 [
     {
-        "name": "Antena 1",
+        "name": "Antena 1 - São Paulo",
         "location": "São Paulo",
         "url": "https://antenaone.crossradio.com.br/stream/1;"
     },
     {
-        "name": "Jovem Pan FM Araçatuba",
+        "name": "Jovem Pan FM Araçatuba - São Paulo",
         "location": "São Paulo",
         "url": "http://stm01.virtualcast.com.br:8040/live"
     },
     {
-        "name": "Super Rádio Tupi",
+        "name": "Super Rádio Tupi - Rio de Janeiro",
         "location": "Rio de Janeiro",
         "url": "https://8923.brasilstream.com.br/stream"
     },
@@ -20,38 +20,53 @@
         "url": "https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=163111910&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid%2fCFMHQFcQThMTQRdxflYDEwUZJXULEEpmXx5JWAQTDGwRSgIaGBwLEwUUWh5oEARF%7e%7e%7e&render=json&qs=eTMKf2ZRGloJQD0qUyx1eQETW0VGYBZtVAZLd1FWD1tTBEhwdQVfUUAJd2tIATggH0NbCAUOVGl%2fZmljWk1LVVpBGl83QwkTTD5cBy0CO3tBHGZzS3MIdT9lQB9ENlhlNHkAcSg9AQlVDhcVVi9VajlmTyN5D0JyElNtNyEwDWkjDgkcUQIYVQNiIi8tS3BFXyl8XnlxMSJ2CWFdUHMsTWgaGSo3IXIXf2Aef3MYPmQjfmweKyQeMUdwfj9jRlZIUGMEUTtGbR9TJRozGCQeVUowbUJkSwFaPFVFHkgDXHsnQHBuLxpCKUIVI0dwKG0bEVhNdGUL%7e%7e%7e"
     },
     {
-        "name": "89 FM A Rádio Rock",
+        "name": "89 FM A Rádio Rock - São Paulo",
         "location": "São Paulo",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY4NTU1MiwiaXNzIjoidGlzcnYifQ.dN_C0c-nkbS_ExdtkIdV6ofdwRR4smFbg2OmwtutZqs"
     },
     {
-        "name": "Rádio JB FM",
+        "name": "Rádio JB FM - Rio de Janeiro",
         "location": "Rio de Janeiro",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY4NTYxOCwiaXNzIjoidGlzcnYifQ.rC3mAT9PAx4QQFHCM05MHUp2XcQiV7ccHI0bXcPbJQI"
     },
     {
-        "name": "Cidade FM",
+        "name": "Cidade FM - Feira de Santana",
         "location": "Feira de Santana",
         "url": "http://stm19.xcast.com.br:12390/"
     },
     {
-        "name": "Cidade FM",
-        "location": "Feira de Santana",
-        "url": "http://stm19.xcast.com.br:12390/"
-    },
-    {
-        "name": "Nativa FM São Paulo",
+        "name": "Nativa FM São Paulo - São Sebastião",
         "location": "São Sebastião",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY4NjAzOCwiaXNzIjoidGlzcnYifQ.R3Wz1gQ2nRSlhAXLQr82TmaBAL_c_PFm0c_5kEmBX6I"
     },
     {
-        "name": "Rádio 93 FM",
+        "name": "Rádio 93 FM - Alagoinhas",
         "location": "Alagoinhas",
         "url": "http://streaming.livecenter.com.br:9346"
     },
     {
-        "name": "Rádio Brisa Mar FM",
+        "name": "Rádio Brisa Mar FM - Esplanada",
         "location": "Esplanada",
         "url": "http://12.stmip.net:8548"
+    },
+    {
+        "name": "Rádio Blink 102 FM - Campo Grande",
+        "location": "Campo Grande",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK102FMAAC.aac"
+    },
+    {
+        "name": "Band FM São Paulo - Eunapolis",
+        "location": "Eunapolis",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK102FMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5NDQyNCwiaXNzIjoidGlzcnYifQ.s5LIv3g8PpcEQ53sZM-fpLqtPIvS12B-67B1q0WyTRU"
+    },
+    {
+        "name": "Rádio Ativa FM - Eunapolis",
+        "location": "Eunapolis",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK102FMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5NDQ1NywiaXNzIjoidGlzcnYifQ.b-EtyT6fIX5Z_Hg5cmQa4XuNQVO-PdpJdTNKNM3zywI"
+    },
+    {
+        "name": "Rádio Porto Brasil FM - Porto Seguro",
+        "location": "Porto Seguro",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK102FMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjY5NDU0MiwiaXNzIjoidGlzcnYifQ.sEmOAVlpcQrcPAG866-ZZoAItEl6b_8GYU_cRG3m1Ow"
     }
 ]
