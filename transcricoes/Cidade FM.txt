@@ -1032,3 +1032,260 @@
 [1666687353721] - poderoso
 [1666687355143] - poderoso, O poder
 [1666687355295] - o poder
+[1666688299039] - sobre
+[1666688299246] - sobre
+[1666688307195] - ajuda
+[1666688307455] - ajuda
+[1666688322196] - vai
+[1666688322478] - vai
+[1666688324249] - jojo
+[1666688324406] - jojo
+[1666688328265] - homens impuros
+[1666688328432] - homens impuros
+[1666688329053] - eu
+[1666688329205] - eu
+[1666688331013] - a glória
+[1666688331067] - a glória
+[1666688334988] - para sempre
+[1666688335174] - para sempre
+[1666688337431] - eu
+[1666688337483] - eu
+[1666688340390] - né
+[1666688340596] - né
+[1666688342764] - tchau
+[1666688343000] - tchau
+[1666688346274] - fla
+[1666688358750] - tchau
+[1666688358843] - tchau
+[1666688363651] - aqueles amaram
+[1666688363667] - aqueles amaram
+[1666688371207] - sempre
+[1666688371434] - sempre
+[1666688377640] - Mas o solo da justiça,
+[1666688377733] - Mas o solo da justiça,
+[1666688382699] - o espírito
+[1666688382734] - o espírito
+[1666688406761] - e os anjos e os homens
+[1666688406781] - e os anjos e os homens
+[1666688411726] - rosa
+[1666688411754] - rosa
+[1666688421077] - né
+[1666688421183] - né
+[1666688425789] - galera
+[1666688425879] - galera
+[1666688428935] - tchau
+[1666688428969] - tchau
+[1666688438923] - ela
+[1666688438947] - ela
+[1666688439688] - Manhã
+[1666688439728] - Manhã
+[1666688448079] - eu
+[1666688448127] - eu
+[1666688452248] - hoje
+[1666688452348] - hoje
+[1666688452897] - olha
+[1666688453108] - olha
+[1666688456498] - eu
+[1666688456632] - olha
+[1666688469646] - gente você
+[1666688469698] - gente você
+[1666688476646] - Bom dia Né É Caro eu moro aqui em Jair.
+[1666688476668] - Bom dia Né É Caro eu moro aqui em Jair.
+[1666688479762] - Eu gostaria de saber como é esse lance da Tarde
+[1666688479770] - Eu gostaria de saber como é esse lance da Tarde
+[1666688482914] - mais baixa que eu vi na Tv. Olá karol
+[1666688482939] - mais baixa que eu vi na Tv. Olá karol
+[1666688486738] - explico sim, é a tarifa reduzida da minha amiga, promovida pela prefeitura de fé
+[1666688486832] - explico sim, é a tarifa reduzida da minha amiga, promovida pela prefeitura de fé
+[1666688490759] - agora você só vai pagar dois reais reais na passagem, mas fica ligada que tem
+[1666688490872] - agora você só vai pagar dois reais reais na passagem, mas fica ligada que tem
+[1666688495180] - olhares definidos. E quais esses horários carol,
+[1666688495189] - olhares definidos. E quais esses horários carol,
+[1666688498086] - anota aí pra quando você precisar pegar seu com passagem mais
+[1666688498183] - anota aí pra quando você precisar pegar seu com passagem mais
+[1666688501368] - barata. Das nove da manhã até meiodia dia de umas às quatro da tarde
+[1666688501394] - barata. Das nove da manhã até meiodia dia de umas às quatro da tarde
+[1666688505652] - e depois das oito da noite sábado a partir da
+[1666688505672] - e depois das oito da noite sábado a partir da
+[1666688508681] - duas da tarde e domingo o dia todo. Ai eu vi vantagem E tem mais
+[1666688508706] - duas da tarde e domingo o dia todo. Ai eu vi vantagem E tem mais
+[1666688513411] - você ainda paga sua passagem reduzida com pix, cartão de crédito ou débito, usando
+[1666688513433] - você ainda paga sua passagem reduzida com pix, cartão de crédito ou débito, usando
+[1666688518340] - celular com a recarga digital no aplicativo que mais ou com seu cartão via
+[1666688518504] - celular com a recarga digital no aplicativo que mais ou com seu cartão via
+[1666688522380] - feira. Valeu viu, obrigado. Prefeitura de fé
+[1666688522500] - feira. Valeu viu, obrigado. Prefeitura de fé
+[1666688525376] - governo da gente. Gente você
+[1666688525440] - governo da gente. Gente você
+[1666688529296] - e a ponte
+[1666688529369] - e a ponte
+[1666688530324] - e ponte
+[1666688530366] - e ponte
+[1666688532361] - se ponte
+[1666688532399] - se ponte
+[1666688534928] - a loja do homem
+[1666688534984] - a loja do homem
+[1666688537433] - melhores máscaras
+[1666688537478] - melhores máscaras
+[1666688539047] - qualidade atendimento
+[1666688539189] - qualidade atendimento
+[1666688544966] - tudo de bom variedade e lançamento
+[1666688545111] - tudo de bom variedade e lançamento
+[1666688548990] - melhor de encontro
+[1666688549161] - melhor de encontro
+[1666688550796] - F ponte
+[1666688550893] - F ponte
+[1666688554903] - essa onda
+[1666688554989] - essa onda
+[1666688557377] - noite
+[1666688557453] - noite
+[1666688558553] - de para
+[1666688558735] - de para
+[1666688563154] - marta
+[1666688563263] - marta
+[1666688564010] - velho.
+[1666688564106] - velho.
+[1666688565071] - Dos colo
+[1666688565149] - Dos colo
+[1666688571729] - pra pra
+[1666688571729] - pra pra
+[1666688573902] - vale
+[1666688573908] - vale
+[1666688578386] - casal
+[1666688578433] - casal
+[1666688581353] - preço especial
+[1666688581442] - preço especial
+[1666688586315] - império dos colchões,
+[1666688586338] - império dos colchões,
+[1666688591276] - avenida de gol Mal em frente a Cá. No mês das crianças
+[1666688591286] - avenida de gol Mal em frente a Cá. No mês das crianças
+[1666688595476] - que na
+[1666688595552] - que na
+[1666688598743] - amigo Gel Você encontra maior variedade
+[1666688598760] - amigo Gel Você encontra maior variedade
+[1666688600083] - bilhões e livros infantis.
+[1666688600185] - de bilhões e livros infantis.
+[1666688605104] - Presentes que transmitem o amor de Deus Para
+[1666688605150] - Presentes que transmitem o amor de Deus Para
+[1666688606929] - coração das crianças, livraria ventania.
+[1666688606976] - coração das crianças, livraria a ventania.
+[1666688609974] - Avenida senhor dos passos mil duzentos e vinte
+[1666688610052] - Avenida senhor dos passos mil duzentos e vinte
+[1666688611827] - Centro freira
+[1666688611925] - Centro freira
+[1666688613723] - whatsapp sete
+[1666688613731] - whatsapp sete
+[1666688614385] - nove
+[1666688614506] - nove
+[1666688616507] - Oito oito oito dois,
+[1666688616520] - Oito oito oito dois,
+[1666688618760] - dois dois sete meia
+[1666688618781] - dois dois sete meia
+[1666688620783] - seja um cidadão solidário.
+[1666688620843] - seja um cidadão solidário.
+[1666688625681] - Procure um emoção ou ponto de coleta mais próximo à sua residente
+[1666688625872] - Procure um emoção ou ponto de coleta mais próximo à sua residente
+[1666688627272] - Chame seus amigos,
+[1666688627344] - Chame seus amigos,
+[1666688628533] - seus familiares
+[1666688628687] - seus familiares
+[1666688633599] - e juntos vamos fazer a diferença na vida de quem precisa. Dois são
+[1666688633609] - e juntos vamos fazer a diferença na vida de quem precisa. Dois são
+[1666688634709] - regularmente
+[1666688634813] - regularmente
+[1666688637383] - e ajude a quem precisa. Acesse,
+[1666688637522] - e ajude a quem precisa. Acesse,
+[1666688640551] - ponto go ponto b r,
+[1666688640660] - ponto go ponto b r,
+[1666688644811] - barra do sangue. Até transformar seu celular num potente rádio.
+[1666688644877] - barra do sangue. Até transformar seu celular num potente rádio.
+[1666688649801] - É fácil. Basta instalar o aplicativo Hannah em seu smartphone o tablet.
+[1666688649841] - É fácil. Basta instalar o aplicativo Hannah em seu smartphone o tablet.
+[1666688653418] - Você vai ouvir nossa emissora e outras milhares do Brasil e do mundo,
+[1666688653613] - Você vai ouvir nossa emissora e outras milhares do Brasil e do mundo,
+[1666688658430] - o Rádio é de graça. E está disponível para Android e ios no site,
+[1666688658437] - o Rádio é de graça E está disponível para Android e ios no site,
+[1666688663085] - Com. Precisa tirar sua habilidade
+[1666688663168] - Com. Precisa tirar sua habilidade
+[1666688666937] - não O lugar certo É na
+[1666688666961] - não O lugar certo É na
+[1666688670266] - visão Tire sua carteira de motorista com
+[1666688670301] - visão Tire sua carteira de motorista com
+[1666688673027] - e segurança. Cursos para guerra moto com
+[1666688673154] - e segurança. Cursos para guerra moto com
+[1666688677460] - melhores preços da cidade. Com desconto até o final dele
+[1666688677518] - melhores preços da cidade. Com desconto até o final dele
+[1666688681389] - promoção imperdível.
+[1666688681683] - promoção imperdível.
+[1666688684635] - se em até dez vezes em todos os cartões. Altura
+[1666688684658] - se em até dez vezes em todos os cartões. Altura
+[1666688688659] - escola visão Rua Domingos matos barbosa de quatrocentos
+[1666688688689] - escola visão Rua Domingos matos barbosa de quatrocentos
+[1666688692653] - quarenta e seis próximo a praça da Call. Telefone Três dois dois um três
+[1666688692813] - quarenta e seis próximo a praça da Call. Telefone Três dois dois um três
+[1666688697659] - e oitenta e seis Whatsapp nove
+[1666688697717] - e oitenta e seis Whatsapp nove
+[1666688700242] - nove e dois sete e três zero cinco trinta e dois. Rádio.
+[1666688700415] - nove e dois sete e três zero cinco trinta e dois. Rádio.
+[1666688702771] - É cidade.
+[1666688702771] - É cidade.
+[1666688715271] - Eu
+[1666688715352] - Eu
+[1666688717849] - Olha
+[1666688717855] - Olha
+[1666688722961] - Fm oitenta e sete ponto
+[1666688723118] - vir
+[1666688723171] - Fm oitenta e sete ponto
+[1666688723280] - vir
+[1666688728279] - uma emissora da associação missão Evangélica E yoshi
+[1666688728379] - uma emissora da associação missão Evangélica E yoshi
+[1666688728697] - de na Bahia.
+[1666688728757] - de na Bahia.
+[1666688733741] - Eu
+[1666688733776] - Eu
+[1666688735243] - E agora,
+[1666688735306] - E agora,
+[1666688736683] - como vocês.
+[1666688736767] - como vocês.
+[1666688738299] - Programa
+[1666688738385] - Programa
+[1666688740156] - e hora de mudar.
+[1666688740305] - e hora de mudar.
+[1666688742853] - Com uma palavra de fé
+[1666688742944] - Com uma palavra de fé
+[1666688744449] - ao seu coração.
+[1666688744528] - ao seu coração.
+[1666688746386] - Eu
+[1666688746413] - Eu
+[1666688751455] - eu
+[1666688751467] - eu
+[1666688755153] - eu
+[1666688755161] - eu
+[1666688759740] - eu
+[1666688759842] - eu
+[1666688764533] - eu
+[1666688764804] - eu
+[1666688769341] - eu
+[1666688769362] - eu
+[1666688774087] - Eu
+[1666688774156] - Eu
+[1666688777088] - eu
+[1666688777094] - eu
+[1666688781688] - Eu
+[1666688781803] - Eu
+[1666688784677] - eu
+[1666688784692] - eu
+[1666688788599] - eu
+[1666688788750] - eu
+[1666688788777] - eu
+[1666688788785] - eu
+[1666688791018] - eu
+[1666688791042] - eu
+[1666688793675] - pai querido Santo,
+[1666688793704] - pai querido Santo,
+[1666688798625] - Nós te inova e
+[1666688798756] - Nós te inova e
+[1666688798886] - engrandece senhor,
+[1666688798979] - engrandece senhor,
+[1666688802139] - e te apresentamos,
+[1666688802155] - e te apresentamos,
