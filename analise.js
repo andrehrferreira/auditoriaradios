@@ -1,5 +1,5 @@
-import * as fs from "fs";
-import fg from "fast-glob";
+const fs = require("fs");
+const fg = require("fast-glob");
 const radios = JSON.parse(fs.readFileSync('radios.json', 'utf8'));
 const frasesDeCampanha = JSON.parse(fs.readFileSync('frasesDeCampanhas.json', 'utf8'));
 
@@ -27,17 +27,19 @@ fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                     if(!insercoes[Radio])
                         insercoes[Radio] = [];
 
-                    insercoes[Radio].push({
-                        campanha: "Lula",
-                        dataHora: new Date(parseInt(dataHora[1])).toString(),
-                        frase: fraseCampanhaLula,
-                        radio: Radio,
-                        local: Local
-                    });
-
-                    fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);
-
-                    summaryInsercoes.lula++;
+                    if(Local){
+                        insercoes[Radio].push({
+                            campanha: "Lula",
+                            dataHora: new Date(parseInt(dataHora[1])).toString(),
+                            frase: fraseCampanhaLula,
+                            radio: Radio,
+                            local: Local
+                        });
+    
+                        fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
+                    
+                        summaryInsercoes.lula++;
+                    }
                 }
             }
 
@@ -51,17 +53,19 @@ fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                     if(!insercoes[Radio])
                         insercoes[Radio] = [];
 
-                    insercoes[Radio].push({
-                        campanha: "Bolsonaro",
-                        dataHora: new Date(parseInt(dataHora[1])).toString(),
-                        frase: fraseCampanhaBolsonaro,
-                        radio: Radio,
-                        local: Local
-                    });
+                    if(Local){
+                        insercoes[Radio].push({
+                            campanha: "Bolsonaro",
+                            dataHora: new Date(parseInt(dataHora[1])).toString(),
+                            frase: fraseCampanhaBolsonaro,
+                            radio: Radio,
+                            local: Local
+                        });
 
-                    fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
+                        fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
 
-                    summaryInsercoes.bolsonaro++;
+                        summaryInsercoes.bolsonaro++;
+                    }
                 }
             }
         }

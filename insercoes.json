@@ -111,30 +111,6 @@
       "frase": "Lula é salário mínimo forte e aumento acima",
       "radio": "89 FM A Rádio Rock",
       "local": "São Paulo"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 05:59:02 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro nunca deu e nem vai dar aumento real",
-      "radio": "89 FM A Rádio Rock"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 05:59:22 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Agora é lula",
-      "radio": "89 FM A Rádio Rock"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:55:14 GMT-0300 (Brasilia Standard Time)",
-      "frase": "corrupção no governo Lula",
-      "radio": "89 FM A Rádio Rock"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:58:20 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Fala presidente Lula",
-      "radio": "89 FM A Rádio Rock"
     }
   ],
   "Band FM São Paulo": [
@@ -209,62 +185,7 @@
       "local": "Eunapolis"
     }
   ],
-  "Criativa Radio": [
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 07:59:42 GMT-0300 (Brasilia Standard Time)",
-      "frase": "corrupção no governo Lula",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 08:01:41 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Neste domingo vinte e dois pelo bem do Brasil",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 09:05:28 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vai aumentar acima",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 21:05:34 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 22:01:59 GMT-0300 (Brasilia Standard Time)",
-      "frase": "corrupção no governo Lula",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 22:03:51 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Neste domingo vinte e dois pelo bem do Brasil",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 22:35:35 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Lula e da Dilma mandaram o dinheiro dos",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 23:04:33 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vai aumentar acima",
-      "radio": "Criativa Radio"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Wed Oct 26 2022 00:03:58 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Criativa Radio"
-    }
-  ],
+  "Criativa Radio": [],
   "Difusora FM": [
     {
       "campanha": "Bolsonaro",
@@ -346,24 +267,6 @@
       "frase": "Bolsonaro vinte e dois",
       "radio": "Jovem Pan FM Araçatuba",
       "local": "São Paulo"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:12:06 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Jovem Pan FM Araçatuba"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 07:04:55 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Jovem Pan FM Araçatuba"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 07:21:56 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Jovem Pan FM Araçatuba"
     }
   ],
   "Jovem Pan FM São Luís": [
@@ -561,36 +464,6 @@
       "frase": "com Bolsonaro vai piorar",
       "radio": "Rádio 93 FM",
       "local": "Alagoinhas"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 05:35:56 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Fala presidente Lula",
-      "radio": "Rádio 93 FM"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:30:23 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro anunciou o fim dos reajustes pela inflação",
-      "radio": "Rádio 93 FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:58:50 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Lula e da Dilma mandaram o dinheiro dos",
-      "radio": "Rádio 93 FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 07:04:43 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Rádio 93 FM"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 07:35:25 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Fala presidente Lula",
-      "radio": "Rádio 93 FM"
     }
   ],
   "Rádio A Tarde FM": [
@@ -958,24 +831,6 @@
       "frase": "Bolsonaro vinte e dois",
       "radio": "Rádio Blink 102 FM",
       "local": "Campo Grande"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:55:24 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro nunca deu e nem vai dar aumento real",
-      "radio": "Rádio Blink 102 FM"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:55:44 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Agora é lula",
-      "radio": "Rádio Blink 102 FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 07:30:58 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vai aumentar acima",
-      "radio": "Rádio Blink 102 FM"
     }
   ],
   "Rádio Brisa Mar FM": [
@@ -1415,42 +1270,6 @@
       "frase": "Lula e da Dilma mandaram o dinheiro dos",
       "radio": "Rádio JB FM",
       "local": "Rio de Janeiro"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:04:05 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro anunciou o fim dos reajustes pela inflação",
-      "radio": "Rádio JB FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:08:17 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Neste domingo vinte e dois pelo bem do Brasil",
-      "radio": "Rádio JB FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:24:50 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vai aumentar acima",
-      "radio": "Rádio JB FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:25:17 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro vinte e dois",
-      "radio": "Rádio JB FM"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 06:42:54 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Fala presidente Lula",
-      "radio": "Rádio JB FM"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:45:30 GMT-0300 (Brasilia Standard Time)",
-      "frase": "corrupção no governo Lula",
-      "radio": "Rádio JB FM"
     }
   ],
   "Rádio Mais FM": [
@@ -1841,48 +1660,12 @@
       "frase": "Fala presidente Lula",
       "radio": "Super Rádio Tupi",
       "local": "Rio de Janeiro"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 05:27:59 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro anunciou o fim dos reajustes pela inflação",
-      "radio": "Super Rádio Tupi"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 05:39:58 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Lula e da Dilma mandaram o dinheiro dos",
-      "radio": "Super Rádio Tupi"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Tue Oct 25 2022 06:22:48 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Neste domingo vinte e dois pelo bem do Brasil",
-      "radio": "Super Rádio Tupi"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 07:18:56 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Bolsonaro nunca deu e nem vai dar aumento real",
-      "radio": "Super Rádio Tupi"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 07:18:59 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Lula é salário mínimo forte e aumento acima",
-      "radio": "Super Rádio Tupi"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Tue Oct 25 2022 07:19:18 GMT-0300 (Brasilia Standard Time)",
-      "frase": "Agora é lula",
-      "radio": "Super Rádio Tupi"
     }
   ],
   "total": {
-    "insercoesLula": 142,
-    "insercoesBolsonaro": 124,
-    "citacoesLula": 980,
-    "citacoesBolsonaro": 840
+    "insercoesLula": 128,
+    "insercoesBolsonaro": 102,
+    "citacoesLula": 987,
+    "citacoesBolsonaro": 844
   }
 }
