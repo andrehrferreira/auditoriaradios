@@ -10,7 +10,7 @@ class MonitorarRadio{
     constructor(radio){
         this.radio = radio;
         this.stream = fs.createWriteStream(`transcricoes/${this.radio.name}.txt`, { flags: 'a' })
-        this.deepgram = new Deepgram('912c645bc5211d30e6cc5817f090bd0068db5347')
+        this.deepgram = new Deepgram('API_KEY');
         this.deepgramLive = this.deepgram.transcription.live({ 
             punctuate: true, 
             language: 'pt-BR',
