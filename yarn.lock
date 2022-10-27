@@ -263,6 +263,11 @@ argparse@^1.0.10:
   dependencies:
     sprintf-js "~1.0.2"
 
+argv@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/argv/-/argv-0.0.2.tgz#ecbd16f8949b157183711b1bda334f37840185ab"
+  integrity sha512-dEamhpPEwRUBpLNHeuCm/v+g0anFByHahxodVO/BbAarHVBBg2MccCwf9K+o1Pof+2btdnkJelYVUWjW/VrATw==
+
 array-flatten@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
