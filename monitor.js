@@ -40,8 +40,9 @@ class MonitorarRadio{
 (() => {
     const model = new vosk.Model("./model");
 
-    for(let radio of radios) {
-        const monitor = new MonitorarRadio(radio, model);
+    for(let radioKey of radios) {
+        radios[radioKey].name = radioKey;
+        const monitor = new MonitorarRadio(radios[radioKey], model);
         monitor.start();
     }
 

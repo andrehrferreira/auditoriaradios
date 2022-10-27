@@ -1,0 +1,18 @@
+{
+    "name": "Coletor de Radios do TuneIn",
+    "description": "Extension for extracting data from TuneIn",
+    "version": "0.0.2",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["contentscript.js"],
+        "run_at": "document_end",
+        "all_frames": false
+    }],   
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "clipboardRead",
+        "contextMenus"
+    ]
+}
