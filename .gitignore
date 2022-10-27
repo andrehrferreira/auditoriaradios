@@ -5,6 +5,7 @@
 /src/workspace/**/*.*
 .env
 /model
+/gravacoes
 
 # Logs
 logs
