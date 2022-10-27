@@ -4,6 +4,7 @@
 /http
 /src/workspace/**/*.*
 .env
+/model
 
 # Logs
 logs

@@ -1,43 +1,35 @@
 /**
  * @see https://console.deepgram.com/project/cf17b559-9d7a-492b-94c7-46ddeea8f452/mission/realtime-via-sdk
  */
-const fetch = require('cross-fetch');
-const { Deepgram } = require('@deepgram/sdk');
+
 const fs = require('fs');
+const fetch = require('cross-fetch');
+const Gravador = require("./gravador.js");
+const Recognizer = require("./recognizer.js");
+const QueueAudio = require("./queueAudio.js");
 const radios = JSON.parse(fs.readFileSync('radios.json', 'utf8'));
+const vosk = require("./vosk.js");
+
+process.on('uncaughtException', function(err) {
+    //console.log(err)
+});
 
 class MonitorarRadio{
-    constructor(radio){
+    constructor(radio, model){
+        const date = new Date();
         this.radio = radio;
-        this.stream = fs.createWriteStream(`transcricoes/${this.radio.name}.txt`, { flags: 'a' })
-        this.deepgram = new Deepgram('API_KEY');
-        this.deepgramLive = this.deepgram.transcription.live({ 
-            punctuate: true, 
-            language: 'pt-BR',
-            model: 'general',
-            tier: 'base'
-        });
-
-        this.deepgramLive.addListener('transcriptReceived', (message) => {
-            try{
-                const data = JSON.parse(message)
-                const transcript = data.channel.alternatives[0].transcript;
-
-                if(transcript) 
-                    this.stream.write('['+ new Date().getTime() +'] - ' + transcript + '\n');
-            }
-            catch(err){}
-        })
+        this.model = model;
+        this.gravador = new Gravador(`gravacoes/${this.radio.name} - ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}.mp3`);
+        this.recognizer = new Recognizer(`transcricoes/${this.radio.name} - ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}.txt`, this.model);
     }
 
     start(){
         try{
             fetch(this.radio.url).then(r => r.body).then(res => {
                 res.on("readable", () => {
-                    const data = res.read()
-        
-                    if(this.deepgramLive.getReadyState() === 1)
-                        this.deepgramLive.send(data);
+                    const data = res.read();
+                    this.gravador.append(data);
+                    this.recognizer.append(data);
                 })
             });
         }
@@ -46,8 +38,12 @@ class MonitorarRadio{
 }
 
 (() => {
+    const model = new vosk.Model("./model");
+
     for(let radio of radios) {
-        const monitor = new MonitorarRadio(radio)
-        monitor.start()
+        const monitor = new MonitorarRadio(radio, model);
+        monitor.start();
     }
+
+    //new QueueAudio(model).start();
 })();
