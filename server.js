@@ -1,9 +1,14 @@
-const Express = require("express");
-const app = Express();
+const express = require("express");
+const app = express();
 const fs = require('fs');
 
-app.use(Express.json())
-app.use(Express.urlencoded({ extended: true }))
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }));
+app.use(express.static('site'))
+
+app.get("/", (req, res) => {
+    res.sendFile(__dirname + "/site/index.html");
+});
 
 app.post("/", (req, res) => {
     const radios = JSON.parse(fs.readFileSync("./radios.json"));
