@@ -2,9 +2,10 @@ const express = require("express");
 const app = express();
 const fs = require('fs');
 
-app.use(express.json())
+app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('site'))
+app.use(express.static('site'));
+app.use(express.static('transcricoes'));
 
 app.get("/", (req, res) => {
     res.sendFile(__dirname + "/site/index.html");

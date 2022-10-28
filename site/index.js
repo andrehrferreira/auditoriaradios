@@ -1,4 +1,16 @@
-let radios = null
+let radios = null;
+
+$(window).on( "load", async () => {
+    let relatorio = await $.getJSON("/relatorio.json");
+    $("#insercoesLula").html(relatorio.total.insercoesLula.toLocaleString());
+    $("#insercoesBolsonaro").html(relatorio.total.insercoesBolsonaro.toLocaleString());
+    $("#citacoesLula").html(relatorio.total.citacoesLula.toLocaleString());
+    $("#citacoesBolsonaro").html(relatorio.total.citacoesBolsonaro.toLocaleString());
+    $("#radiosCount").html(relatorio.radiosCount.toLocaleString());
+    $("#lastUpdate").html(new Date(relatorio.lastUpdate).toLocaleDateString('pt-BR') + ' ' + new Date(relatorio.lastUpdate).toLocaleTimeString("pt-BR"));
+});
+
+
 
 function playRadio(src) {
     
@@ -45,11 +57,15 @@ async function selectOne(uf) {
                     
                     <div class="d-flex justify-content-between">
                         
-                        <a href="${radio.site}">
+                        <a href="${radio.site}" title="Website">
                             <i class="fa-solid fa-link"></i>
                         </a>
 
-                        <a href="javascript:playRadio('${radio.url}');">
+                        <a href="${radio.name} - ${radio.location} - 2022-9-28.txt" target="_blank" title="Transcrição">
+                            <i class="fa-regular fa-file-lines"></i>
+                        </a>
+
+                        <a href="javascript:playRadio('${radio.url}');" title="Ouvir rádio">
                             <i class="fa-solid fa-music"></i>
                         </a>
                     </div>

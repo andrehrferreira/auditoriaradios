@@ -6,11 +6,15 @@ const frasesDeCampanha = JSON.parse(fs.readFileSync('frasesDeCampanhas.json', 'u
 let insercoes = {};
 let summaryInsercoes = { lula: 0, bolsonaro: 0 };
 let citacoes = { lula: 0, bolsonaro: 0 };
+let radiosCount = 0;
 
-if(fs.existsSync("insercoes.csv")) 
-    fs.unlinkSync("insercoes.csv");
+for(let radio in radios)    
+    radiosCount++;  
 
-fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n");
+if(fs.existsSync("relatorio.csv")) 
+    fs.unlinkSync("relatorio.csv");
+
+fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n");
 
 (async () => {
     const files = await fg("./transcricoes/*.txt");
@@ -39,7 +43,7 @@ fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                             local: Local
                         });
     
-                        fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
+                        fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
                     
                         summaryInsercoes.lula++;
                     }
@@ -65,7 +69,7 @@ fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                             local: Local
                         });
 
-                        fs.appendFileSync("insercoes.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
+                        fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
 
                         summaryInsercoes.bolsonaro++;
                     }
@@ -81,5 +85,10 @@ fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
         citacoesBolsonaro: citacoes.bolsonaro
     }
 
-    fs.writeFileSync("insercoes.json", JSON.stringify(insercoes, null, 2));
+    insercoes.lastUpdate = new Date().getTime();
+    insercoes.radiosCount = radiosCount;
+
+    fs.writeFileSync("relatorio.json", JSON.stringify(insercoes, null, 2));
+    fs.copyFileSync("relatorio.csv", "./site/relatorio.csv");
+    fs.copyFileSync("relatorio.json", "./site/relatorio.json");
 })();

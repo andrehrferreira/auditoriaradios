@@ -1,0 +1,67 @@
+{
+  "Rádio CBN Belém": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 00:45:17 GMT-0300 (Brasilia Standard Time)",
+      "frase": "candidato à presidência lula do pt a senadora",
+      "radio": "Rádio CBN Belém",
+      "local": "Belem"
+    }
+  ],
+  "Rádio CBN Blumenau": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 00:53:40 GMT-0300 (Brasilia Standard Time)",
+      "frase": "candidato à presidência lula do pt a senadora",
+      "radio": "Rádio CBN Blumenau",
+      "local": "Blumenau "
+    }
+  ],
+  "Rádio CBN Palmas": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 00:49:38 GMT-0300 (Brasilia Standard Time)",
+      "frase": "candidato à presidência lula do pt a senadora",
+      "radio": "Rádio CBN Palmas",
+      "local": "Araguaína"
+    }
+  ],
+  "Rádio Liberal FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 00:56:32 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Liberal FM",
+      "local": "Carmo do Paranaiba"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 00:56:32 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Liberal FM",
+      "local": "Carmo do Paranaiba"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 01:09:08 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Liberal FM",
+      "local": "Carmo do Paranaiba"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 01:09:08 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Liberal FM",
+      "local": "Carmo do Paranaiba"
+    }
+  ],
+  "total": {
+    "insercoesLula": 1,
+    "insercoesBolsonaro": 6,
+    "citacoesLula": 139,
+    "citacoesBolsonaro": 103
+  },
+  "lastUpdate": 1666942984685,
+  "radiosCount": 1673
+}
