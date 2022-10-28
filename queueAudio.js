@@ -77,9 +77,12 @@ module.exports = class QueueAudio {
                 this.rec.setWords(true);
                 this.rec.setPartialWords(true);
 
-                const ffmpeg_run = spawn('ffmpeg', ['-loglevel', 'quiet', '-i', filename.replace(".index", ".wav"),
-                            '-ar', "16000" , '-ac', '1',
-                            '-f', 's16le', '-bufsize', "4046" , '-']);
+                const ffmpeg_run = spawn('ffmpeg', [
+                    '-loglevel', 'quiet', '-i', filename.replace(".index", ".wav"),
+                    '-ar', "16000" , '-ac', '1',
+                    '-f', 's16le', '-bufsize', "4046",
+                    '-hwaccel', 'cuda' , '-'
+                ]);
 
                 if(!fs.existsSync(`./${outFile}`))
                     fs.writeFileSync(`./${outFile}`, `\n`);
