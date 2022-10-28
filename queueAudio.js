@@ -80,8 +80,7 @@ module.exports = class QueueAudio {
                 const ffmpeg_run = spawn('ffmpeg', [
                     '-loglevel', 'quiet', '-i', filename.replace(".index", ".wav"),
                     '-ar', "16000" , '-ac', '1',
-                    '-f', 's16le', '-bufsize', "4046",
-                    '-hwaccel', 'cuda' , '-'
+                    '-f', 's16le', '-bufsize', "4046", '-'
                 ]);
 
                 if(!fs.existsSync(`./${outFile}`))
@@ -93,15 +92,19 @@ module.exports = class QueueAudio {
                     if (endSpeech){
                         const result = this.rec.result();
 
-                        if(result.alternatives[0].text !== "")
-                            await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`); 
+                        if(result.alternatives[0].text !== ""){
+                            //console.log(result.alternatives[0].text);
+                            await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`);
+                        }
                     }                       
                 }).on("end", async () => {
                     const result = this.rec.finalResult(this.rec);
                     
-                    if(result.alternatives[0].text !== "")
+                    if(result.alternatives[0].text !== ""){
+                        //console.log(result.alternatives[0].text);
                         await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`);
-                    
+                    }
+
                     resolve();
                 }).on("error", async () => {
                     resolve();
