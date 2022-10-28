@@ -12,7 +12,6 @@ function playRadio(src) {
     `);
 
     let player = document.getElementById('audioPlayer');
-    let source = document.getElementById('audioSource');
     player.load();
     player.play();
 }
@@ -28,9 +27,7 @@ async function selectOne(uf) {
     for (let i = 0; i< radios[uf].length; i++) {
 
         let radio = radios[uf][i]
-
-        console.log(radio)
-
+        
         $('#mainAccordion').append(`
             <div class="accordion-item">
                 <h2 class="accordion-header" id="panelsStayOpen-heading${i}">
@@ -41,6 +38,10 @@ async function selectOne(uf) {
                 <div id="panelsStayOpen-collapse${i}" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-heading${i}">
                 <div class="accordion-body">
                     <p>Localização: ${radio.location}</p>
+
+                    <p class="text-center" style="width: 200px; height: 200px">
+                        <canvas id="chart${i}"></canvas>
+                    </p>
                     
                     <div class="d-flex justify-content-between">
                         
@@ -56,6 +57,29 @@ async function selectOne(uf) {
                 </div>
             </div>
         `)
+
+        if (radio.insercoes.Lula + radio.insercoes.Bolsonaro > 0) {
+            new Chart(
+                document.getElementById('chart' + i), {
+                    type: 'doughnut',
+                    data: {
+                        labels: [
+                            'Lula',
+                            'Bolsonaro'
+                        ],
+                        datasets: [{
+                            label: 'Inserções',
+                            data: [radio.insercoes.Lula, radio.insercoes.Bolsonaro],
+                            backgroundColor: [
+                                'rgb(255, 99, 132)',
+                                'rgb(54, 162, 235)'
+                            ],
+                            hoverOffset: 4
+                        }]
+                    }
+                }
+            )
+        }
     }
 }
 
