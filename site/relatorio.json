@@ -1,84 +1,228 @@
 {
-  "Rádio Aliança AM": [
+  "Jovem Pan News São Paulo": [
     {
       "campanha": "Lula",
-      "dataHora": "Fri Oct 28 2022 03:45:21 GMT-0300 (Brasilia Standard Time)",
-      "frase": "fala presidente lula",
-      "radio": "Rádio Aliança AM",
-      "local": "Concordia"
-    },
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 03:45:21 GMT-0300 (Brasilia Standard Time)",
-      "frase": "corrupção no governo lula",
-      "radio": "Rádio Aliança AM",
-      "local": "Concordia"
+      "dataHora": "Fri Oct 28 2022 08:07:04 GMT-0300 (Brasilia Standard Time)",
+      "frase": "enquanto não deu nada de aumento real",
+      "radio": "Jovem Pan News São Paulo",
+      "local": "Bauru"
     }
   ],
-  "Rádio CBN Belém": [
+  "Radio 96 FM": [
     {
       "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 00:45:17 GMT-0300 (Brasilia Standard Time)",
-      "frase": "candidato à presidência lula do pt a senadora",
-      "radio": "Rádio CBN Belém",
-      "local": "Belem"
-    }
-  ],
-  "Rádio CBN Blumenau": [
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 00:53:40 GMT-0300 (Brasilia Standard Time)",
-      "frase": "candidato à presidência lula do pt a senadora",
-      "radio": "Rádio CBN Blumenau",
-      "local": "Blumenau "
-    }
-  ],
-  "Rádio CBN Palmas": [
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 00:49:38 GMT-0300 (Brasilia Standard Time)",
-      "frase": "candidato à presidência lula do pt a senadora",
-      "radio": "Rádio CBN Palmas",
-      "local": "Araguaína"
-    }
-  ],
-  "Rádio Liberal FM": [
-    {
-      "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 00:56:32 GMT-0300 (Brasilia Standard Time)",
+      "dataHora": "Fri Oct 28 2022 08:07:06 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
-      "radio": "Rádio Liberal FM",
-      "local": "Carmo do Paranaiba"
-    },
-    {
-      "campanha": "Lula",
-      "dataHora": "Fri Oct 28 2022 00:56:32 GMT-0300 (Brasilia Standard Time)",
-      "frase": "fala presidente lula",
-      "radio": "Rádio Liberal FM",
-      "local": "Carmo do Paranaiba"
-    },
+      "radio": "Radio 96 FM",
+      "local": "Nova Serrana"
+    }
+  ],
+  "Rádio 105 FM": [
     {
       "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 01:09:08 GMT-0300 (Brasilia Standard Time)",
+      "dataHora": "Fri Oct 28 2022 08:02:15 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio 105 FM",
+      "local": "Jundiai"
+    }
+  ],
+  "Rádio Brasil": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:02:34 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Brasil",
+      "local": "Santa Barbara d'Oeste"
+    }
+  ],
+  "Rádio Cidade FM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:22:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Cidade FM",
+      "local": "Olimpia"
+    }
+  ],
+  "Rádio Cidade FM Tubarão": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:47:32 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro nunca deu e nem vai dar aumento real",
+      "radio": "Rádio Cidade FM Tubarão",
+      "local": "Belém"
+    }
+  ],
+  "Rádio Conceição 105.9 FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:12:06 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Conceição 105.9 FM",
+      "local": "Itajai"
+    }
+  ],
+  "Rádio Cultura FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:36:03 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
-      "radio": "Rádio Liberal FM",
-      "local": "Carmo do Paranaiba"
+      "radio": "Rádio Cultura FM",
+      "local": "Uberlandia"
+    }
+  ],
+  "Rádio Cultura Santos Dumont": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:02:40 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para defender a família",
+      "radio": "Rádio Cultura Santos Dumont",
+      "local": "Santos Dumont"
+    }
+  ],
+  "Rádio Deus é Amor São Paulo": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:04:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Deus é Amor São Paulo",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:04:36 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Deus é Amor São Paulo",
+      "local": "Botelhos"
+    }
+  ],
+  "Rádio Furb FM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:19:59 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Furb FM",
+      "local": "Blumenau"
+    }
+  ],
+  "Rádio Gospel FM Araras": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 07:30:28 GMT-0300 (Brasilia Standard Time)",
+      "frase": "é só com bolsonaro que se o direito está garantido",
+      "radio": "Rádio Gospel FM Araras",
+      "local": "Araras"
     },
     {
       "campanha": "Bolsonaro",
-      "dataHora": "Fri Oct 28 2022 01:09:08 GMT-0300 (Brasilia Standard Time)",
+      "dataHora": "Fri Oct 28 2022 07:30:28 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Gospel FM Araras",
+      "local": "Araras"
+    }
+  ],
+  "Rádio Guarany  FM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:28:51 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para defender a família",
+      "radio": "Rádio Guarany  FM",
+      "local": "Santarém"
+    }
+  ],
+  "Rádio Integração FM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:33:20 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Integração FM",
+      "local": "Sao Manuel"
+    }
+  ],
+  "Rádio Itatiaia FM Juiz de Fora": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:28:53 GMT-0300 (Brasilia Standard Time)",
+      "frase": "é só com bolsonaro que se o direito está garantido",
+      "radio": "Rádio Itatiaia FM Juiz de Fora",
+      "local": "Juiz de Fora"
+    }
+  ],
+  "Rádio Mania FM Rio": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:04:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Mania FM Rio",
+      "local": "Santos Dumont"
+    }
+  ],
+  "Rádio Massa FM Caçador": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:38:34 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
-      "radio": "Rádio Liberal FM",
-      "local": "Carmo do Paranaiba"
+      "radio": "Rádio Massa FM Caçador",
+      "local": "Caçador"
+    }
+  ],
+  "Rádio Nossa FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:03:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "corrupção no governo lula",
+      "radio": "Rádio Nossa FM",
+      "local": "Patos de Minas"
+    }
+  ],
+  "Rádio Sagres 730 AM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:41:22 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Sagres 730 AM",
+      "local": "Goiania"
+    }
+  ],
+  "Rádio Tamaran": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:01:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vai aumentar acima",
+      "radio": "Rádio Tamaran",
+      "local": "Salvador do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:02:08 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Tamaran",
+      "local": "Salvador do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:02:08 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Tamaran",
+      "local": "Salvador do Sul"
+    }
+  ],
+  "Rádio UFMG Educativa": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:23:21 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio UFMG Educativa",
+      "local": "Belo Horizonte"
     }
   ],
   "total": {
-    "insercoesLula": 2,
-    "insercoesBolsonaro": 7,
-    "citacoesLula": 177,
-    "citacoesBolsonaro": 136
+    "insercoesLula": 10,
+    "insercoesBolsonaro": 15,
+    "citacoesLula": 82,
+    "citacoesBolsonaro": 104
   },
-  "lastUpdate": 1666950506844,
+  "lastUpdate": 1666957829317,
   "radiosCount": 1832,
-  "queueFiles": 29804
+  "queueFiles": 25951
 }

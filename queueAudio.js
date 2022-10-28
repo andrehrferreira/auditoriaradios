@@ -22,6 +22,7 @@ const WavEncoder = require('wav-encoder');
 const context = new AudioContext();
 const { spawn } = require("child_process");
 const vosk = require("./vosk.js");
+const TPromise = require("thread-promises");
 vosk.setLogLevel(0);
 
 module.exports = class QueueAudio {
@@ -45,37 +46,52 @@ module.exports = class QueueAudio {
     }
 
     async eventLooping(){
-        const filesTotal = await fg("./tmp/*.index");
-        const files = filesTotal.slice(this.skip, this.skip + 100);
+        var diretories = await fg("./tmp/*", { onlyDirectories: true });;
+        console.log(diretories[this.skip]);
 
-        for(let file of files){         
-            console.log(file);
+        const files = await fg(`${diretories[this.skip]}/*.index`, { onlyFiles: true });
 
+        for(let file of files){  
             const outFile = fs.readFileSync(file, "utf8");
-            const buffer = fs.readFileSync(file.replace(".index", ".wav"));
+            //const buffer = fs.readFileSync(file.replace(".index", ".wav"));
 
-            try{ await this.process(buffer, outFile, file); }
-            catch(e){ console.log(e); }
+            try{ await this.process(outFile, file); }
+            catch(e){ console.log(e); }  
             
-            this.rec.free();
-            this.rec = null;
-
             try{ fs.unlinkSync(file, () => {});} catch(e){ }
-            try{ fs.unlinkSync(file.replace(".index", ".wav"), () => {}); } catch(e){ }           
+            try{ fs.unlinkSync(file.replace(".index", ".wav"), () => {}); } catch(e){ }
+
+            /*promises.push(new Promise(async (resolve) => {
+                const outFile = fs.readFileSync(file, "utf8");
+                //const buffer = fs.readFileSync(file.replace(".index", ".wav"));
+
+                try{ await this.process(outFile, file); }
+                catch(e){ console.log(e); }  
+                
+                try{ fs.unlinkSync(file, () => {});} catch(e){ }
+                try{ fs.unlinkSync(file.replace(".index", ".wav"), () => {}); } catch(e){ }
+                resolve();
+            }));*/                 
         }
 
-        this.eventLooping();
+        await fs.rmSync(diretories[this.skip], { recursive: true, force: true });
+
+        //await Promise.all(promises);
+
+        setTimeout(() => { this.eventLooping(); }, 5000);
     }
 
-    process(buffer, outFile, filename){
+    process(outFile, filename){
         return new Promise(async (resolve, reject) => {
             try{
-                const dateTime = path.basename(filename).split("-")[0];
+                console.log(filename);
 
-                this.rec = new vosk.Recognizer({ model: this.model, sampleRate: 16000 });
-                this.rec.setMaxAlternatives(1);
-                this.rec.setWords(true);
-                this.rec.setPartialWords(true);
+                const rec = new vosk.Recognizer({ model: this.model, sampleRate: 16000 });
+                rec.setMaxAlternatives(1);
+                rec.setWords(true);
+                rec.setPartialWords(true);
+
+                const dateTime = path.basename(filename).split("-")[0];
 
                 const ffmpeg_run = spawn('ffmpeg', [
                     '-loglevel', 'quiet', '-i', filename.replace(".index", ".wav"),
@@ -87,24 +103,26 @@ module.exports = class QueueAudio {
                     fs.writeFileSync(`./${outFile}`, `\n`);
 
                 ffmpeg_run.stdout.on('data', async (data) => {
-                    const endSpeech = this.rec.acceptWaveform(data);
+                    const endSpeech = rec.acceptWaveform(data);
 
                     if (endSpeech){
-                        const result = this.rec.result();
+                        const result = rec.result();
 
                         if(result.alternatives[0].text !== ""){
                             //console.log(result.alternatives[0].text);
                             await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`);
+                            rec.reset();
                         }
                     }                       
                 }).on("end", async () => {
-                    const result = this.rec.finalResult(this.rec);
+                    const result = rec.finalResult(rec);
                     
                     if(result.alternatives[0].text !== ""){
                         //console.log(result.alternatives[0].text);
                         await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`);
                     }
 
+                    rec.free();
                     resolve();
                 }).on("error", async () => {
                     resolve();
@@ -113,7 +131,6 @@ module.exports = class QueueAudio {
             catch(err){
                 reject(err);
             }
-            
         });
     }
 }

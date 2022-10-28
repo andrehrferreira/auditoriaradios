@@ -9,11 +9,14 @@ module.exports = class Recognizer {
         this.bufferStorage = [];     
     }
 
-    append(buffer){
-        if(this.bufferStorage.length > 100){
-            const megaBuffer = Buffer.concat(this.bufferStorage);
+    async append(buffer){
+        const megaBuffer = Buffer.concat(this.bufferStorage);
+
+        if(megaBuffer.length > 250000){
             this.bufferStorage = [];
-            const tmpFiles = `./tmp/${new Date().getTime()} - ${uuidv4()}`;
+            const tmpFiles = `./tmp/${(new Date().getTime()).toString().substring(0, 9)}/${new Date().getTime()} - ${uuidv4()}`;
+            //console.log(`./tmp/${(new Date().getTime()).toString().substring(0, 9)}`);
+            await fs.mkdirSync(`./tmp/${(new Date().getTime()).toString().substring(0, 9)}`, { recursive: true });
             fs.writeFileSync(`${tmpFiles}.wav`, megaBuffer);
             fs.writeFileSync(`${tmpFiles}.index`, this.outFile);
         }

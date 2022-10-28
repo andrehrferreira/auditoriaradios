@@ -17,7 +17,7 @@ if(fs.existsSync("relatorio.csv"))
 fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n");
 
 (async () => {
-    const queue = await fg("./tmp/*.index");
+    const queue = await fg("./tmp/**/*.index");
     const files = await fg("./transcricoes/*.txt");
 
     for(let file of files){
