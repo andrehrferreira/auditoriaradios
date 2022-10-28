@@ -12,6 +12,7 @@
     "@deepgram/sdk": "^1.10.1",
     "@tensorflow-models/speech-commands": "^0.5.4",
     "@tensorflow/tfjs-node": "^4.0.0",
+    "argv": "^0.0.2",
     "audiobuffer-to-wav": "^1.0.0",
     "audioconcat": "^0.1.4",
     "body-parser": "^1.20.1",

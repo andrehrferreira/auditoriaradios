@@ -23,8 +23,9 @@ const vosk = require("./vosk.js");
 vosk.setLogLevel(0);
 
 module.exports = class QueueAudio {
-    constructor(model){
+    constructor(model, skip = 0){
         this.model = model;
+        this.skip = skip;
         this.ignoreResults = ["<UNK>", "art"];
     }
 
@@ -42,20 +43,28 @@ module.exports = class QueueAudio {
     }
 
     async eventLooping(){
-        const files = await fg("./tmp/*.index");
+        const filesTotal = await fg("./tmp/*.index");
+        const files = filesTotal.slice(this.skip, this.skip + 1000);
 
-        for(let file of files){
-            console.log(file);
-            const outFile = fs.readFileSync(file, "utf8");
-            const buffer = fs.readFileSync(file.replace(".index", ".wav"));
+        for(let file of files){            
+            if(fs.existsSync(file)){
+                console.log(file);
 
-            try{ await this.process(buffer, outFile); }
-            catch(e){}
-            
-            this.rec.free();
-            this.rec = null;
-            fs.unlinkSync(file, () => {});
-            fs.unlinkSync(file.replace(".index", ".wav"), () => {});
+                const outFile = fs.readFileSync(file, "utf8");
+                const buffer = fs.readFileSync(file.replace(".index", ".wav"));
+
+                try{ await this.process(buffer, outFile); }
+                catch(e){}
+                
+                this.rec.free();
+                this.rec = null;
+
+                if(fs.existsSync(file))
+                    fs.unlinkSync(file, () => {});
+
+                if(fs.existsSync(file.replace(".index", ".wav")))
+                    fs.unlinkSync(file.replace(".index", ".wav"), () => {});
+            }            
         }
 
         this.eventLooping();
