@@ -75,10 +75,10 @@
   "total": {
     "insercoesLula": 2,
     "insercoesBolsonaro": 7,
-    "citacoesLula": 157,
-    "citacoesBolsonaro": 128
+    "citacoesLula": 175,
+    "citacoesBolsonaro": 135
   },
-  "lastUpdate": 1666946896935,
-  "radiosCount": 1715,
-  "queueFiles": 22154
+  "lastUpdate": 1666949680111,
+  "radiosCount": 1832,
+  "queueFiles": 27805
 }
