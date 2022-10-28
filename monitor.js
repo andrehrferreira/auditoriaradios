@@ -6,8 +6,10 @@ const fs = require('fs');
 const fetch = require('cross-fetch');
 const Gravador = require("./gravador.js");
 const Recognizer = require("./recognizer.js");
-const QueueAudio = require("./queueAudio.js");
 const radios = JSON.parse(fs.readFileSync('radios.json', 'utf8'));
+const AudioContext = require('web-audio-api').AudioContext;
+const context = new AudioContext();
+const { Howl, Howler } = require('howler');
 const vosk = require("./vosk.js");
 
 process.on('uncaughtException', function(err) {
@@ -24,8 +26,10 @@ class MonitorarRadio{
     }
 
     start(){
-        try{
-            fetch(this.radio.url).then(r => r.body).then(res => {
+        try{                        
+            fetch(this.radio.url, {
+
+            }).then(r => r.body).then(res => {
                 console.log(`Connectado ${this.radio.name}...`);
 
                 res.on("readable", () => {
@@ -37,7 +41,9 @@ class MonitorarRadio{
                 console.log(`Erro ao tentar conectar ${this.radio.name}...`);
             });
         }
-        catch(err){}        
+        catch(err){
+            console.log(err);
+        }        
     }
 }
 
@@ -49,8 +55,7 @@ class MonitorarRadio{
         radios[radioKey].name = radioKey;
 
         radiosMonitoradas.push(new Promise(() => {
-            const monitor = new MonitorarRadio(radios[radioKey], model);
-            monitor.start();
+            (new MonitorarRadio(radios[radioKey], model)).start();
         }));
     }
 

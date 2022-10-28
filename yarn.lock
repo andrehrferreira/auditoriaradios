@@ -893,6 +893,16 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+howler-ctx-close-fix@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/howler-ctx-close-fix/-/howler-ctx-close-fix-2.1.2.tgz#974811791bee823e878d9aa780f77fddeca697da"
+  integrity sha512-H+qIaDVrdqsNRCXvo4ysvKnL/UNycsRYSGq4mB36naXRjCWlsmOaUhBtbV6YhfJrjAZKNGee2EeHVZ0dvQLshQ==
+
+howler@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/howler/-/howler-2.2.3.tgz#a2eff9b08b586798e7a2ee17a602a90df28715da"
+  integrity sha512-QM0FFkw0LRX1PR8pNzJVAY25JhIWvbKMBFM4gqk+QdV+kPXOhleWGCB6AiAF/goGjIHK2e/nIElplvjQwhr0jg==
+
 http-errors@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/http-errors/-/http-errors-2.0.0.tgz#b7774a1486ef73cf7667ac9ae0858c012c57b9d3"

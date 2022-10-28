@@ -7,6 +7,9 @@ let insercoes = {};
 let summaryInsercoes = { lula: 0, bolsonaro: 0 };
 let citacoes = { lula: 0, bolsonaro: 0 };
 
+if(fs.existsSync("insercoes.csv")) 
+    fs.unlinkSync("insercoes.csv");
+
 fs.appendFileSync("insercoes.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n");
 
 (async () => {

@@ -49,24 +49,19 @@ module.exports = class QueueAudio {
         const files = filesTotal.slice(this.skip, this.skip + 100);
 
         for(let file of files){         
-            //if(fs.existsSync(file)){
-                console.log(file);
+            console.log(file);
 
-                const outFile = fs.readFileSync(file, "utf8");
-                const buffer = fs.readFileSync(file.replace(".index", ".wav"));
+            const outFile = fs.readFileSync(file, "utf8");
+            const buffer = fs.readFileSync(file.replace(".index", ".wav"));
 
-                try{ await this.process(buffer, outFile, file); }
-                catch(e){ console.log(e); }
-                
-                this.rec.free();
-                this.rec = null;
+            try{ await this.process(buffer, outFile, file); }
+            catch(e){ console.log(e); }
+            
+            this.rec.free();
+            this.rec = null;
 
-                if(fs.existsSync(file))
-                    fs.unlinkSync(file, () => {});
-
-                if(fs.existsSync(file.replace(".index", ".wav")))
-                    fs.unlinkSync(file.replace(".index", ".wav"), () => {});
-            //}            
+            try{ fs.unlinkSync(file, () => {});} catch(e){ }
+            try{ fs.unlinkSync(file.replace(".index", ".wav"), () => {}); } catch(e){ }           
         }
 
         this.eventLooping();
@@ -94,13 +89,15 @@ module.exports = class QueueAudio {
 
                     if (endSpeech){
                         const result = this.rec.result();
-                        
+
                         if(result.alternatives[0].text !== "")
                             await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`); 
                     }                       
                 }).on("end", async () => {
-                    //if(this.rec.finalResult(this.rec).alternatives[0].text !== "")
-                    //    await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${this.rec.finalResult(this.rec).alternatives[0].text}\n`);
+                    const result = this.rec.finalResult(this.rec);
+                    
+                    if(result.alternatives[0].text !== "")
+                        await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`);
                     
                     resolve();
                 }).on("error", async () => {
