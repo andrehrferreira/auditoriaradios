@@ -8,9 +8,8 @@ $(window).on( "load", async () => {
     $("#citacoesBolsonaro").html(relatorio.total.citacoesBolsonaro.toLocaleString());
     $("#radiosCount").html(relatorio.radiosCount.toLocaleString());
     $("#lastUpdate").html(new Date(relatorio.lastUpdate).toLocaleDateString('pt-BR') + ' ' + new Date(relatorio.lastUpdate).toLocaleTimeString("pt-BR"));
+    $("#queueFiles").html(relatorio.queueFiles.toLocaleString() + " (" + ((relatorio.queueFiles * 15) / 60).toFixed(0) + ` horas de audio` + ")");
 });
-
-
 
 function playRadio(src) {
     

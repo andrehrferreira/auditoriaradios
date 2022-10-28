@@ -1,4 +1,20 @@
 {
+  "Rádio Aliança AM": [
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 03:45:21 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Aliança AM",
+      "local": "Concordia"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 03:45:21 GMT-0300 (Brasilia Standard Time)",
+      "frase": "corrupção no governo lula",
+      "radio": "Rádio Aliança AM",
+      "local": "Concordia"
+    }
+  ],
   "Rádio CBN Belém": [
     {
       "campanha": "Bolsonaro",
@@ -57,11 +73,12 @@
     }
   ],
   "total": {
-    "insercoesLula": 1,
-    "insercoesBolsonaro": 6,
-    "citacoesLula": 139,
-    "citacoesBolsonaro": 103
+    "insercoesLula": 2,
+    "insercoesBolsonaro": 7,
+    "citacoesLula": 157,
+    "citacoesBolsonaro": 128
   },
-  "lastUpdate": 1666942984685,
-  "radiosCount": 1673
+  "lastUpdate": 1666946896935,
+  "radiosCount": 1715,
+  "queueFiles": 22154
 }
