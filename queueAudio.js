@@ -15,10 +15,12 @@
  */
 
 const fs = require('fs');
+const path = require("path");
 const fg = require("fast-glob");
 const AudioContext = require('web-audio-api').AudioContext;
 const WavEncoder = require('wav-encoder');
 const context = new AudioContext();
+const { spawn } = require("child_process");
 const vosk = require("./vosk.js");
 vosk.setLogLevel(0);
 
@@ -44,17 +46,17 @@ module.exports = class QueueAudio {
 
     async eventLooping(){
         const filesTotal = await fg("./tmp/*.index");
-        const files = filesTotal.slice(this.skip, this.skip + 1000);
+        const files = filesTotal.slice(this.skip, this.skip + 100);
 
-        for(let file of files){            
-            if(fs.existsSync(file)){
+        for(let file of files){         
+            //if(fs.existsSync(file)){
                 console.log(file);
 
                 const outFile = fs.readFileSync(file, "utf8");
                 const buffer = fs.readFileSync(file.replace(".index", ".wav"));
 
-                try{ await this.process(buffer, outFile); }
-                catch(e){}
+                try{ await this.process(buffer, outFile, file); }
+                catch(e){ console.log(e); }
                 
                 this.rec.free();
                 this.rec = null;
@@ -64,87 +66,51 @@ module.exports = class QueueAudio {
 
                 if(fs.existsSync(file.replace(".index", ".wav")))
                     fs.unlinkSync(file.replace(".index", ".wav"), () => {});
-            }            
+            //}            
         }
 
         this.eventLooping();
     }
 
-    process(buffer, outFile){
-        return new Promise((resolve, reject) => {
-            let timeout = setTimeout(() => { resolve() }, 5000);
-
+    process(buffer, outFile, filename){
+        return new Promise(async (resolve, reject) => {
             try{
+                const dateTime = path.basename(filename).split("-")[0];
+
                 this.rec = new vosk.Recognizer({ model: this.model, sampleRate: 16000 });
                 this.rec.setMaxAlternatives(1);
                 this.rec.setWords(true);
                 this.rec.setPartialWords(true);
 
-                context.decodeAudioData(buffer, async (audioBuffer) => {
-                    const channels = audioBuffer.numberOfChannels;
-        
-                    if(channels > 0){
-                        const nowBuffering = audioBuffer.getChannelData(0);
-                        //console.log(`Size: `, nowBuffering.length);
+                const ffmpeg_run = spawn('ffmpeg', ['-loglevel', 'quiet', '-i', filename.replace(".index", ".wav"),
+                            '-ar', "16000" , '-ac', '1',
+                            '-f', 's16le', '-bufsize', "4046" , '-']);
 
-                        if(nowBuffering.length < 400000){
-                            WavEncoder.encode({
-                                sampleRate: audioBuffer.sampleRate,
-                                channelData: [nowBuffering]
-                            }).then(async (data) => {  
-                                const buffer = Buffer.from(data);    
-                                
-                                if(buffer.length < 10000000){
-                                    const chunks = this.chunking(buffer, 4096);
-            
-                                    for await (const data of chunks) 
-                                        this.rec.acceptWaveform(data);
-                                    
-                                    const result = this.rec.finalResult(this.rec);
-                
-                                    if (result.alternatives.length > 0){                                        
-                                        //console.log(result.alternatives[0].text);
+                if(!fs.existsSync(`./${outFile}`))
+                    fs.writeFileSync(`./${outFile}`, `\n`);
 
-                                        if(!this.ignoreResults.includes(result.alternatives[0].text)){
-                                            //console.log(fs.existsSync(`./${outFile}`), outFile);
+                ffmpeg_run.stdout.on('data', async (data) => {
+                    const endSpeech = this.rec.acceptWaveform(data);
 
-                                            if(!fs.existsSync(`./${outFile}`))
-                                                await fs.writeFileSync(`./${outFile}`, `[${new Date().getTime()}] - ${result.alternatives[0].text}\n`);
-                                            else
-                                                await fs.appendFileSync(`./${outFile}`, `[${new Date().getTime()}] - ${result.alternatives[0].text}\n`);
-                                        }
-                                    }
-            
-                                    clearTimeout(timeout);
-                                    resolve();
-                                }
-                                else{
-                                    clearTimeout(timeout);
-                                    resolve();
-                                }
-                            }).catch((err) => {
-                                clearTimeout(timeout);
-                                resolve();
-                            });
-                        }
-                        else{
-                            clearTimeout(timeout);
-                            resolve();
-                        }
-                    }
-                    else{
-                        clearTimeout(timeout);
-                        resolve();
-                    }
-                }, (err) => {
-                    clearTimeout(timeout);
+                    if (endSpeech){
+                        const result = this.rec.result();
+                        
+                        if(result.alternatives[0].text !== "")
+                            await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${result.alternatives[0].text}\n`); 
+                    }                       
+                }).on("end", async () => {
+                    //if(this.rec.finalResult(this.rec).alternatives[0].text !== "")
+                    //    await fs.appendFileSync(`./${outFile}`, `[${dateTime.trim()}] - ${this.rec.finalResult(this.rec).alternatives[0].text}\n`);
+                    
+                    resolve();
+                }).on("error", async () => {
                     resolve();
                 });
             }
             catch(err){
-                clearTimeout(timeout);
-                resolve();
+                reject(err);
             }
+            
         });
     }
 }

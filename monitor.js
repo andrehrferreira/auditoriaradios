@@ -26,11 +26,15 @@ class MonitorarRadio{
     start(){
         try{
             fetch(this.radio.url).then(r => r.body).then(res => {
+                console.log(`Connectado ${this.radio.name}...`);
+
                 res.on("readable", () => {
                     const data = res.read();
                     this.gravador.append(data);
                     this.recognizer.append(data);
                 })
+            }).catch(err => {
+                console.log(`Erro ao tentar conectar ${this.radio.name}...`);
             });
         }
         catch(err){}        
@@ -39,13 +43,18 @@ class MonitorarRadio{
 
 (() => {
     const model = new vosk.Model("./model");
+    let radiosMonitoradas = [];
 
     for(let radioKey in radios) {
         radios[radioKey].name = radioKey;
-        console.log(`Connectado ${radios[radioKey].name}...`);
-        const monitor = new MonitorarRadio(radios[radioKey], model);
-        monitor.start();
+
+        radiosMonitoradas.push(new Promise(() => {
+            const monitor = new MonitorarRadio(radios[radioKey], model);
+            monitor.start();
+        }));
     }
+
+    Promise.all(radiosMonitoradas);
 
     //new QueueAudio(model).start();
 })();
