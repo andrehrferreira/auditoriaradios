@@ -18,8 +18,8 @@
       "site": "Feira de Santana",
       "cleanName": "radioglobofeiradesantana",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 3
+        "Lula": 3,
+        "Bolsonaro": 5
       }
     },
     {
@@ -73,8 +73,8 @@
       "site": "comercialfmrb@hotmail.com",
       "cleanName": "radiobarreirasam",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 6
       }
     },
     {
@@ -106,8 +106,8 @@
       "site": "http://www.atardefm.com.br",
       "cleanName": "radioatardefm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 3
+        "Lula": 6,
+        "Bolsonaro": 6
       }
     },
     {
@@ -140,7 +140,7 @@
       "cleanName": "radioexcelsioram",
       "insercoes": {
         "Lula": 3,
-        "Bolsonaro": 2
+        "Bolsonaro": 3
       }
     },
     {
@@ -150,8 +150,8 @@
       "site": "https://sociedadeonline.com",
       "cleanName": "radiosociedadedabahia",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 0
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -172,8 +172,19 @@
       "site": "Guanambi",
       "cleanName": "radiocidadefm",
       "insercoes": {
+        "Bolsonaro": 4,
+        "Lula": 5
+      }
+    },
+    {
+      "name": "Rádio Tropical FM",
+      "location": "Guanambi",
+      "url": "http://tm.radioprofissional.com:7476/",
+      "site": "Guanambi, Brasil",
+      "cleanName": "radiotropicalfm",
+      "insercoes": {
         "Bolsonaro": 1,
-        "Lula": 2
+        "Lula": 0
       }
     },
     {
@@ -194,8 +205,8 @@
       "site": "Salvador",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -205,7 +216,7 @@
       "site": "https://clubefm92.com.br/",
       "cleanName": "radioclubefm",
       "insercoes": {
-        "Bolsonaro": 7,
+        "Bolsonaro": 9,
         "Lula": 3
       }
     },
@@ -230,6 +241,17 @@
         "Bolsonaro": 3,
         "Lula": 2
       }
+    },
+    {
+      "name": "Rádio Tropical FM",
+      "location": "Itamaraju",
+      "url": "http://shout35.crossradio.com.br:8002/",
+      "site": "tropicalfmitamaraju@hotmail.com",
+      "cleanName": "radiotropicalfm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
+      }
     }
   ],
   "SP": [
@@ -241,7 +263,7 @@
       "cleanName": "jovempannewsbarretos",
       "insercoes": {
         "Bolsonaro": 3,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -251,7 +273,7 @@
       "site": "contato@nossaradiofm.com.br",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -284,8 +306,8 @@
       "site": "Olimpia, Brasil",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -306,7 +328,7 @@
       "site": "radioguairaam@gmail.com",
       "cleanName": "radioguaira",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 2,
         "Lula": 0
       }
     },
@@ -317,8 +339,19 @@
       "site": "Barretos",
       "cleanName": "radiojornal",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 2
+        "Bolsonaro": 5,
+        "Lula": 4
+      }
+    },
+    {
+      "name": "Rádio Sertaneja FM",
+      "location": "Barretos",
+      "url": "http://euroticast5.euroti.com.br:8102/",
+      "site": "Barretos",
+      "cleanName": "radiosertanejafm",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
       }
     },
     {
@@ -383,8 +416,8 @@
       "site": "celso@estacao13.com",
       "cleanName": "radiointegracaofm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 11
       }
     },
     {
@@ -394,8 +427,19 @@
       "site": "http://www.radiopiratininga.com",
       "cleanName": "radiopiratiningaam",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 2
+        "Lula": 2,
+        "Bolsonaro": 6
+      }
+    },
+    {
+      "name": "Rádio Praia FM",
+      "location": "Bertioga ",
+      "url": "https://shout25.crossradio.com.br:18046/1",
+      "site": "http://www.praiafm.com.br",
+      "cleanName": "radiopraiafm",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
       }
     },
     {
@@ -405,8 +449,8 @@
       "site": "contato@topfmsp.com.br",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     },
     {
@@ -438,7 +482,7 @@
       "site": "Piracicaba , Brasil",
       "cleanName": "jovempannewspiracicaba",
       "insercoes": {
-        "Bolsonaro": 3,
+        "Bolsonaro": 5,
         "Lula": 0
       }
     },
@@ -460,8 +504,8 @@
       "site": "http://www.radio105fm.com.br",
       "cleanName": "radio105fm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 10
+        "Lula": 4,
+        "Bolsonaro": 22
       }
     },
     {
@@ -473,6 +517,17 @@
       "insercoes": {
         "Bolsonaro": 1,
         "Lula": 1
+      }
+    },
+    {
+      "name": "Rádio Capela FM",
+      "location": "Vinhedo",
+      "url": "http://audio3.cmaudioevideo.com:8513/stream",
+      "site": "http://www.radiocapela.com.br/",
+      "cleanName": "radiocapelafm",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
       }
     },
     {
@@ -493,8 +548,8 @@
       "site": "http://www.fmcidade.com.br",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -504,8 +559,8 @@
       "site": "http://www.clipfm.com.br/",
       "cleanName": "radioclipfm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 2
+        "Lula": 3,
+        "Bolsonaro": 3
       }
     },
     {
@@ -515,8 +570,19 @@
       "site": "http://www.dumontfm.com.br",
       "cleanName": "radiodumontfm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 2
+        "Lula": 5,
+        "Bolsonaro": 4
+      }
+    },
+    {
+      "name": "Rádio Gold 94.7 FM",
+      "location": "Americana",
+      "url": "http://r18.ciclano.io:9621/live",
+      "site": "ti@liberal.com.br",
+      "cleanName": "radiogold947fm",
+      "insercoes": {
+        "Lula": 4,
+        "Bolsonaro": 1
       }
     },
     {
@@ -537,8 +603,8 @@
       "site": "radioluzes@uol.com.br",
       "cleanName": "radioluzesdaribalta",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 6
+        "Bolsonaro": 13,
+        "Lula": 16
       }
     },
     {
@@ -548,8 +614,8 @@
       "site": "radio.mundomelhor@hotmail.com",
       "cleanName": "radiomundomelhorfm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 3
+        "Bolsonaro": 5,
+        "Lula": 5
       }
     },
     {
@@ -560,7 +626,18 @@
       "cleanName": "radioocaminhofm",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 0
+        "Bolsonaro": 2
+      }
+    },
+    {
+      "name": "Rádio Raízes FM",
+      "location": "Capivari",
+      "url": "http://rrdns-capivari.webnow.com.br/raizes.aac",
+      "site": "http://www.raizesfm.com.br",
+      "cleanName": "radioraizesfm",
+      "insercoes": {
+        "Bolsonaro": 6,
+        "Lula": 1
       }
     },
     {
@@ -581,8 +658,8 @@
       "site": "contato@topfmsp.com.br",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     },
     {
@@ -592,8 +669,8 @@
       "site": "http://www.radiovoce.com.br/tocador.asp",
       "cleanName": "radiovoceam",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 0
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -603,8 +680,8 @@
       "site": "Campinas",
       "cleanName": "ric1490rederadioimaculadaconceicao",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 3
       }
     },
     {
@@ -615,7 +692,7 @@
       "cleanName": "superradiosaopaulo",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 0
+        "Bolsonaro": 3
       }
     },
     {
@@ -636,8 +713,19 @@
       "site": "Sao Jose Do Rio Preto, Brasil",
       "cleanName": "radiointerativafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 4
+        "Lula": 2,
+        "Bolsonaro": 5
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "Catanduva",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "Catanduva",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
+        "Lula": 0
       }
     },
     {
@@ -647,7 +735,7 @@
       "site": "contato@nossaradiofm.com.br",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -691,7 +779,7 @@
       "site": "http://www.nossaradio.com.br/",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -702,8 +790,8 @@
       "site": "http://www.90fm.com.br",
       "cleanName": "radioculturafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -724,8 +812,19 @@
       "site": "http://www.nacionalgospel.com.br",
       "cleanName": "radionacionalgospel",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 6
+        "Bolsonaro": 7,
+        "Lula": 9
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "São Paulo",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "São Paulo",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
+        "Lula": 0
       }
     },
     {
@@ -735,8 +834,8 @@
       "site": "https://topfmsp.com.br/",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     },
     {
@@ -746,8 +845,8 @@
       "site": "Sao Roque, Brasil",
       "cleanName": "ric1490rederadioimaculadaconceicao",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 3
       }
     },
     {
@@ -758,7 +857,7 @@
       "cleanName": "superradiosaopaulo",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 0
+        "Bolsonaro": 3
       }
     },
     {
@@ -768,8 +867,8 @@
       "site": "atendimento@miliciadaimaculada.org.br",
       "cleanName": "ric1490rederadioimaculadaconceicao",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 3
       }
     },
     {
@@ -779,8 +878,8 @@
       "site": "contato@topfmsp.com.br",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     },
     {
@@ -812,7 +911,7 @@
       "site": "http://www.radioclube.fm.br",
       "cleanName": "radioclubefm",
       "insercoes": {
-        "Bolsonaro": 7,
+        "Bolsonaro": 9,
         "Lula": 3
       }
     },
@@ -900,7 +999,7 @@
       "site": "http://www.radiosuper.mobi/",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 8,
         "Lula": 4
       }
     },
@@ -933,8 +1032,8 @@
       "site": "http://www.bandfmtupa.com.br",
       "cleanName": "radiobandfmtupa",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 0
+        "Lula": 2,
+        "Bolsonaro": 3
       }
     },
     {
@@ -944,7 +1043,7 @@
       "site": "http://www.radiobeiramar.com.br",
       "cleanName": "radiobeiramarfm",
       "insercoes": {
-        "Lula": 1,
+        "Lula": 5,
         "Bolsonaro": 0
       }
     },
@@ -955,7 +1054,7 @@
       "site": "http://www.radioclubefm.com.br",
       "cleanName": "radioclubefm",
       "insercoes": {
-        "Bolsonaro": 7,
+        "Bolsonaro": 9,
         "Lula": 3
       }
     },
@@ -966,8 +1065,8 @@
       "site": "Araraquara, Brasil",
       "cleanName": "radioculturaam",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 2
+        "Bolsonaro": 10,
+        "Lula": 8
       }
     },
     {
@@ -977,8 +1076,8 @@
       "site": "ti@radiomorada.com.br",
       "cleanName": "radiomoradadosolfm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 1
+        "Lula": 6,
+        "Bolsonaro": 2
       }
     },
     {
@@ -989,6 +1088,17 @@
       "cleanName": "radionovatupa",
       "insercoes": {
         "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "São Carlos",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "São Carlos, Brasil",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
         "Lula": 0
       }
     },
@@ -1012,7 +1122,7 @@
       "site": "contato@nossaradiofm.com.br",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -1045,8 +1155,8 @@
       "site": "http://www.radioliberal.com.br",
       "cleanName": "radioliberalfm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 13
+        "Bolsonaro": 13,
+        "Lula": 17
       }
     },
     {
@@ -1056,8 +1166,8 @@
       "site": "radionazare@fundacaonazare.com.br",
       "cleanName": "radionazarefm",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 6
+        "Bolsonaro": 7,
+        "Lula": 9
       }
     },
     {
@@ -1067,8 +1177,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     },
     {
@@ -1078,8 +1188,8 @@
       "site": "http://fmliberdadebelem.com.br/novo.html",
       "cleanName": "radiofmliberdade",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 3
+        "Bolsonaro": 11,
+        "Lula": 4
       }
     },
     {
@@ -1090,7 +1200,7 @@
       "cleanName": "radiocidadefmtubarao",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 4
+        "Bolsonaro": 18
       }
     },
     {
@@ -1111,8 +1221,8 @@
       "site": "midia@fundacaoeducadora.com.br",
       "cleanName": "radioeducadoraam",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 5
+        "Bolsonaro": 2,
+        "Lula": 8
       }
     },
     {
@@ -1144,8 +1254,8 @@
       "site": "http://www.correiosat.com.br/?radio=2",
       "cleanName": "radio98fmcampinagrande",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 4
+        "Bolsonaro": 8,
+        "Lula": 6
       }
     },
     {
@@ -1155,7 +1265,7 @@
       "site": "elson@sistemacorreio.com.br",
       "cleanName": "radioguarabirafm",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 3,
         "Lula": 0
       }
     },
@@ -1166,8 +1276,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
@@ -1190,8 +1300,8 @@
       "site": "murilo@tvserradourada.com.br",
       "cleanName": "radio995fm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 3
+        "Lula": 7,
+        "Bolsonaro": 6
       }
     },
     {
@@ -1201,8 +1311,8 @@
       "site": "http://www.bandeirantes820.com.br/",
       "cleanName": "radiobandeirantesgoiania",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -1234,8 +1344,8 @@
       "site": "contato@radioimprensa.am.br",
       "cleanName": "radioimprensafm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 4
+        "Lula": 3,
+        "Bolsonaro": 7
       }
     },
     {
@@ -1246,7 +1356,18 @@
       "cleanName": "radiointerativafmgoiania",
       "insercoes": {
         "Bolsonaro": 2,
-        "Lula": 3
+        "Lula": 4
+      }
+    },
+    {
+      "name": "Rádio Positiva FM",
+      "location": "Goiania",
+      "url": "http://suaradio1.dyndns.ws:13523/stream",
+      "site": "https://www.positivafm.com.br/",
+      "cleanName": "radiopositivafm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
       }
     },
     {
@@ -1256,8 +1377,8 @@
       "site": "http://sagresonline.com.br/",
       "cleanName": "radiosagres730am",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 2
+        "Lula": 7,
+        "Bolsonaro": 9
       }
     },
     {
@@ -1278,8 +1399,8 @@
       "site": "contato@topfmsp.com.br",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     },
     {
@@ -1289,8 +1410,19 @@
       "site": "Goiânia, Brasil",
       "cleanName": "radiouniversitariaufg",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Lula": 8,
+        "Bolsonaro": 5
+      }
+    },
+    {
+      "name": "Rádio Vinha FM",
+      "location": "Goiania",
+      "url": "http://streaming.vinhafm.com.br/stream",
+      "site": "http://vinhafm.com/",
+      "cleanName": "radiovinhafm",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
       }
     },
     {
@@ -1300,8 +1432,8 @@
       "site": "Goiânia, Brasil",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -1313,6 +1445,17 @@
       "insercoes": {
         "Lula": 3,
         "Bolsonaro": 0
+      }
+    },
+    {
+      "name": "Rádio Tropical FM",
+      "location": "Goiânia",
+      "url": "http://192.99.4.205:8636/",
+      "site": "http://www.radiotropicalcn.com.br",
+      "cleanName": "radiotropicalfm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
       }
     }
   ],
@@ -1335,8 +1478,8 @@
       "site": "Pernambuco",
       "cleanName": "radioculturafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     }
   ],
@@ -1348,8 +1491,8 @@
       "site": "http://www.fm103.com.br/",
       "cleanName": "103fmaracaju",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 0
+        "Lula": 7,
+        "Bolsonaro": 3
       }
     },
     {
@@ -1370,7 +1513,7 @@
       "site": "100.7@eldoradfm.com",
       "cleanName": "radioeldoradofm",
       "insercoes": {
-        "Lula": 3,
+        "Lula": 4,
         "Bolsonaro": 2
       }
     },
@@ -1381,8 +1524,8 @@
       "site": "contato@radioesperancaestancia.com.br",
       "cleanName": "radioesperancaestancia",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 5
+        "Lula": 4,
+        "Bolsonaro": 6
       }
     },
     {
@@ -1392,8 +1535,8 @@
       "site": "ti@redefanfm.com.br",
       "cleanName": "radiofanfm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 3
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -1403,8 +1546,8 @@
       "site": "Aracaju",
       "cleanName": "radiofanfmcarmopolis",
       "insercoes": {
-        "Bolsonaro": 5,
-        "Lula": 1
+        "Bolsonaro": 8,
+        "Lula": 2
       }
     },
     {
@@ -1414,8 +1557,8 @@
       "site": "fmitabaiana@fmitabaiana.com.br",
       "cleanName": "radiofmitabaiana",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -1436,8 +1579,8 @@
       "site": "Aracaju",
       "cleanName": "radioitabaianafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 2
+        "Lula": 3,
+        "Bolsonaro": 3
       }
     },
     {
@@ -1447,8 +1590,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     },
     {
@@ -1458,8 +1601,19 @@
       "site": "http://www.xodofm.com.br",
       "cleanName": "radioxodofm",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 6,
         "Bolsonaro": 0
+      }
+    },
+    {
+      "name": "Rádio Xodó FM Aracaju",
+      "location": "Aracaju",
+      "url": "http://09.stmip.net:8824/",
+      "site": "Aracaju",
+      "cleanName": "radioxodofmaracaju",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 2
       }
     }
   ],
@@ -1471,7 +1625,7 @@
       "site": "america@radioamerica.com.br",
       "cleanName": "radioamericaam",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 2,
         "Lula": 2
       }
     },
@@ -1482,8 +1636,8 @@
       "site": "http://radioculturafm.com.br/",
       "cleanName": "radioculturafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -1537,8 +1691,8 @@
       "site": "Uberlandia, Brasil",
       "cleanName": "radiovitoriosafmuberlandia",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 2
+        "Lula": 10,
+        "Bolsonaro": 8
       }
     },
     {
@@ -1575,14 +1729,25 @@
       }
     },
     {
+      "name": "Educativa Inatel",
+      "location": "Santa Rita Do Sapucai",
+      "url": "https://educativainatel.radioca.st/",
+      "site": "https://inatel.br/radio/",
+      "cleanName": "educativainatel",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
+      }
+    },
+    {
       "name": "Itatiaia FM Belo Horizonte",
       "location": "Belo Horizonte",
       "url": "https://8903.brasilstream.com.br/stream",
       "site": "http://www.itatiaia.com.br",
       "cleanName": "itatiaiafmbelohorizonte",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 0
+        "Bolsonaro": 6,
+        "Lula": 2
       }
     },
     {
@@ -1592,8 +1757,8 @@
       "site": "https://www.jovempanbh.com.br/",
       "cleanName": "jovempanfmbelohorizonte",
       "insercoes": {
-        "Bolsonaro": 5,
-        "Lula": 1
+        "Bolsonaro": 6,
+        "Lula": 3
       }
     },
     {
@@ -1603,8 +1768,8 @@
       "site": "http://ipatinga.jovempanfm.uol.com.br/",
       "cleanName": "jovempanfmipatinga",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 2
+        "Lula": 8,
+        "Bolsonaro": 9
       }
     },
     {
@@ -1625,8 +1790,8 @@
       "site": "Mariana",
       "cleanName": "marianafm",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 8
+        "Bolsonaro": 13,
+        "Lula": 15
       }
     },
     {
@@ -1707,6 +1872,17 @@
       }
     },
     {
+      "name": "Rádio Aparecida do Sul",
+      "location": "Belo Horizonte",
+      "url": "http://streaming05.maxcast.com.br:8260/live",
+      "site": "Belo Horizonte, Brasil",
+      "cleanName": "radioaparecidadosul",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
+      }
+    },
+    {
       "name": "Rádio Atenas FM",
       "location": "Alfenas",
       "url": "http://streaming15.hstbr.net:8002/live",
@@ -1724,8 +1900,8 @@
       "site": "junior98.7fm@gmail.com",
       "cleanName": "radiobomjesus98fm",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 1
+        "Bolsonaro": 8,
+        "Lula": 3
       }
     },
     {
@@ -1746,8 +1922,8 @@
       "site": "http://cdlfm.com.br/",
       "cleanName": "radiocdl",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 0
+        "Lula": 4,
+        "Bolsonaro": 2
       }
     },
     {
@@ -1757,8 +1933,8 @@
       "site": "comercial@radiocidadearaxa.com.br",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -1768,8 +1944,8 @@
       "site": "comercial@radiocidadecaratinga.com.br",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -1790,8 +1966,8 @@
       "site": "Inhapim, Brasil",
       "cleanName": "radioclubedeinhapim",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 0
+        "Lula": 5,
+        "Bolsonaro": 1
       }
     },
     {
@@ -1801,7 +1977,7 @@
       "site": "ouvinte@fmclube.com.br",
       "cleanName": "radioclubefm",
       "insercoes": {
-        "Bolsonaro": 7,
+        "Bolsonaro": 9,
         "Lula": 3
       }
     },
@@ -1825,6 +2001,17 @@
       "insercoes": {
         "Bolsonaro": 2,
         "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio DC2 Fm",
+      "location": "Oliveira",
+      "url": "https://9937.brasilstream.com.br/stream",
+      "site": "Oliveira, Brasil",
+      "cleanName": "radiodc2fm",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
       }
     },
     {
@@ -1867,8 +2054,8 @@
       "site": "ouvinte@educadora.com.br",
       "cleanName": "radioeducadoraam",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 5
+        "Bolsonaro": 2,
+        "Lula": 8
       }
     },
     {
@@ -1878,8 +2065,8 @@
       "site": "http://www.expressofm.com.br",
       "cleanName": "radioexpressofm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 5,
+        "Bolsonaro": 6
       }
     },
     {
@@ -1888,6 +2075,28 @@
       "url": "http://srv05.brasilstream.com.br:8148/stream",
       "site": "http://www.fmliberdade.com",
       "cleanName": "radiofmliberdade",
+      "insercoes": {
+        "Bolsonaro": 11,
+        "Lula": 4
+      }
+    },
+    {
+      "name": "Rádio Fonte de Vida",
+      "location": "Belo Horizonte",
+      "url": "https://casthttps1.suaradionanet.net/13689/stream",
+      "site": "Belo Horizonte, Brasil",
+      "cleanName": "radiofontedevida",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio Gospa Mira FM",
+      "location": "Belo Horizonte",
+      "url": "http://srv05.brasilstream.com.br:8337/stream",
+      "site": "gospamirafm@gmail.com",
+      "cleanName": "radiogospamirafm",
       "insercoes": {
         "Bolsonaro": 4,
         "Lula": 3
@@ -1933,8 +2142,8 @@
       "site": "celso@estacao13.com",
       "cleanName": "radiointegracaofm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 11
       }
     },
     {
@@ -1955,7 +2164,7 @@
       "site": "Juiz de Fora",
       "cleanName": "radioitatiaiafmjuizdefora",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 8,
         "Lula": 1
       }
     },
@@ -1966,8 +2175,8 @@
       "site": "Carmo do Paranaiba",
       "cleanName": "radioliberalfm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 13
+        "Bolsonaro": 13,
+        "Lula": 17
       }
     },
     {
@@ -1988,8 +2197,8 @@
       "site": "http://radiolider.net.br",
       "cleanName": "radioliderfmvaledoaco",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 1
+        "Bolsonaro": 7,
+        "Lula": 3
       }
     },
     {
@@ -1999,8 +2208,19 @@
       "site": "http://www.radiomaxima.com.br/site/index.php",
       "cleanName": "radiomaximafm",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 1
+        "Bolsonaro": 4,
+        "Lula": 5
+      }
+    },
+    {
+      "name": "Rádio Mega Hits",
+      "location": "Visconde do Rio Branco",
+      "url": "http://streaming.tdhost.com.br:8074/",
+      "site": "https://www.radiomegahits.com.br/",
+      "cleanName": "radiomegahits",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
       }
     },
     {
@@ -2021,8 +2241,8 @@
       "site": "Cataguases, Brasil",
       "cleanName": "radiomultisomcataguases",
       "insercoes": {
-        "Lula": 5,
-        "Bolsonaro": 6
+        "Lula": 9,
+        "Bolsonaro": 8
       }
     },
     {
@@ -2032,8 +2252,8 @@
       "site": "Tres Pontas, Brasil",
       "cleanName": "radionacionalgospel",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 6
+        "Bolsonaro": 7,
+        "Lula": 9
       }
     },
     {
@@ -2043,8 +2263,8 @@
       "site": "http://www.nossafm105.com",
       "cleanName": "radionossafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 3
       }
     },
     {
@@ -2065,7 +2285,7 @@
       "site": "https://fm107.com.br/",
       "cleanName": "radioouro107fm",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 0
       }
     },
@@ -2081,6 +2301,28 @@
       }
     },
     {
+      "name": "Rádio Santa Cruz",
+      "location": "Belo Horizonte",
+      "url": "http://suaradio1.dyndns.ws:10204/stream",
+      "site": "rscjequi@uai.com.br",
+      "cleanName": "radiosantacruz",
+      "insercoes": {
+        "Bolsonaro": 7,
+        "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio Studio FM",
+      "location": "Belo Horizonte",
+      "url": "http://svrstream1.svreua.com:8294/",
+      "site": "Belo Horizonte, Brasil",
+      "cleanName": "radiostudiofm",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Rádio Sucesso Bambuí Fm",
       "location": "Belo Horizonte",
       "url": "http://wms5.webradios.com.br:9070/9070",
@@ -2088,7 +2330,7 @@
       "cleanName": "radiosucessobambuifm",
       "insercoes": {
         "Bolsonaro": 2,
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -2098,7 +2340,7 @@
       "site": "Belo Horizonte, Brasil",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 8,
         "Lula": 4
       }
     },
@@ -2169,14 +2411,25 @@
       }
     },
     {
+      "name": "Radio Boa Nova FM",
+      "location": "Guarda Mor",
+      "url": "http://stm51.fusionsolucoes.com.br:10938/",
+      "site": "Guarda Mor",
+      "cleanName": "radioboanovafm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Rádio Cultura",
       "location": "Poços de Caldas",
       "url": "http://centova13.ciclanohost.com.br:8570/live",
       "site": "Poços de Caldas, Brasil",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -2186,8 +2439,8 @@
       "site": "radiocomunidadeviva@gmail.com",
       "cleanName": "radiointerativafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 4
+        "Lula": 2,
+        "Bolsonaro": 5
       }
     },
     {
@@ -2197,8 +2450,8 @@
       "site": "nativafm@nativapacos.com.br",
       "cleanName": "radionativafmpocosdecaldas",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 2,
+        "Bolsonaro": 7
       }
     },
     {
@@ -2219,8 +2472,8 @@
       "site": "Uberaba, Brasil",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     }
   ],
@@ -2232,8 +2485,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
@@ -2245,8 +2498,8 @@
       "site": "Santa Fe",
       "cleanName": "radiosantafe",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 0
+        "Bolsonaro": 9,
+        "Lula": 1
       }
     },
     {
@@ -2278,8 +2531,8 @@
       "site": "Maringá",
       "cleanName": "pingafogofm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -2289,8 +2542,8 @@
       "site": "Curitiba, Brasil",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -2300,8 +2553,8 @@
       "site": "Arapongas",
       "cleanName": "radioculturaamarapongas",
       "insercoes": {
-        "Bolsonaro": 5,
-        "Lula": 5
+        "Bolsonaro": 9,
+        "Lula": 12
       }
     },
     {
@@ -2322,8 +2575,8 @@
       "site": "Curitiba, Brasil",
       "cleanName": "radioiguassu",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 7
+        "Lula": 9,
+        "Bolsonaro": 8
       }
     },
     {
@@ -2360,6 +2613,17 @@
       }
     },
     {
+      "name": "Rádio Tropical FM",
+      "location": "Curitiba",
+      "url": "http://str81.aovivonanet.com:9944/",
+      "site": "tropical1063@gmail.com",
+      "cleanName": "radiotropicalfm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Jovem Pan FM São Paulo",
       "location": "Foz do Iguaçu",
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMTEyNCwiaXNzIjoidGlzcnYifQ.U6TGuB-l0hI9LC8sa1c9YXe9ImEzZKmmojid0FevKg0",
@@ -2371,14 +2635,36 @@
       }
     },
     {
+      "name": "Rádio Band FM Foz",
+      "location": "Foz do Iguaçu",
+      "url": "http://radio.saopaulo01.com.br:8006/",
+      "site": "http://www.bandfmfoz.com.br",
+      "cleanName": "radiobandfmfoz",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
+      }
+    },
+    {
       "name": "Rádio Cidade FM",
       "location": "Foz do Iguaçu",
       "url": "https://ice.fabricahost.com.br/cidadefmfoz",
       "site": "edson@cidadefmfoz.com.br",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "Foz do Iguaçu",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "Foz do Iguaçu, Brasil",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
+        "Lula": 0
       }
     }
   ],
@@ -2434,8 +2720,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     },
     {
@@ -2445,8 +2731,8 @@
       "site": "Maceió",
       "cleanName": "ric1490rederadioimaculadaconceicao",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 3
       }
     }
   ],
@@ -2469,8 +2755,8 @@
       "site": "contato@radioalternativafm.org",
       "cleanName": "alternativafmeldorado",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 0
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -2481,7 +2767,7 @@
       "cleanName": "radiocapitalfm95",
       "insercoes": {
         "Bolsonaro": 3,
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -2491,8 +2777,8 @@
       "site": "Campo Grande",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -2502,7 +2788,7 @@
       "site": "Campo Grande",
       "cleanName": "radioclubefm",
       "insercoes": {
-        "Bolsonaro": 7,
+        "Bolsonaro": 9,
         "Lula": 3
       }
     },
@@ -2513,8 +2799,8 @@
       "site": "contato@cultura104.com.br",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -2535,7 +2821,7 @@
       "site": "Campo Grande",
       "cleanName": "radioeldoradofm",
       "insercoes": {
-        "Lula": 3,
+        "Lula": 4,
         "Bolsonaro": 2
       }
     },
@@ -2546,8 +2832,8 @@
       "site": "http://www.cidade97.com",
       "cleanName": "radiofmcidade97",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 1
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -2579,8 +2865,8 @@
       "site": "http://moradafm.com.br/",
       "cleanName": "radiomoradadosolfm",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 1
+        "Lula": 6,
+        "Bolsonaro": 2
       }
     },
     {
@@ -2590,8 +2876,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     },
     {
@@ -2612,7 +2898,7 @@
       "site": "https://jovempan.com.br/afiliada/natal-fm",
       "cleanName": "jovempanfmnatal",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 10,
         "Lula": 1
       }
     },
@@ -2634,8 +2920,8 @@
       "site": "Natal, Brasil",
       "cleanName": "radio105fm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 10
+        "Lula": 4,
+        "Bolsonaro": 22
       }
     },
     {
@@ -2645,8 +2931,8 @@
       "site": "http://www.radio98.fm.br",
       "cleanName": "radio98fmnatal",
       "insercoes": {
-        "Lula": 5,
-        "Bolsonaro": 5
+        "Lula": 6,
+        "Bolsonaro": 7
       }
     },
     {
@@ -2656,8 +2942,8 @@
       "site": "Natal, Brasil",
       "cleanName": "radiocbnnatal",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 7
       }
     },
     {
@@ -2678,12 +2964,23 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
   "CE": [
+    {
+      "name": "Rádio SomZoom Sat Fortaleza",
+      "location": "Cariri",
+      "url": "http://stream.7br.com.br:10102/stream",
+      "site": "Cariri",
+      "cleanName": "radiosomzoomsatfortaleza",
+      "insercoes": {
+        "Lula": 2,
+        "Bolsonaro": 0
+      }
+    },
     {
       "name": "Jovem Pan FM São Paulo",
       "location": "Fortaleza",
@@ -2703,7 +3000,7 @@
       "cleanName": "radiocidadefortaleza",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -2713,8 +3010,8 @@
       "site": "http://www.am1080.com.br",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -2751,6 +3048,17 @@
       }
     },
     {
+      "name": "Rádio Princesa do Vale FM",
+      "location": "Fortaleza",
+      "url": "http://216.245.217.18:8040/live",
+      "site": "contato@princesadovalefm.com.br",
+      "cleanName": "radioprincesadovalefm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Rádio Princesa FM",
       "location": "Crato",
       "url": "http://stm37.conectastm.com:7822/",
@@ -2768,8 +3076,19 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
+      }
+    },
+    {
+      "name": "Rádio SomZoom Sat Fortaleza",
+      "location": "Fortaleza",
+      "url": "http://stream.7br.com.br:10102/stream",
+      "site": "somzoom@hotmail.com",
+      "cleanName": "radiosomzoomsatfortaleza",
+      "insercoes": {
+        "Lula": 2,
+        "Bolsonaro": 0
       }
     }
   ],
@@ -2792,8 +3111,8 @@
       "site": "gerentecomercial@radio105fm.net",
       "cleanName": "radio105fm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 10
+        "Lula": 4,
+        "Bolsonaro": 22
       }
     },
     {
@@ -2814,8 +3133,8 @@
       "site": "http://www.radioararangua.com.br/",
       "cleanName": "radiobandeirantesararangua",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 1
+        "Bolsonaro": 9,
+        "Lula": 4
       }
     },
     {
@@ -2825,8 +3144,8 @@
       "site": "http://portalgcr.com.br/",
       "cleanName": "radiocidadeemdia",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 2
+        "Bolsonaro": 5,
+        "Lula": 3
       }
     },
     {
@@ -2847,8 +3166,8 @@
       "site": "integracao@integracaofm.com ",
       "cleanName": "radiointegracaofm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 11
       }
     },
     {
@@ -2858,8 +3177,8 @@
       "site": "mampituba@mampitubafm.com",
       "cleanName": "radiomampitubafm",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 1
+        "Bolsonaro": 9,
+        "Lula": 5
       }
     },
     {
@@ -2880,8 +3199,8 @@
       "site": "http://www.sommaiorfm.com.br",
       "cleanName": "radiosommaiorfm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 1
+        "Bolsonaro": 9,
+        "Lula": 5
       }
     },
     {
@@ -2902,8 +3221,8 @@
       "site": "Blumenau , Brasil",
       "cleanName": "radiocbnblumenau",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 2
+        "Bolsonaro": 12,
+        "Lula": 6
       }
     },
     {
@@ -2924,8 +3243,8 @@
       "site": "http://clubei.com/",
       "cleanName": "radioclubedesaojoaobatista",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 0
+        "Bolsonaro": 6,
+        "Lula": 2
       }
     },
     {
@@ -2935,8 +3254,8 @@
       "site": "conceicaofm@conceicaofm.com.br",
       "cleanName": "radioconceicao1059fm",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 1
+        "Bolsonaro": 6,
+        "Lula": 2
       }
     },
     {
@@ -2947,7 +3266,7 @@
       "cleanName": "radiodeuseamorportobelo",
       "insercoes": {
         "Bolsonaro": 1,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -2968,8 +3287,8 @@
       "site": "Itajaí, Brasil",
       "cleanName": "radiodifusoraitajai",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 0
+        "Bolsonaro": 5,
+        "Lula": 2
       }
     },
     {
@@ -2990,8 +3309,19 @@
       "site": "atendimento@radiopomerode.com.br",
       "cleanName": "radiopomerode",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 0
+        "Lula": 4,
+        "Bolsonaro": 3
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "Blumenau",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "Blumenau, Brasil",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
+        "Lula": 0
       }
     },
     {
@@ -3023,8 +3353,8 @@
       "site": "comercial104@demais.fm.br",
       "cleanName": "demaisfmpresidentegetulio",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 1
+        "Bolsonaro": 13,
+        "Lula": 6
       }
     },
     {
@@ -3034,8 +3364,8 @@
       "site": "https://www.fm105.com.br/",
       "cleanName": "radio105fm",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 10
+        "Lula": 4,
+        "Bolsonaro": 22
       }
     },
     {
@@ -3045,8 +3375,8 @@
       "site": "Corupa, Brasil",
       "cleanName": "radiocorupafm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 9,
+        "Lula": 5
       }
     },
     {
@@ -3056,8 +3386,8 @@
       "site": "http://www.radioculturaam.com.br",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -3067,7 +3397,7 @@
       "site": "https://www.supernova.fm/",
       "cleanName": "radiosupernova",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 1
       }
     },
@@ -3078,7 +3408,7 @@
       "site": "estudio@radiofraiburgo.am.br",
       "cleanName": "radiofraiburgoam",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 2,
         "Lula": 2
       }
     },
@@ -3089,8 +3419,19 @@
       "site": "contato@massafm.com.br",
       "cleanName": "radiomassafmcacador",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 1
+        "Bolsonaro": 5,
+        "Lula": 2
+      }
+    },
+    {
+      "name": "Rádio Vitória AM",
+      "location": "Videira",
+      "url": "http://paineldj.com.br:11578/",
+      "site": "http://www.radiovitoriaam.com.br",
+      "cleanName": "radiovitoriaam",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
       }
     },
     {
@@ -3105,14 +3446,25 @@
       }
     },
     {
+      "name": "Rádio Aliança AM",
+      "location": "Concordia",
+      "url": "http://192.99.35.31:8739/",
+      "site": "http://www.radioalianca.com.br/",
+      "cleanName": "radioaliancaam",
+      "insercoes": {
+        "Lula": 2,
+        "Bolsonaro": 3
+      }
+    },
+    {
       "name": "Rádio Cultura AM",
       "location": "Xaxim",
       "url": "http://65.182.104.113:58000/",
       "site": "cultura@radioculturaxaxim.com.br",
       "cleanName": "radioculturaam",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 2
+        "Bolsonaro": 10,
+        "Lula": 8
       }
     },
     {
@@ -3138,14 +3490,25 @@
       }
     },
     {
+      "name": "Rádio Studio FM",
+      "location": "Ita",
+      "url": "http://11.stmip.net:9418/",
+      "site": "Ita, Brasil",
+      "cleanName": "radiostudiofm",
+      "insercoes": {
+        "Bolsonaro": 0,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Rádio Cidade FM",
       "location": "Otacilio Costa",
       "url": "http://streaming06.hstbr.net:8042/live",
       "site": "Otacilio Costa",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -3166,7 +3529,7 @@
       "site": "http://www.superfm89.com.br",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 8,
         "Lula": 4
       }
     }
@@ -3179,8 +3542,8 @@
       "site": "culturabageam@hotmail.com",
       "cleanName": "radiocultura",
       "insercoes": {
-        "Lula": 8,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 11
       }
     },
     {
@@ -3190,8 +3553,8 @@
       "site": "Bage, Brasil",
       "cleanName": "radiodeltafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -3223,7 +3586,7 @@
       "site": "Carlos Barbosa, Brasil",
       "cleanName": "radioestacaofm",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 3,
         "Lula": 2
       }
     },
@@ -3234,8 +3597,8 @@
       "site": "atlantico105.1fm@hotmail.com",
       "cleanName": "radioatlanticofm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 7,
+        "Lula": 3
       }
     },
     {
@@ -3246,7 +3609,7 @@
       "cleanName": "jovempannewsimbe",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 1
+        "Bolsonaro": 4
       }
     },
     {
@@ -3256,8 +3619,8 @@
       "site": "comercial@massafmserragaucha.com.br",
       "cleanName": "radiomassafmserragaucha",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 5
+        "Lula": 2,
+        "Bolsonaro": 7
       }
     },
     {
@@ -3267,8 +3630,8 @@
       "site": "https://fminterativa.com.br/",
       "cleanName": "radiointerativafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 4
+        "Lula": 2,
+        "Bolsonaro": 5
       }
     },
     {
@@ -3322,8 +3685,8 @@
       "site": "radioceres@radioceres.com.br",
       "cleanName": "radioceres",
       "insercoes": {
-        "Bolsonaro": 8,
-        "Lula": 1
+        "Bolsonaro": 15,
+        "Lula": 4
       }
     },
     {
@@ -3344,8 +3707,19 @@
       "site": "radioliberalfm@radioliberalfm.com.br",
       "cleanName": "radioliberalfm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 13
+        "Bolsonaro": 13,
+        "Lula": 17
+      }
+    },
+    {
+      "name": "Rádio Palmeira FM",
+      "location": "Porto Alegre",
+      "url": "http://192.163.244.136:7018/",
+      "site": "Porto Alegre",
+      "cleanName": "radiopalmeirafm",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 1
       }
     },
     {
@@ -3355,8 +3729,8 @@
       "site": "operadores@radiosantacruz.com.br",
       "cleanName": "radiosantacruzam550khz",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 2
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -3390,8 +3764,8 @@
       "site": "http://www.tvtapajos.com.br/94fm/",
       "cleanName": "radio94fmsantarem",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 6,
+        "Bolsonaro": 4
       }
     },
     {
@@ -3447,12 +3821,23 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
   "DF": [
+    {
+      "name": "Jovem Pan FM Brasília",
+      "location": "Brasília",
+      "url": "https://ssl1.transmissaodigital.com:2274/stream",
+      "site": "https://jovempan.uol.com.br/afiliada/brasilia-fm",
+      "cleanName": "jovempanfmbrasilia",
+      "insercoes": {
+        "Lula": 2,
+        "Bolsonaro": 1
+      }
+    },
     {
       "name": "Rádio Atividade FM Brasília",
       "location": "Brasília",
@@ -3460,8 +3845,8 @@
       "site": "https://atividade.fm/",
       "cleanName": "radioatividadefmbrasilia",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 3
+        "Bolsonaro": 6,
+        "Lula": 6
       }
     },
     {
@@ -3493,7 +3878,18 @@
       "site": "http://www.novaalianca.org.br",
       "cleanName": "radionovaaliancaam",
       "insercoes": {
-        "Bolsonaro": 3,
+        "Bolsonaro": 6,
+        "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio Real São Carlos",
+      "location": "Brasília",
+      "url": "http://servidor33.brlogic.com:8498/live",
+      "site": "Brasília, Brasil",
+      "cleanName": "radiorealsaocarlos",
+      "insercoes": {
+        "Bolsonaro": 7,
         "Lula": 0
       }
     },
@@ -3504,8 +3900,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     },
     {
@@ -3515,8 +3911,8 @@
       "site": "contato@topfmsp.com.br",
       "cleanName": "radiotopfmsaopaulo",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 10
+        "Lula": 8,
+        "Bolsonaro": 21
       }
     }
   ],
@@ -3528,8 +3924,8 @@
       "site": "Pedreiras , Brasil",
       "cleanName": "radiocidadefm",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 2
+        "Bolsonaro": 4,
+        "Lula": 5
       }
     },
     {
@@ -3574,7 +3970,7 @@
       "site": "http://www.jovempanitaperuna.com.br",
       "cleanName": "jovempanfmitaperuna",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 3,
         "Lula": 3
       }
     },
@@ -3585,7 +3981,7 @@
       "site": "contato@nossaradiofm.com.br",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -3596,8 +3992,8 @@
       "site": "http://www.radiomanchete.com.br",
       "cleanName": "radiomancheteam",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -3618,8 +4014,19 @@
       "site": "http://www.ucpfm.com.br",
       "cleanName": "radioucpfm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 3
+        "Bolsonaro": 5,
+        "Lula": 4
+      }
+    },
+    {
+      "name": "Rádio Positiva FM",
+      "location": "Rio de Janeiro",
+      "url": "http://stm37.conectastm.com:6888/",
+      "site": "contato@radiopositivafm.com.br",
+      "cleanName": "radiopositivafm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
       }
     }
   ],
@@ -3631,7 +4038,7 @@
       "site": "contato@nossaradiofm.com.br",
       "cleanName": "nossaradiosaopaulo",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 6,
         "Lula": 4
       }
     },
@@ -3653,8 +4060,8 @@
       "site": "interativa87@gmail.com",
       "cleanName": "radiointerativafm",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 4
+        "Lula": 2,
+        "Bolsonaro": 5
       }
     },
     {
@@ -3686,8 +4093,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
@@ -3701,6 +4108,17 @@
       "insercoes": {
         "Lula": 1,
         "Bolsonaro": 0
+      }
+    },
+    {
+      "name": "Rádio Boa Nova FM",
+      "location": "Dourados",
+      "url": "http://hts08.kshost.com.br:12080/",
+      "site": "Dourados, Brasil",
+      "cleanName": "radioboanovafm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
       }
     },
     {
@@ -3721,8 +4139,8 @@
       "site": "Dourados, Brasil",
       "cleanName": "ric1490rederadioimaculadaconceicao",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Lula": 4,
+        "Bolsonaro": 3
       }
     },
     {
@@ -3732,7 +4150,7 @@
       "site": "contato@radiopantanalfm.com.br",
       "cleanName": "radiopantanalfm",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 5,
         "Lula": 0
       }
     }
@@ -3756,12 +4174,23 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
   "PE": [
+    {
+      "name": "Rádio Belo Jardim",
+      "location": "Belo Jardim",
+      "url": "http://69.30.202.98:8320/",
+      "site": "Belo Jardim, Brasil",
+      "cleanName": "radiobelojardim",
+      "insercoes": {
+        "Lula": 1,
+        "Bolsonaro": 0
+      }
+    },
     {
       "name": "Jovem Pan FM São Paulo",
       "location": "Bezerros",
@@ -3780,8 +4209,8 @@
       "site": "http://integracaofmsurubim.com.br/",
       "cleanName": "radiointegracaofm",
       "insercoes": {
-        "Bolsonaro": 7,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 11
       }
     },
     {
@@ -3807,14 +4236,25 @@
       }
     },
     {
+      "name": "Rádio Tropical FM",
+      "location": "Recife",
+      "url": "http://198.24.165.180:9762/",
+      "site": "tropicalfmrecife@gmail.com",
+      "cleanName": "radiotropicalfm",
+      "insercoes": {
+        "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
       "name": "Rádio Cultura FM",
       "location": "Santa Cruz do Capibaribe",
       "url": "http://hd5.matutos.com.br:9256/",
       "site": "Santa Cruz do Capibaribe, Brasil",
       "cleanName": "radioculturafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -3838,6 +4278,17 @@
       "cleanName": "bandnewsfmmanaus",
       "insercoes": {
         "Bolsonaro": 1,
+        "Lula": 0
+      }
+    },
+    {
+      "name": "Rádio Tiradentes Manaus",
+      "location": "Manaus",
+      "url": "http://189.2.83.108:8040/tiradentes",
+      "site": "Manaus",
+      "cleanName": "radiotiradentesmanaus",
+      "insercoes": {
+        "Bolsonaro": 0,
         "Lula": 0
       }
     }
@@ -3873,8 +4324,8 @@
       "site": "Vitoria",
       "cleanName": "radioculturafm",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 0
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -3897,8 +4348,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ],
@@ -3910,8 +4361,8 @@
       "site": "radio@senado.gov.br",
       "cleanName": "radiosenadobrasilia",
       "insercoes": {
-        "Lula": 7,
-        "Bolsonaro": 5
+        "Lula": 14,
+        "Bolsonaro": 14
       }
     }
   ]
