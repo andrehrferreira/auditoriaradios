@@ -26,10 +26,15 @@ class MonitorarRadio{
     }
 
     start(){
-        try{                        
-            fetch(this.radio.url, {
-
-            }).then(r => r.body).then(res => {
+        try{     
+            if(!this.conn == null){
+                try{ this.conn.destroy(); }
+                catch(e){}
+        
+                this.conn = null;
+            }
+                        
+            this.conn = fetch(this.radio.url).then(r => r.body).then(res => {
                 console.log(`Connectado ${this.radio.name}...`);
 
                 res.on("readable", () => {
@@ -40,6 +45,10 @@ class MonitorarRadio{
             }).catch(err => {
                 console.log(`Erro ao tentar conectar ${this.radio.name}...`);
             });
+
+            setTimeout(() => { //Restart radio 1h
+                this.start();
+            }, 3600000)
         }
         catch(err){
             console.log(err);
