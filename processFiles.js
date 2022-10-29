@@ -105,15 +105,22 @@ function processaRadios(insercoes=null) {
     let radio = radios[key]
 
     //
+    radio.cleanName = accentsTidy(radio.name)
+
+    //
     if (insercoes!=null) {
-      radios[key].insercoes = insercoes[accentsTidy(radios[key].name)]??{
-        Bolsonaro: 0,
-        Lula: 0
+      radio.insercoes = insercoes[radio.cleanName]??null
+
+      if (radio.insercoes==null) {
+        continue;
       }
+
+      radio.insercoes.Bolsonaro = radio.insercoes.Bolsonaro??0
+      radio.insercoes.Lula = radio.insercoes.Lula??0
     }
 
     //
-    temp[uf].push(radios[key])
+    temp[uf].push(radio)
   }
 
   //
