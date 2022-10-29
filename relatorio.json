@@ -156,6 +156,13 @@
       "frase": "bolsonaro disse que para proteger o patrimônio",
       "radio": "Jovem Pan FM Belo Horizonte",
       "local": "Belo Horizonte"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:06:24 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Jovem Pan FM Belo Horizonte",
+      "local": "Belo Horizonte"
     }
   ],
   "Jovem Pan FM Campinas": [
@@ -209,6 +216,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:00:46 GMT-0300 (Brasilia Standard Time)",
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
+      "radio": "Jovem Pan FM Ipatinga",
+      "local": "Ipatinga"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:28:55 GMT-0300 (Brasilia Standard Time)",
+      "frase": "não pode correr risco do pt voltar",
       "radio": "Jovem Pan FM Ipatinga",
       "local": "Ipatinga"
     }
@@ -276,6 +290,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:05:12 GMT-0300 (Brasilia Standard Time)",
       "frase": "enquanto não deu nada de aumento real",
+      "radio": "Jovem Pan FM Natal",
+      "local": "Natal"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:39:05 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
       "radio": "Jovem Pan FM Natal",
       "local": "Natal"
     }
@@ -655,6 +676,13 @@
       "frase": "bolsonaro disse que para proteger o patrimônio",
       "radio": "MarianaFM",
       "local": "Mariana"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 09:15:39 GMT-0300 (Brasilia Standard Time)",
+      "frase": "com bolsonaro o que já estava ruim pode ficar pior",
+      "radio": "MarianaFM",
+      "local": "Mariana"
     }
   ],
   "Máximus FM": [
@@ -738,6 +766,13 @@
       "frase": "com bolsonaro o que já estava ruim pode ficar pior",
       "radio": "Nossa Rádio São Paulo",
       "local": "Belem"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:35:47 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Nossa Rádio São Paulo",
+      "local": "Belem"
     }
   ],
   "Pinga Fogo FM": [
@@ -775,6 +810,20 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:17:35 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "RIC 1490 Rede Rádio Imaculada Conceição",
+      "local": "Campinas"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:11:54 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "RIC 1490 Rede Rádio Imaculada Conceição",
+      "local": "Campinas"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:13:40 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
       "radio": "RIC 1490 Rede Rádio Imaculada Conceição",
       "local": "Campinas"
     }
@@ -855,6 +904,13 @@
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Radio Universitária UFG",
       "local": "Goiânia"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:39:06 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro quer esconder esta notícia mas esta semana",
+      "radio": "Radio Universitária UFG",
+      "local": "Goiânia"
     }
   ],
   "Rádio 105 FM": [
@@ -911,6 +967,20 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:34:50 GMT-0300 (Brasilia Standard Time)",
       "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio 105 FM",
+      "local": "Jaraguá do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:19:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio 105 FM",
+      "local": "Jaraguá do Sul"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:34:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Rádio 105 FM",
       "local": "Jaraguá do Sul"
     },
@@ -1018,6 +1088,20 @@
     {
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 09:26:47 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio 94 FM Santarém",
+      "local": "Santarém"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:44:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio 94 FM Santarém",
+      "local": "Santarém"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 09:50:16 GMT-0300 (Brasilia Standard Time)",
       "frase": "fala presidente lula",
       "radio": "Rádio 94 FM Santarém",
       "local": "Santarém"
@@ -1146,6 +1230,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 09:46:49 GMT-0300 (Brasilia Standard Time)",
       "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio 98 FM Campina Grande",
+      "local": "Campina Grande"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:00:29 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio 98 FM Campina Grande",
       "local": "Campina Grande"
     }
@@ -1432,6 +1523,13 @@
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Rádio Atividade FM Brasília",
       "local": "Brasília"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:27:27 GMT-0300 (Brasilia Standard Time)",
+      "frase": "não pode correr risco do pt voltar",
+      "radio": "Rádio Atividade FM Brasília",
+      "local": "Brasília"
     }
   ],
   "Rádio Atlantico FM": [
@@ -1544,6 +1642,13 @@
       "frase": "bolsonaro quer esconder esta notícia mas esta semana",
       "radio": "Rádio Bandeirantes Araranguá",
       "local": "Ararangua"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:53:57 GMT-0300 (Brasilia Standard Time)",
+      "frase": "é só com bolsonaro que se o direito está garantido",
+      "radio": "Rádio Bandeirantes Araranguá",
+      "local": "Ararangua"
     }
   ],
   "Rádio Bandeirantes Goiânia": [
@@ -1581,6 +1686,20 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:31:45 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Barreiras AM",
+      "local": "Barreiras"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:04:34 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Barreiras AM",
+      "local": "Barreiras"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:01:16 GMT-0300 (Brasilia Standard Time)",
+      "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Rádio Barreiras AM",
       "local": "Barreiras"
     }
@@ -1652,6 +1771,13 @@
       "frase": "agora domingo vinte e dois bolsonaro presidente",
       "radio": "Rádio Bom Jesus 98 FM",
       "local": "Belo Horizonte"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 09:39:02 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Bom Jesus 98 FM",
+      "local": "Belo Horizonte"
     }
   ],
   "Rádio Brasil": [
@@ -1710,6 +1836,20 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 11:00:17 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Rádio CBN Blumenau",
+      "local": "Blumenau "
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:08:47 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio CBN Blumenau",
+      "local": "Blumenau "
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:08:11 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio CBN Blumenau",
       "local": "Blumenau "
     }
@@ -1880,6 +2020,13 @@
       "frase": "não pode correr risco do pt voltar",
       "radio": "Rádio Ceres",
       "local": "Nao me Toque"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:07:25 GMT-0300 (Brasilia Standard Time)",
+      "frase": "se você voltar do lula estará votando numa mentira",
+      "radio": "Rádio Ceres",
+      "local": "Nao me Toque"
     }
   ],
   "Rádio Cerro Azul": [
@@ -1946,6 +2093,27 @@
     {
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 08:46:57 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Cidade FM Tubarão",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:28:14 GMT-0300 (Brasilia Standard Time)",
+      "frase": "não pode correr risco do pt voltar",
+      "radio": "Rádio Cidade FM Tubarão",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:13:19 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Cidade FM Tubarão",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:28:50 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
       "radio": "Rádio Cidade FM Tubarão",
       "local": "Belém"
@@ -2352,6 +2520,20 @@
       "local": "Bagé"
     },
     {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:46:41 GMT-0300 (Brasilia Standard Time)",
+      "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
+      "radio": "Rádio Cultura",
+      "local": "Bagé"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:21:25 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Rádio Cultura",
+      "local": "Bagé"
+    },
+    {
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 08:55:20 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
@@ -2443,6 +2625,13 @@
       "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio Cultura AM",
       "local": "Xaxim"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:35:42 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Cultura AM",
+      "local": "Xaxim"
     }
   ],
   "Rádio Cultura AM Arapongas": [
@@ -2513,6 +2702,20 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:18:00 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro quer esconder esta notícia mas esta semana",
+      "radio": "Rádio Cultura AM Arapongas",
+      "local": "Arapongas"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:16:15 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Cultura AM Arapongas",
+      "local": "Arapongas"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 08:28:00 GMT-0300 (Brasilia Standard Time)",
+      "frase": "com bolsonaro o que já estava ruim pode ficar pior",
       "radio": "Rádio Cultura AM Arapongas",
       "local": "Arapongas"
     }
@@ -2788,6 +2991,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 09:07:31 GMT-0300 (Brasilia Standard Time)",
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
+      "radio": "Rádio Educadora AM",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:05:55 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
       "radio": "Rádio Educadora AM",
       "local": "Belém"
     },
@@ -3174,6 +3384,20 @@
     },
     {
       "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:47:55 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
+      "radio": "Rádio FM Liberdade",
+      "local": "Belem "
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:46:40 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio FM Liberdade",
+      "local": "Belem "
+    },
+    {
+      "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 08:05:28 GMT-0300 (Brasilia Standard Time)",
       "frase": "corrupção no governo lula",
       "radio": "Rádio FM Liberdade",
@@ -3280,6 +3504,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 09:04:49 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Fan FM Carmópolis",
+      "local": "Aracaju"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:03:08 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
       "radio": "Rádio Fan FM Carmópolis",
       "local": "Aracaju"
     }
@@ -3493,6 +3724,13 @@
       "frase": "é só com bolsonaro que se o direito está garantido",
       "radio": "Rádio Guaíra",
       "local": "Barretos"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:08:59 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Guaíra",
+      "local": "Barretos"
     }
   ],
   "Rádio Iguassu": [
@@ -3644,6 +3882,27 @@
       "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio Imprensa FM",
       "local": "Anápolis"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:31:19 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Imprensa FM",
+      "local": "Anápolis"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:13:55 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Imprensa FM",
+      "local": "Anápolis"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 09:35:25 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Rádio Imprensa FM",
+      "local": "Anápolis"
     }
   ],
   "Rádio Inconfidência FM": [],
@@ -3758,6 +4017,13 @@
     {
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:20:18 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Interativa FM",
+      "local": "Sao Jose Do Rio Preto"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:35:26 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio Interativa FM",
       "local": "Sao Jose Do Rio Preto"
@@ -4122,6 +4388,27 @@
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Rádio Luzes da Ribalta",
       "local": "Santa Barbara D'oeste"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:35:28 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Luzes da Ribalta",
+      "local": "Santa Barbara D'oeste"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:07:23 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Luzes da Ribalta",
+      "local": "Santa Barbara D'oeste"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:56:24 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Luzes da Ribalta",
+      "local": "Santa Barbara D'oeste"
     }
   ],
   "Rádio Líder FM  Vale do Aço": [
@@ -4159,6 +4446,13 @@
       "frase": "bolsonaro vinte e dois",
       "radio": "Rádio Líder FM  Vale do Aço",
       "local": "Ipatinga"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:50:07 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
+      "radio": "Rádio Líder FM  Vale do Aço",
+      "local": "Ipatinga"
     }
   ],
   "Rádio Mampituba FM": [
@@ -4194,6 +4488,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:51:28 GMT-0300 (Brasilia Standard Time)",
       "frase": "com bolsonaro o que já estava ruim pode ficar pior",
+      "radio": "Rádio Mampituba FM",
+      "local": "Sombrio"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:51:01 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro quer esconder esta notícia mas esta semana",
       "radio": "Rádio Mampituba FM",
       "local": "Sombrio"
     }
@@ -4317,6 +4618,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:10:28 GMT-0300 (Brasilia Standard Time)",
       "frase": "votar no lula é votar numa grande mentira",
+      "radio": "Rádio Massa FM Serra Gaúcha",
+      "local": "Nova Prata"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:08:04 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio Massa FM Serra Gaúcha",
       "local": "Nova Prata"
     }
@@ -4503,6 +4811,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 09:32:18 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Mundo Melhor FM",
+      "local": "Mogi Guacu"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:32:00 GMT-0300 (Brasilia Standard Time)",
+      "frase": "é só com bolsonaro que se o direito está garantido",
       "radio": "Rádio Mundo Melhor FM",
       "local": "Mogi Guacu"
     }
@@ -4881,6 +5196,15 @@
       "local": "Pomerode"
     }
   ],
+  "Rádio Positiva FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 08:08:52 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Positiva FM",
+      "local": "Goiania"
+    }
+  ],
   "Rádio Princesa AM": [
     {
       "campanha": "Bolsonaro",
@@ -4925,6 +5249,15 @@
       "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio Princesa FM",
       "local": "Feira de Santana"
+    }
+  ],
+  "Rádio Raízes FM": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:23:05 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vai aumentar acima",
+      "radio": "Rádio Raízes FM",
+      "local": "Capivari"
     }
   ],
   "Rádio Regional FM": [
@@ -4978,9 +5311,32 @@
       "frase": "fala presidente lula",
       "radio": "Rádio Sagres 730 AM",
       "local": "Goiania"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:06:16 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Sagres 730 AM",
+      "local": "Goiania"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:14:41 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
+      "radio": "Rádio Sagres 730 AM",
+      "local": "Goiania"
     }
   ],
   "Rádio Santa Bárbara FM": [],
+  "Rádio Santa Cruz": [
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:03:33 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Santa Cruz",
+      "local": "Belo Horizonte"
+    }
+  ],
   "Rádio Santa Cruz AM 550kHz": [
     {
       "campanha": "Lula",
@@ -5044,6 +5400,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 09:37:17 GMT-0300 (Brasilia Standard Time)",
       "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Santa Fé",
+      "local": "Santa Fe"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 09:50:11 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
       "radio": "Rádio Santa Fé",
       "local": "Santa Fe"
     }
@@ -5212,6 +5575,20 @@
       "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio Som Maior FM",
       "local": "Criciuma"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:55:00 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Som Maior FM",
+      "local": "Criciuma"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:53:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
+      "radio": "Rádio Som Maior FM",
+      "local": "Criciuma"
     }
   ],
   "Rádio Subaé AM": [
@@ -5302,6 +5679,13 @@
       "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio Super FM",
       "local": "Belo Horizonte"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:47:51 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Super FM",
+      "local": "Belo Horizonte"
     }
   ],
   "Rádio Super Nova": [
@@ -5336,6 +5720,13 @@
     {
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:21:55 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Super Nova",
+      "local": "Jaragua do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:10:09 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio Super Nova",
       "local": "Jaragua do Sul"
@@ -5387,6 +5778,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:57:09 GMT-0300 (Brasilia Standard Time)",
       "frase": "se você voltar do lula estará votando numa mentira",
+      "radio": "Rádio Top FM São Paulo",
+      "local": "Bertioga"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:58:41 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro quer esconder esta notícia mas esta semana",
       "radio": "Rádio Top FM São Paulo",
       "local": "Bertioga"
     },
@@ -5512,6 +5910,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 09:03:07 GMT-0300 (Brasilia Standard Time)",
       "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio UCP FM",
+      "local": "Petropolis "
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:01:30 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro vinte e dois",
       "radio": "Rádio UCP FM",
       "local": "Petropolis "
     }
@@ -5661,6 +6066,13 @@
       "frase": "bolsonaro vinte e dois",
       "radio": "Rádio Vitoriosa FM Uberlândia",
       "local": "Uberlandia"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:46:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Vitoriosa FM Uberlândia",
+      "local": "Uberlandia"
     }
   ],
   "Rádio Você AM": [
@@ -5736,15 +6148,22 @@
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
       "radio": "Super Rádio São Paulo",
       "local": "Campinas"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:00:26 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
+      "radio": "Super Rádio São Paulo",
+      "local": "Campinas"
     }
   ],
   "total": {
-    "insercoesLula": 595,
-    "insercoesBolsonaro": 547,
-    "citacoesLula": 1918,
-    "citacoesBolsonaro": 1968
+    "insercoesLula": 628,
+    "insercoesBolsonaro": 592,
+    "citacoesLula": 2062,
+    "citacoesBolsonaro": 2096
   },
-  "lastUpdate": 1667015739009,
+  "lastUpdate": 1667018434030,
   "radiosCount": 1832,
-  "queueFiles": 133173
+  "queueFiles": 129042
 }
