@@ -19,6 +19,7 @@ fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
 (async () => {
     const queue = await fg("./tmp/**/*.index");
     const files = await fg("./transcricoes/*.txt");
+    let preventDuplicate = {};
 
     for(let file of files){
         const lines = fs.readFileSync(file, "utf8").split("\n");
@@ -36,16 +37,21 @@ fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                         insercoes[Radio] = [];
 
                     if(Local){
-                        insercoes[Radio].push({
-                            campanha: "Lula",
-                            dataHora: new Date(parseInt(dataHora[1])).toString(),
-                            frase: fraseCampanhaLula,
-                            radio: Radio,
-                            local: Local
-                        });
-    
-                        fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
-                    
+                        const idreg = `Lula-${new Date(parseInt(dataHora[1])).toString()}`;
+
+                        if(!preventDuplicate[idreg]){
+                            preventDuplicate[idreg] = true;
+                            insercoes[Radio].push({
+                                campanha: "Lula",
+                                dataHora: new Date(parseInt(dataHora[1])).toString(),
+                                frase: fraseCampanhaLula,
+                                radio: Radio,
+                                local: Local
+                            });
+
+                            fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
+                        }
+                        
                         summaryInsercoes.lula++;
                     }
                 }
@@ -62,15 +68,20 @@ fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                         insercoes[Radio] = [];
 
                     if(Local){
-                        insercoes[Radio].push({
-                            campanha: "Bolsonaro",
-                            dataHora: new Date(parseInt(dataHora[1])).toString(),
-                            frase: fraseCampanhaBolsonaro,
-                            radio: Radio,
-                            local: Local
-                        });
+                        const idreg = `Lula-${new Date(parseInt(dataHora[1])).toString()}`;
 
-                        fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
+                        if(!preventDuplicate[idreg]){
+                            preventDuplicate[idreg] = true;
+                            insercoes[Radio].push({
+                                campanha: "Bolsonaro",
+                                dataHora: new Date(parseInt(dataHora[1])).toString(),
+                                frase: fraseCampanhaBolsonaro,
+                                radio: Radio,
+                                local: Local
+                            });
+
+                            fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
+                        }
 
                         summaryInsercoes.bolsonaro++;
                     }

@@ -16,8 +16,8 @@
       "url": "https://26503.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkzOTQwNiwiaXNzIjoidGlzcnYifQ.28CKzaEhidsmQvQOqKRwibGvrnDtsIGLNEGQm9aQBbU",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -57,7 +57,7 @@
       "site": "Feira de Santana",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 1
+        "Bolsonaro": 3
       }
     },
     {
@@ -76,8 +76,7 @@
       "url": "http://streaming.livecenter.com.br:9988/",
       "site": "http://www.nordestefm.com.br/",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -96,7 +95,8 @@
       "url": "http://148.72.158.239:8165/live",
       "site": "princesafm@princesafm.com.br",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 3,
+        "Lula": 2
       }
     },
     {
@@ -105,7 +105,7 @@
       "url": "http://streaming.livecenter.com.br:9996/",
       "site": "Santo Amaro, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 3
       }
     },
     {
@@ -114,8 +114,7 @@
       "url": "http://streaming.livecenter.com.br:9992/",
       "site": "http://www.radiosubaeam.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -135,7 +134,7 @@
       "site": "comercialfmrb@hotmail.com",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 2
+        "Bolsonaro": 1
       }
     },
     {
@@ -192,7 +191,7 @@
       "url": "http://sh.upx.com.br:8084/stream",
       "site": "http://www.atardefm.com.br",
       "insercoes": {
-        "Lula": 1,
+        "Lula": 3,
         "Bolsonaro": 3
       }
     },
@@ -222,7 +221,7 @@
       "url": "https://24943.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkzOTUyNiwiaXNzIjoidGlzcnYifQ.2wwcy6I7SC914mGGmLlSuMC7IlTsMf8NLaBPUZe0BTw",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -250,8 +249,8 @@
       "url": "http://148.72.158.239:8051/live",
       "site": "http://www.am840.com.br",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 3
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -290,8 +289,7 @@
       "url": "https://painel.sintonizar.tv.br/stream/sociedadeaudio",
       "site": "https://sociedadeonline.com",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -380,7 +378,6 @@
       "url": "http://148.72.158.239:8166/live",
       "site": "http://www.sociedadedefeiraam.com.br",
       "insercoes": {
-        "Lula": 1,
         "Bolsonaro": 1
       }
     },
@@ -410,8 +407,8 @@
       "url": "http://192.99.98.79:8002/",
       "site": "Guanambi",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -689,8 +686,8 @@
       "url": "http://audio8.cmaudioevideo.com:8907/stream",
       "site": "Salvador",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -699,7 +696,7 @@
       "url": "http://paineldj.com.br:8674/stream",
       "site": "https://clubefm92.com.br/",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 7,
         "Lula": 3
       }
     },
@@ -888,7 +885,8 @@
       "url": "http://stm47.sejaguia.com.br:17144/",
       "site": "Salvador, Brasil",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 3,
+        "Lula": 2
       }
     },
     {
@@ -1099,8 +1097,8 @@
       "url": "http://142.44.230.74:9173/live",
       "site": "http://www.odiariodebarretos.com.br/",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 2
+        "Bolsonaro": 3,
+        "Lula": 3
       }
     },
     {
@@ -1109,8 +1107,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "contato@nossaradiofm.com.br",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -1129,8 +1127,7 @@
       "url": "https://s16.maxcast.com.br:8286/live",
       "site": "http://bandfm959.com",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -1139,8 +1136,8 @@
       "url": "http://streaming01.hstbr.net:8046/live",
       "site": "Olimpia, Brasil",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -1149,7 +1146,8 @@
       "url": "http://142.44.230.74:9176/live",
       "site": "Colina , Brasil",
       "insercoes": {
-        "Lula": 3
+        "Lula": 2,
+        "Bolsonaro": 1
       }
     },
     {
@@ -1158,7 +1156,7 @@
       "url": "http://stm01.virtualcast.com.br:8026/live",
       "site": "radioguairaam@gmail.com",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 1
       }
     },
     {
@@ -1177,8 +1175,8 @@
       "url": "http://euroticast5.euroti.com.br:8464/",
       "site": "Barretos",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 3
+        "Bolsonaro": 3,
+        "Lula": 2
       }
     },
     {
@@ -1247,7 +1245,7 @@
       "url": "https://26593.live.streamtheworld.com/JP_SP_AM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwMjYxMSwiaXNzIjoidGlzcnYifQ.epYPOwWaIMHXcZiCoVr327SdKxOSJ_Jq0h9VDbfZXcQ",
       "site": "https://jovempan.uol.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 4,
         "Bolsonaro": 4
       }
     },
@@ -1286,6 +1284,7 @@
       "url": "https://centova.svdns.com.br:20148/stream",
       "site": "http://www.94fm.com.br",
       "insercoes": {
+        "Lula": 1,
         "Bolsonaro": 1
       }
     },
@@ -1295,7 +1294,7 @@
       "url": "https://streaming.ei3.com.br/radio/8000/mp3",
       "site": "http://www.96fmbauru.com.br",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 4,
         "Lula": 1
       }
     },
@@ -1345,8 +1344,8 @@
       "url": "https://streaming.ei3.com.br/radio/8030/mp3",
       "site": "celso@estacao13.com",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 5
+        "Bolsonaro": 7,
+        "Lula": 4
       }
     },
     {
@@ -1375,8 +1374,8 @@
       "url": "http://s35.maxcast.com.br:8002/live",
       "site": "http://www.radiopiratininga.com",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 1
+        "Lula": 1,
+        "Bolsonaro": 2
       }
     },
     {
@@ -1446,7 +1445,7 @@
       "site": "contato@topfmsp.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -1475,8 +1474,7 @@
       "url": "http://paineldj2.com.br:8200/",
       "site": "radio@jovempancampinas.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -1513,7 +1511,7 @@
       "url": "https://26653.live.streamtheworld.com/JP_SP_AM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwNDk0NSwiaXNzIjoidGlzcnYifQ.NFUKyiVNhf_Qu9BaDbb1snfRMZUo99IG4i4KWixt0w0",
       "site": "https://jovempan.uol.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 4,
         "Bolsonaro": 4
       }
     },
@@ -1564,7 +1562,7 @@
       "site": "http://www.radio105fm.com.br",
       "insercoes": {
         "Lula": 3,
-        "Bolsonaro": 6
+        "Bolsonaro": 10
       }
     },
     {
@@ -1683,8 +1681,7 @@
       "url": "http://ceb1.live.upx.net.br:8030/",
       "site": "faleconosco@cbncampinas.com.br",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 1
       }
     },
     {
@@ -1723,8 +1720,8 @@
       "url": "https://s06.hstbr.net:8042/live",
       "site": "http://www.fmcidade.com.br",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -1733,8 +1730,8 @@
       "url": "https://shout25.crossradio.com.br:18532/1",
       "site": "http://www.clipfm.com.br/",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -1783,7 +1780,8 @@
       "url": "http://rrdns-dumont.webnow.com.br/dumont.mp3",
       "site": "http://www.dumontfm.com.br",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -1882,7 +1880,7 @@
       "site": "radioluzes@uol.com.br",
       "insercoes": {
         "Bolsonaro": 6,
-        "Lula": 2
+        "Lula": 6
       }
     },
     {
@@ -1991,8 +1989,7 @@
       "url": "http://servidor25.brlogic.com:8012/live",
       "site": "http://www.ocaminhofm.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -2070,10 +2067,7 @@
       "location": "Santa Barbara d'Oeste",
       "url": "http://216.245.220.173:8474/live",
       "site": "peoliv@gmail.com",
-      "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Scalla",
@@ -2092,7 +2086,7 @@
       "site": "contato@topfmsp.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -2111,8 +2105,7 @@
       "url": "http://r13.ciclano.io:8230/live",
       "site": "http://www.radiovoce.com.br/tocador.asp",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -2141,7 +2134,7 @@
       "url": "http://www.caikron.com.br:8000/stream",
       "site": "Campinas",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 1
       }
     },
@@ -2151,7 +2144,7 @@
       "url": "http://cloud1.cdnseguro.com:13244/;",
       "site": "Campinas",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -2270,7 +2263,7 @@
       "url": "https://27163.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwNjY0NiwiaXNzIjoidGlzcnYifQ.PJ8wi0hFKtlOVL04KsoOgt2VS1Uq_GWo-zuMhFnnCp0",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -2290,7 +2283,7 @@
       "site": "Sao Jose Do Rio Preto, Brasil",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 3
+        "Bolsonaro": 4
       }
     },
     {
@@ -2409,8 +2402,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "contato@nossaradiofm.com.br",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -2748,8 +2741,8 @@
       "url": "https://18163.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0OTU4NiwiaXNzIjoidGlzcnYifQ.NdyH_d_aeY8dHhis50p6GNSH6onmZvQOZDR3QFpVPYA",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -2758,7 +2751,7 @@
       "url": "https://14553.live.streamtheworld.com/JP_SP_AM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0ODI4NCwiaXNzIjoidGlzcnYifQ.8iarANGvLB0YLGMi5TTzireMVDEJinhg7oV2Uy_lwqA",
       "site": "https://jovempan.uol.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 4,
         "Bolsonaro": 4
       }
     },
@@ -2798,8 +2791,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "http://www.nossaradio.com.br/",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -2928,7 +2921,7 @@
       "url": "http://audio3.cmaudioevideo.com:8254/stream",
       "site": "http://www.90fm.com.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -2937,7 +2930,7 @@
       "url": "https://24923.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxNjAxMiwiaXNzIjoidGlzcnYifQ.bII_LKyLOPYMkrFVG02mBSEex8WGuT3ju8FC7enl65g",
       "site": "http://www.ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -3047,7 +3040,7 @@
       "site": "http://www.nacionalgospel.com.br",
       "insercoes": {
         "Bolsonaro": 4,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -3157,7 +3150,7 @@
       "site": "https://topfmsp.com.br/",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -3246,7 +3239,7 @@
       "url": "http://www.caikron.com.br:8000/stream",
       "site": "Sao Roque, Brasil",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 1
       }
     },
@@ -3256,7 +3249,7 @@
       "url": "http://cloud1.cdnseguro.com:13244/;",
       "site": "comercial@radiotupiam.com.br",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -3425,7 +3418,7 @@
       "url": "http://www.caikron.com.br:8000/stream",
       "site": "atendimento@miliciadaimaculada.org.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 1
       }
     },
@@ -3476,7 +3469,7 @@
       "site": "contato@topfmsp.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -3485,7 +3478,7 @@
       "url": "https://24493.live.streamtheworld.com/JP_SP_AM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0NjQxNSwiaXNzIjoidGlzcnYifQ.ysDV07LyjHZiNmqipVimaeQ8UYfuVmgaL_Nfd-StMCE",
       "site": "https://jovempan.uol.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 4,
         "Bolsonaro": 4
       }
     },
@@ -3534,7 +3527,7 @@
       "url": "http://144.217.192.196:8897/stream",
       "site": "http://www.radioclube.fm.br",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 7,
         "Lula": 3
       }
     },
@@ -3554,7 +3547,7 @@
       "url": "http://148.72.158.239:8120/live",
       "site": "http://www.gospel.fm.br",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 1,
         "Lula": 2
       }
     },
@@ -3684,7 +3677,7 @@
       "url": "https://livesh.com.br/proxy/fonte?mp=/stream",
       "site": "Presidente Prudente, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -3852,9 +3845,7 @@
       "location": "Ribeirão Preto",
       "url": "https://64-237-45-183.webnow.com.br/diario.mp3?v=3394",
       "site": "https://www.diariofm.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Difusora FM",
@@ -3872,7 +3863,7 @@
       "url": "https://livesh.com.br/proxy/fonte?mp=/stream",
       "site": "Ribeirão Preto, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -3991,7 +3982,7 @@
       "url": "https://27163.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0NTk3NCwiaXNzIjoidGlzcnYifQ.NfcMKzlPcs0oxbMOEQU8KlUTzYcj9PuYs9zU8-uYFec",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -4089,7 +4080,7 @@
       "site": "http://www.radiosuper.mobi/",
       "insercoes": {
         "Bolsonaro": 3,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -4128,7 +4119,8 @@
       "url": "https://cast3.hoost.com.br:2199/tunein/vanguard.sasx",
       "site": "http://www.vanguardaamsorocaba.com.br",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -4257,7 +4249,7 @@
       "url": "https://9554.brasilstream.com.br/stream",
       "site": "São Paulo, Brasil",
       "insercoes": {
-        "Lula": 2
+        "Lula": 1
       }
     },
     {
@@ -4435,8 +4427,7 @@
       "url": "http://198.24.165.180:9822/",
       "site": "http://www.radiobeiramar.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -4485,7 +4476,7 @@
       "url": "http://r15.ciclano.io:4350/stream",
       "site": "http://www.radioclubefm.com.br",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 7,
         "Lula": 3
       }
     },
@@ -4505,8 +4496,8 @@
       "url": "http://r13.ciclano.io:9021/stream?type=http&nocache=40",
       "site": "Araraquara, Brasil",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 1
+        "Bolsonaro": 4,
+        "Lula": 2
       }
     },
     {
@@ -4605,7 +4596,8 @@
       "url": "http://r13.ciclano.io:9030/stream?type=http&nocache=40",
       "site": "ti@radiomorada.com.br",
       "insercoes": {
-        "Lula": 3
+        "Lula": 2,
+        "Bolsonaro": 1
       }
     },
     {
@@ -4634,8 +4626,7 @@
       "url": "http://186.193.32.62:8900/",
       "site": "São Paulo, Brasil",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Bolsonaro": 1
       }
     },
     {
@@ -4714,7 +4705,7 @@
       "url": "http://stm10.stream.agenciasjc.com.br:8516/stream",
       "site": "São Paulo, Brasil",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -4775,8 +4766,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "contato@nossaradiofm.com.br",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -4813,9 +4804,7 @@
       "location": "Belém",
       "url": "http://hts02.kshost.com.br:8856/live",
       "site": "http://www.radiodiariofm.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Liberal FM",
@@ -4823,8 +4812,8 @@
       "url": "http://177.105.192.70:9750/liberalfm.mp3",
       "site": "http://www.radioliberal.com.br",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 9
+        "Bolsonaro": 7,
+        "Lula": 13
       }
     },
     {
@@ -4843,8 +4832,8 @@
       "url": "https://str1.streamhostpg.com.br:8092/stream",
       "site": "radionazare@fundacaonazare.com.br",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 3
+        "Bolsonaro": 2,
+        "Lula": 6
       }
     },
     {
@@ -4863,8 +4852,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -4883,7 +4872,7 @@
       "url": "http://streaming11.hstbr.net:8060/live",
       "site": "http://fmliberdadebelem.com.br/novo.html",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 4,
         "Lula": 3
       }
     },
@@ -4914,7 +4903,7 @@
       "site": "http://portalgcr.com.br",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 3
+        "Bolsonaro": 4
       }
     },
     {
@@ -4923,7 +4912,7 @@
       "url": "https://14013.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwMjcyMiwiaXNzIjoidGlzcnYifQ.PaZrD4NS_HTKICp-RnYSRKKNlI7YvEBJd5tghSECFzs",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -4933,7 +4922,7 @@
       "site": "midia@fundacaoeducadora.com.br",
       "insercoes": {
         "Bolsonaro": 1,
-        "Lula": 4
+        "Lula": 5
       }
     },
     {
@@ -5031,7 +5020,7 @@
       "site": "http://www.correiosat.com.br/?radio=2",
       "insercoes": {
         "Bolsonaro": 6,
-        "Lula": 1
+        "Lula": 4
       }
     },
     {
@@ -5309,8 +5298,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -5460,8 +5449,8 @@
       "url": "https://ssl.zoeweb.net/proxy/serradourada?mp=/stream",
       "site": "murilo@tvserradourada.com.br",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 3
       }
     },
     {
@@ -5480,7 +5469,7 @@
       "url": "http://suaradio2.dyndns.ws:13633/stream",
       "site": "http://www.bandeirantes820.com.br/",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 3
       }
     },
     {
@@ -5489,7 +5478,7 @@
       "url": "https://14013.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwMDQwMywiaXNzIjoidGlzcnYifQ.vPndelu-PBN-6qjnSP9w7T4mzhm9jQH0QcQ70T9mIx8",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -5508,7 +5497,7 @@
       "url": "https://livesh.com.br/proxy/fonte?mp=/stream",
       "site": "ti@redefonte.com",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -5517,8 +5506,8 @@
       "url": "http://r12.ciclano.io:8305/",
       "site": "contato@radioimprensa.am.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 1
+        "Lula": 2,
+        "Bolsonaro": 4
       }
     },
     {
@@ -5527,7 +5516,8 @@
       "url": "http://suaradio1.dyndns.ws:13551/stream",
       "site": "http://www.interativafm.net",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2,
+        "Lula": 3
       }
     },
     {
@@ -5556,8 +5546,8 @@
       "url": "https://c1.audiostream.com.br:20029/stream",
       "site": "http://sagresonline.com.br/",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 1
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -5566,8 +5556,8 @@
       "url": "http://shout35.crossradio.com.br:8086/;",
       "site": "angelicacabral@radiomania.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 4
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -5617,7 +5607,7 @@
       "site": "contato@topfmsp.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -5626,7 +5616,7 @@
       "url": "http://200.137.217.155:8010/radiouniversitaria",
       "site": "Goiânia, Brasil",
       "insercoes": {
-        "Lula": 1,
+        "Lula": 4,
         "Bolsonaro": 2
       }
     },
@@ -5726,8 +5716,8 @@
       "url": "http://srv52.brasilstream.com.br:9184/stream",
       "site": "Goiânia, Brasil",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -5997,8 +5987,8 @@
       "url": "http://shout35.crossradio.com.br:8086/;",
       "site": "angelicacabral@radiomania.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 4
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -6107,7 +6097,7 @@
       "url": "http://hd.matutos.com.br:9364/",
       "site": "Pernambuco",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -6278,8 +6268,7 @@
       "url": "https://radio.stmsrv.com:31696/",
       "site": "http://www.fm103.com.br/",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 4
       }
     },
     {
@@ -6337,7 +6326,8 @@
       "url": "https://paineldj6.com.br:20025/live",
       "site": "100.7@eldoradfm.com",
       "insercoes": {
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -6347,7 +6337,7 @@
       "site": "contato@radioesperancaestancia.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 2
+        "Bolsonaro": 5
       }
     },
     {
@@ -6356,8 +6346,8 @@
       "url": "http://08.stmip.net:7114/;",
       "site": "ti@redefanfm.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 1
+        "Bolsonaro": 1,
+        "Lula": 3
       }
     },
     {
@@ -6366,8 +6356,8 @@
       "url": "http://69.30.202.98:7116/",
       "site": "Aracaju",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 4
+        "Bolsonaro": 5,
+        "Lula": 1
       }
     },
     {
@@ -6376,8 +6366,8 @@
       "url": "http://s69.stm-ip.com:7104/;",
       "site": "fmitabaiana@fmitabaiana.com.br",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 1
+        "Lula": 3,
+        "Bolsonaro": 2
       }
     },
     {
@@ -6386,7 +6376,6 @@
       "url": "http://08.stmip.net:8012/",
       "site": "http://www.fmsergipe.com.br",
       "insercoes": {
-        "Lula": 1,
         "Bolsonaro": 4
       }
     },
@@ -6396,7 +6385,8 @@
       "url": "https://shout25.crossradio.com.br:18084/",
       "site": "Aracaju",
       "insercoes": {
-        "Bolsonaro": 1
+        "Lula": 1,
+        "Bolsonaro": 2
       }
     },
     {
@@ -6405,8 +6395,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -6435,7 +6425,7 @@
       "url": "http://13.stmip.net:8328/",
       "site": "http://www.xodofm.com.br",
       "insercoes": {
-        "Lula": 3
+        "Lula": 2
       }
     },
     {
@@ -6456,6 +6446,7 @@
       "url": "http://144.217.192.196:8297/live",
       "site": "america@radioamerica.com.br",
       "insercoes": {
+        "Bolsonaro": 1,
         "Lula": 2
       }
     },
@@ -6465,7 +6456,7 @@
       "url": "http://srv01.brasilstream.com.br:8040/stream",
       "site": "http://radioculturafm.com.br/",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -6483,8 +6474,8 @@
       "url": "http://shout35.crossradio.com.br:8086/;",
       "site": "angelicacabral@radiomania.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 4
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -6503,7 +6494,7 @@
       "url": "http://srv01.brasilstream.com.br:8044/mp3",
       "site": "http://www.regionalfm.net",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -6512,7 +6503,7 @@
       "url": "http://webradio.dr.ufu.br:8000/live",
       "site": "Uberlandia, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -6521,7 +6512,8 @@
       "url": "http://stream1.svrdedicado.org/8200/stream",
       "site": "Uberlandia, Brasil",
       "insercoes": {
-        "Lula": 3
+        "Lula": 6,
+        "Bolsonaro": 2
       }
     },
     {
@@ -6590,8 +6582,8 @@
       "url": "http://shout35.crossradio.com.br:8086/;",
       "site": "angelicacabral@radiomania.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 4
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -6717,6 +6709,7 @@
       "url": "http://radio3.logicahost.com.br:9130/",
       "site": "http://ipatinga.jovempanfm.uol.com.br/",
       "insercoes": {
+        "Lula": 3,
         "Bolsonaro": 2
       }
     },
@@ -6736,8 +6729,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxNzcyNywiaXNzIjoidGlzcnYifQ.h7bpt1aOPGnbgwctUNLjD9b1H74RLNx4GhY0ld9_SdE",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -6756,8 +6749,8 @@
       "url": "https://stm2.srvif.com:8334/",
       "site": "Mariana",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 6
+        "Bolsonaro": 6,
+        "Lula": 7
       }
     },
     {
@@ -6775,8 +6768,7 @@
       "url": "http://servidor35.brlogic.com:8206/live",
       "site": "http://www.nossaradiobh.com/",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -6805,6 +6797,7 @@
       "url": "http://8734.brasilstream.com.br/stream",
       "site": "marketing@sou94.com.br",
       "insercoes": {
+        "Lula": 1,
         "Bolsonaro": 1
       }
     },
@@ -6824,7 +6817,8 @@
       "url": "https://9779.brasilstream.com.br/mp3",
       "site": "http://www.radio96fmns.com.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -6833,7 +6827,7 @@
       "url": "https://9554.brasilstream.com.br/stream",
       "site": "http://www.98live.com.br/",
       "insercoes": {
-        "Lula": 2
+        "Lula": 1
       }
     },
     {
@@ -6911,8 +6905,8 @@
       "url": "https://9735.brasilstream.com.br/stream",
       "site": "coordradio@redecatedral.com",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 1
+        "Lula": 2,
+        "Bolsonaro": 4
       }
     },
     {
@@ -7000,7 +6994,8 @@
       "url": "https://radio.stmsrv.com:28396/",
       "site": "junior98.7fm@gmail.com",
       "insercoes": {
-        "Bolsonaro": 6
+        "Bolsonaro": 6,
+        "Lula": 1
       }
     },
     {
@@ -7108,8 +7103,7 @@
       "url": "http://9595.brasilstream.com.br/stream",
       "site": "http://cdlfm.com.br/",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -7138,8 +7132,8 @@
       "url": "http://i9suaradio.com:8138/",
       "site": "comercial@radiocidadearaxa.com.br",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -7148,8 +7142,8 @@
       "url": "https://conecta.welltecnologia.com.br/radio/8190",
       "site": "comercial@radiocidadecaratinga.com.br",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -7178,7 +7172,7 @@
       "url": "http://srv05.brasilstream.com.br:9061/stream",
       "site": "http://radioclube98.com/2016/index.php",
       "insercoes": {
-        "Bolsonaro": 2,
+        "Bolsonaro": 3,
         "Lula": 1
       }
     },
@@ -7197,7 +7191,7 @@
       "url": "http://cast61.sitehosting.com.br:9250/",
       "site": "ouvinte@fmclube.com.br",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 7,
         "Lula": 3
       }
     },
@@ -7246,7 +7240,7 @@
       "url": "https://centova5.transmissaodigital.com:20155/stream",
       "site": "https://www.d2fm.com.br/",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -7275,7 +7269,7 @@
       "url": "https://24923.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwMzQwMCwiaXNzIjoidGlzcnYifQ.LzmC_2K7SydhNmfjcNXYQrwdzqF-4C7MPTPuSrRyuzU",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -7313,7 +7307,7 @@
       "url": "http://148.72.158.239:8124/live",
       "site": "comercial@difusora710am.com.br",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 1
       }
     },
     {
@@ -7343,7 +7337,7 @@
       "site": "ouvinte@educadora.com.br",
       "insercoes": {
         "Bolsonaro": 1,
-        "Lula": 4
+        "Lula": 5
       }
     },
     {
@@ -7362,8 +7356,8 @@
       "url": "http://servidor21.dnip.com.br:9940/",
       "site": "http://www.expressofm.com.br",
       "insercoes": {
-        "Bolsonaro": 2,
-        "Lula": 3
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -7402,7 +7396,7 @@
       "url": "http://srv05.brasilstream.com.br:8148/stream",
       "site": "http://www.fmliberdade.com",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 4,
         "Lula": 3
       }
     },
@@ -7519,9 +7513,7 @@
       "location": "Belo Horizonte",
       "url": "http://srv39.brasilstream.com.br:8446/stream",
       "site": "faleconosco@inconfidencia.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Integração FM",
@@ -7529,8 +7521,8 @@
       "url": "https://streaming.ei3.com.br/radio/8030/mp3",
       "site": "celso@estacao13.com",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 5
+        "Bolsonaro": 7,
+        "Lula": 4
       }
     },
     {
@@ -7538,9 +7530,7 @@
       "location": "Belo Horizonte",
       "url": "http://142.44.230.74:9225/live",
       "site": "contato@radioitabira.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Itatiaia FM Juiz de Fora",
@@ -7618,8 +7608,8 @@
       "url": "http://streaming07.maxcast.com.br:8052/live",
       "site": "Carmo do Paranaiba",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 9
+        "Bolsonaro": 7,
+        "Lula": 13
       }
     },
     {
@@ -7627,9 +7617,7 @@
       "location": "Belo Horizonte",
       "url": "http://streaming08.maxcast.com.br:8028/live",
       "site": "Belo Horizonte, Brasil",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Liberdade FM Belo Horizonte",
@@ -7657,7 +7645,7 @@
       "url": "http://audio.flaresoft.com.br:9936/",
       "site": "http://radiolider.net.br",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 3,
         "Lula": 1
       }
     },
@@ -7757,8 +7745,7 @@
       "url": "http://server01.ouvir.radio.br:8033/live",
       "site": "Varginha, Brasil",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 2
       }
     },
     {
@@ -7818,7 +7805,7 @@
       "site": "Cataguases, Brasil",
       "insercoes": {
         "Lula": 5,
-        "Bolsonaro": 3
+        "Bolsonaro": 5
       }
     },
     {
@@ -7838,7 +7825,7 @@
       "site": "Tres Pontas, Brasil",
       "insercoes": {
         "Bolsonaro": 4,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -7857,7 +7844,7 @@
       "url": "http://srv01.brasilstream.com.br:8062/stream",
       "site": "http://www.nossafm105.com",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 2
       }
     },
     {
@@ -7934,7 +7921,8 @@
       "url": "http://servidor39.brlogic.com:8152/live",
       "site": "Montes Claros, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -8043,7 +8031,8 @@
       "url": "http://wms5.webradios.com.br:9070/9070",
       "site": "http://www.sucessobambui103fm.com.br/",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -8053,7 +8042,7 @@
       "site": "Belo Horizonte, Brasil",
       "insercoes": {
         "Bolsonaro": 3,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -8149,7 +8138,8 @@
       "url": "http://sonicpanel.oficialserver.com:9982/stream",
       "site": "comercial@radio95fm.com.br",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -8198,8 +8188,8 @@
       "url": "http://s01.transmissaodigital.com:7390/",
       "site": "comercialalternativa@gmail.com",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -8367,8 +8357,8 @@
       "url": "http://centova13.ciclanohost.com.br:8570/live",
       "site": "Poços de Caldas, Brasil",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -8378,7 +8368,7 @@
       "site": "radiocomunidadeviva@gmail.com",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 3
+        "Bolsonaro": 4
       }
     },
     {
@@ -8406,9 +8396,7 @@
       "location": "Poços de Caldas",
       "url": "http://69.162.122.42:8264/live",
       "site": "nativafm@nativapacos.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Transamérica Mococa",
@@ -8436,8 +8424,8 @@
       "url": "https://cdn-cms.tunein.com/service/Audio/georestricted.enUS.mp3",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -8456,8 +8444,8 @@
       "url": "http://servidor39.brlogic.com:8058/live",
       "site": "Uberaba, Brasil",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -8518,8 +8506,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -8540,7 +8528,7 @@
       "url": "https://servidor29-5.brlogic.com:8090/live",
       "site": "Santa Fe",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 4
       }
     },
     {
@@ -8996,8 +8984,8 @@
       "url": "http://10.fm5.com.br:8202/",
       "site": "Curitiba, Brasil",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -9096,8 +9084,8 @@
       "url": "http://94.23.5.152:9304/",
       "site": "Arapongas",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 3
+        "Bolsonaro": 5,
+        "Lula": 5
       }
     },
     {
@@ -9256,8 +9244,8 @@
       "url": "http://69.162.122.44:8296/live",
       "site": "Curitiba, Brasil",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 5
+        "Lula": 8,
+        "Bolsonaro": 6
       }
     },
     {
@@ -9286,7 +9274,7 @@
       "url": "http://187.109.105.226:8000/radio",
       "site": "gravacao@guerracomunicacoes.com.br",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 1
       }
     },
     {
@@ -9475,8 +9463,7 @@
       "url": "http://stream.enetbras.com.br:8888/",
       "site": "http://www.melodiafmmaringa.com.br/",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 2
       }
     },
     {
@@ -9934,8 +9921,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMTEyNCwiaXNzIjoidGlzcnYifQ.U6TGuB-l0hI9LC8sa1c9YXe9ImEzZKmmojid0FevKg0",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -9964,8 +9951,8 @@
       "url": "https://ice.fabricahost.com.br/cidadefmfoz",
       "site": "edson@cidadefmfoz.com.br",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -10155,7 +10142,8 @@
       "url": "http://96fmarapiraca.com.br:9300/",
       "site": "redacao@diarioarapiraca.com.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -10184,8 +10172,8 @@
       "url": "https://26683.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxNTIwMywiaXNzIjoidGlzcnYifQ.0V6p9Om0heV2lhR9p9GkIrdgbG1iQvhmNR-pNOZQKqg",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -10204,7 +10192,8 @@
       "url": "https://ssl.srvstm.com:7784/;",
       "site": "Maceió",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -10333,8 +10322,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -10343,7 +10332,7 @@
       "url": "http://www.caikron.com.br:8000/stream",
       "site": "Maceió",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 1
       }
     }
@@ -10354,9 +10343,7 @@
       "location": "São Miguel",
       "url": "http://stream.zeno.fm/vmu0ngv0x1zuv",
       "site": "São Miguel",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Aliança FM",
@@ -10472,8 +10459,8 @@
       "url": "http://shout25.crossradio.com.br:8076/1",
       "site": "Campo Grande",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -10482,7 +10469,7 @@
       "url": "http://shout25.crossradio.com.br:8064/1",
       "site": "Campo Grande",
       "insercoes": {
-        "Bolsonaro": 6,
+        "Bolsonaro": 7,
         "Lula": 3
       }
     },
@@ -10502,8 +10489,8 @@
       "url": "http://cast3.hoost.com.br:8507/live",
       "site": "contato@cultura104.com.br",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -10512,7 +10499,7 @@
       "url": "https://24923.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwNTM1MiwiaXNzIjoidGlzcnYifQ.DH3JaclJk13ge7sGqzYxRdBOz_EU55U3IE5dPbcrQX4",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -10541,7 +10528,8 @@
       "url": "https://stm3.srvif.com:8354/;",
       "site": "Campo Grande",
       "insercoes": {
-        "Bolsonaro": 1
+        "Lula": 2,
+        "Bolsonaro": 2
       }
     },
     {
@@ -10560,7 +10548,7 @@
       "url": "http://autodj.com.br:9978/",
       "site": "http://www.cidade97.com",
       "insercoes": {
-        "Lula": 1,
+        "Lula": 2,
         "Bolsonaro": 1
       }
     },
@@ -10589,9 +10577,7 @@
       "location": "Campo Grande",
       "url": "http://audio8.cmaudioevideo.com:8800/stream",
       "site": "Campo Grande",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Líder",
@@ -10648,7 +10634,8 @@
       "url": "http://zoeweb.net:9010/stream",
       "site": "http://moradafm.com.br/",
       "insercoes": {
-        "Lula": 3
+        "Lula": 2,
+        "Bolsonaro": 1
       }
     },
     {
@@ -10667,8 +10654,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -10687,8 +10674,7 @@
       "url": "http://rvn01.painelstream.net:9278/live",
       "site": "enrico@acritica.net",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -10737,8 +10723,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxNjQxMiwiaXNzIjoidGlzcnYifQ.6oZzGlDNAJAfR_k4TtiTKPYkkb8uaCrF9ToKS1MDrzo",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -10768,7 +10754,7 @@
       "site": "Natal, Brasil",
       "insercoes": {
         "Lula": 3,
-        "Bolsonaro": 6
+        "Bolsonaro": 10
       }
     },
     {
@@ -10827,8 +10813,8 @@
       "url": "https://radio98.jmvstream.com/stream",
       "site": "http://www.radio98.fm.br",
       "insercoes": {
-        "Bolsonaro": 5,
-        "Lula": 3
+        "Lula": 5,
+        "Bolsonaro": 5
       }
     },
     {
@@ -10877,7 +10863,7 @@
       "url": "http://radio01.logicahost.com.br:9450/stream",
       "site": "Natal, Brasil",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 2,
         "Lula": 2
       }
     },
@@ -10936,9 +10922,7 @@
       "location": "Natal",
       "url": "https://s01.w3bserver.com:3338/",
       "site": "Natal, Brasil",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Macaiba FM",
@@ -11056,8 +11040,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -11128,8 +11112,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMDgzMiwiaXNzIjoidGlzcnYifQ.di1Tz8rSPAdih2s7XxnlvXusbXbZ0LzOU2G4e70M6gQ",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -11317,8 +11301,8 @@
       "url": "http://stream.notoris.com.br:8476/",
       "site": "http://www.am1080.com.br",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -11347,7 +11331,7 @@
       "url": "https://14013.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMDkzNiwiaXNzIjoidGlzcnYifQ.z0Sk2_BCjJrsn6aOPhmSvdLoqduQbEnqirSbP78adTU",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -11485,9 +11469,7 @@
       "location": "Fortaleza",
       "url": "https://svrstream4.svreua.com/streams.php?porta=8694",
       "site": "Fortaleza, Brasil",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Liderança FM Fortaleza",
@@ -11635,7 +11617,8 @@
       "url": "http://stm37.conectastm.com:7822/",
       "site": "Crato, Brasil",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 3,
+        "Lula": 2
       }
     },
     {
@@ -11664,8 +11647,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -11826,8 +11809,8 @@
       "url": "https://ssl.srvstm.com:8878/stream",
       "site": "https://jpnewscriciuma.com.br",
       "insercoes": {
-        "Bolsonaro": 5,
-        "Lula": 2
+        "Lula": 3,
+        "Bolsonaro": 6
       }
     },
     {
@@ -11837,7 +11820,7 @@
       "site": "gerentecomercial@radio105fm.net",
       "insercoes": {
         "Lula": 3,
-        "Bolsonaro": 6
+        "Bolsonaro": 10
       }
     },
     {
@@ -11856,8 +11839,7 @@
       "url": "http://painel.localmidia.com.br:8060/aovivo",
       "site": "Ararangua",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -11876,7 +11858,8 @@
       "url": "http://painel.localmidia.com.br:8058/aovivo",
       "site": "http://www.radioararangua.com.br/",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -11885,7 +11868,7 @@
       "url": "http://rrdns-rcr.webnow.com.br/cidade.aac",
       "site": "http://portalgcr.com.br/",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 3,
         "Lula": 2
       }
     },
@@ -11915,7 +11898,7 @@
       "url": "https://eldorado.jmvstream.com/stream",
       "site": "eldoradoam@radioeldorado.net",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 2
       }
     },
     {
@@ -11934,8 +11917,8 @@
       "url": "http://paineldj6.com.br:9382/",
       "site": "integracao@integracaofm.com ",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 5
+        "Bolsonaro": 7,
+        "Lula": 4
       }
     },
     {
@@ -11944,7 +11927,8 @@
       "url": "http://paineldj6.com.br:9378/",
       "site": "mampituba@mampitubafm.com",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -11952,10 +11936,7 @@
       "location": "Araranguá",
       "url": "http://stm22.srvstm.com:18372/",
       "site": "administracao@radiomaristela.com.br",
-      "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Massa FM Criciúma",
@@ -11973,7 +11954,7 @@
       "url": "http://servidor31.dnip.com.br:10290/",
       "site": "http://www.sommaiorfm.com.br",
       "insercoes": {
-        "Bolsonaro": 1,
+        "Bolsonaro": 2,
         "Lula": 1
       }
     },
@@ -12062,8 +12043,7 @@
       "url": "https://cast.youngtech.radio.br/radio/8020/radio",
       "site": "recepcao@radiocidadesc.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 4
       }
     },
     {
@@ -12092,7 +12072,7 @@
       "url": "https://cast.youngtech.radio.br/radio/8150/radio",
       "site": "http://clubei.com/",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 3
       }
     },
     {
@@ -12101,7 +12081,7 @@
       "url": "http://sc4.dnip.com.br:19920/",
       "site": "conceicaofm@conceicaofm.com.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 3
       }
     },
     {
@@ -12110,7 +12090,7 @@
       "url": "https://14923.live.streamtheworld.com/SC_RADIOONLINE_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMDUwOSwiaXNzIjoidGlzcnYifQ.0j_FuV5XaKrCtBdbrGa-IBnDPE2jaDL03cvKry7CObo",
       "site": "Porto Belo, Brasil",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 1
       }
     },
     {
@@ -12119,7 +12099,7 @@
       "url": "https://14013.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMDUxNSwiaXNzIjoidGlzcnYifQ.80psDj8uX_M81-kfGAOQLlnwYHXpUZggvZJVKz1Ryl0",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -12128,7 +12108,7 @@
       "url": "http://radio2.suaradionanet.net:10543/stream",
       "site": "Itajaí, Brasil",
       "insercoes": {
-        "Lula": 1
+        "Bolsonaro": 1
       }
     },
     {
@@ -12137,7 +12117,8 @@
       "url": "http://srv01.brasilstream.com.br:9512/stream",
       "site": "http://diplomatafm.com.br/portal/site/",
       "insercoes": {
-        "Lula": 1
+        "Lula": 1,
+        "Bolsonaro": 1
       }
     },
     {
@@ -12166,7 +12147,7 @@
       "url": "https://cast.youngtech.radio.br/radio/8040/am",
       "site": "atendimento@radiopomerode.com.br",
       "insercoes": {
-        "Lula": 3
+        "Lula": 2
       }
     },
     {
@@ -12224,8 +12205,7 @@
       "url": "http://sysrad.net:64000/",
       "site": "contato@radiovaletj.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -12244,7 +12224,7 @@
       "url": "https://live.paineldj.com.br/proxy/demaisfm1079?mp=/stream",
       "site": "comercial104@demais.fm.br",
       "insercoes": {
-        "Bolsonaro": 4,
+        "Bolsonaro": 7,
         "Lula": 1
       }
     },
@@ -12255,7 +12235,7 @@
       "site": "https://www.fm105.com.br/",
       "insercoes": {
         "Lula": 3,
-        "Bolsonaro": 6
+        "Bolsonaro": 10
       }
     },
     {
@@ -12304,8 +12284,8 @@
       "url": "http://stream02.tpa.com.br:8000/culturatimbo",
       "site": "http://www.radioculturaam.com.br",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -12344,7 +12324,8 @@
       "url": "https://paineldj.com.br:20000/stream",
       "site": "https://www.supernova.fm/",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 1
       }
     },
     {
@@ -12433,7 +12414,8 @@
       "url": "http://sl.dnip.com.br:18520/",
       "site": "contato@massafm.com.br",
       "insercoes": {
-        "Bolsonaro": 2
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -12472,7 +12454,8 @@
       "url": "http://cast2.youngtech.radio.br:8130/radio",
       "site": "http://www.96fm.fm.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -12511,8 +12494,8 @@
       "url": "http://65.182.104.113:58000/",
       "site": "cultura@radioculturaxaxim.com.br",
       "insercoes": {
-        "Bolsonaro": 6,
-        "Lula": 1
+        "Bolsonaro": 4,
+        "Lula": 2
       }
     },
     {
@@ -12521,7 +12504,7 @@
       "url": "https://18513.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMDEzMiwiaXNzIjoidGlzcnYifQ.H7Lez01WnA5uo0kEUAiV6MVvSXtpCJSt4hiylb2LYWs",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -12889,8 +12872,8 @@
       "url": "http://streaming06.hstbr.net:8042/live",
       "site": "Otacilio Costa",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -13099,7 +13082,7 @@
       "url": "http://104.238.205.43:8155/stream",
       "site": "https://www.radioregionalfm.com.br/",
       "insercoes": {
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -13149,7 +13132,7 @@
       "site": "http://www.superfm89.com.br",
       "insercoes": {
         "Bolsonaro": 3,
-        "Lula": 3
+        "Lula": 4
       }
     },
     {
@@ -13280,8 +13263,8 @@
       "url": "http://stm13.srvaudio.com.br:10938/",
       "site": "culturabageam@hotmail.com",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 4
+        "Lula": 7,
+        "Bolsonaro": 5
       }
     },
     {
@@ -13320,7 +13303,8 @@
       "url": "http://centova6.ciclanohost.com.br:9142/;",
       "site": "alo92.5@gruporscom.com.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2,
+        "Lula": 1
       }
     },
     {
@@ -13419,7 +13403,7 @@
       "site": "Carlos Barbosa, Brasil",
       "insercoes": {
         "Bolsonaro": 2,
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -13587,7 +13571,8 @@
       "url": "http://vp090.voope.com.br:8002/",
       "site": "comercial@massafmserragaucha.com.br",
       "insercoes": {
-        "Bolsonaro": 3
+        "Lula": 1,
+        "Bolsonaro": 5
       }
     },
     {
@@ -13717,7 +13702,7 @@
       "site": "https://fminterativa.com.br/",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 3
+        "Bolsonaro": 4
       }
     },
     {
@@ -13906,7 +13891,7 @@
       "url": "https://23263.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxNzAzMywiaXNzIjoidGlzcnYifQ.d25fY6EqcDqb68LDrRlQTCwIG1m3rVkKRraUnpp74xg",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -13984,9 +13969,7 @@
       "location": "Porto Alegre",
       "url": "https://cast4.audiostream.com.br:2655/mp3",
       "site": "liberdade@pampa.com.br",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Massa FM São Paulo",
@@ -14034,7 +14017,8 @@
       "url": "http://cast4.audiostream.com.br:8016/mp3",
       "site": "princesafm@pampa.com.br",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 3,
+        "Lula": 2
       }
     },
     {
@@ -14063,7 +14047,7 @@
       "url": "http://179.127.4.122:8575/",
       "site": "fmtamaran@gmail.com",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 2
       }
     },
     {
@@ -14462,7 +14446,7 @@
       "url": "http://142.44.230.75:7002/",
       "site": "radioceres@radioceres.com.br",
       "insercoes": {
-        "Bolsonaro": 5,
+        "Bolsonaro": 8,
         "Lula": 1
       }
     },
@@ -14701,8 +14685,8 @@
       "url": "https://play.radio.br:8089/liberalfm/liberalfm/icecast.audio",
       "site": "radioliberalfm@radioliberalfm.com.br",
       "insercoes": {
-        "Lula": 6,
-        "Bolsonaro": 9
+        "Bolsonaro": 7,
+        "Lula": 13
       }
     },
     {
@@ -14921,7 +14905,7 @@
       "url": "http://78.129.222.70:22098/",
       "site": "operadores@radiosantacruz.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 2
       }
     },
@@ -14981,8 +14965,7 @@
       "url": "http://192.99.35.31:8186/stream",
       "site": "http://www.tupa.am.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -15081,7 +15064,8 @@
       "url": "http://cast2.youngtech.radio.br:8180/radio",
       "site": "radio96@radio96.com",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 1
       }
     },
     {
@@ -15142,7 +15126,7 @@
       "url": "http://suaradio2.dyndns.ws:10733/stream",
       "site": "faleconosco@portalguarany.com.br",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 4,
         "Bolsonaro": 2
       }
     }
@@ -15164,7 +15148,7 @@
       "url": "https://24923.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwNDQ1NCwiaXNzIjoidGlzcnYifQ.xDeKgjuDH9QN4yfNwfl__hgE5Z8sZ0x9VSoy63Eh7pE",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -15173,8 +15157,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     }
   ],
@@ -15255,8 +15239,8 @@
       "url": "https://ssl1.transmissaodigital.com:2490/stream",
       "site": "https://atividade.fm/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Bolsonaro": 2,
+        "Lula": 3
       }
     },
     {
@@ -15275,7 +15259,7 @@
       "url": "https://23263.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkwNDUzNCwiaXNzIjoidGlzcnYifQ.U1ZY3u8p4L6TqOtP1DDWSLrlpu-TW-uWxek1_jU_6q0",
       "site": "http://www.ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -15284,7 +15268,7 @@
       "url": "https://livesh.com.br/proxy/fonte?mp=/stream",
       "site": "Brasília, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -15343,7 +15327,7 @@
       "url": "http://rna.streams.com.br:7802/stream",
       "site": "http://www.novaalianca.org.br",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 3
       }
     },
     {
@@ -15372,8 +15356,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -15383,7 +15367,7 @@
       "site": "contato@topfmsp.com.br",
       "insercoes": {
         "Lula": 2,
-        "Bolsonaro": 8
+        "Bolsonaro": 9
       }
     },
     {
@@ -15434,8 +15418,8 @@
       "url": "http://69.162.64.254:8040/live",
       "site": "Pedreiras , Brasil",
       "insercoes": {
-        "Lula": 3,
-        "Bolsonaro": 1
+        "Bolsonaro": 1,
+        "Lula": 2
       }
     },
     {
@@ -15444,8 +15428,8 @@
       "url": "https://26603.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkxMTg5MCwiaXNzIjoidGlzcnYifQ.Vw-e7baWhkd5fh7aiJBJnAhzQDwpJF3Ux24PaxkfIwI",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -15486,6 +15470,7 @@
       "url": "http://s17.hstbr.net:8040/live",
       "site": "http://www.radio94.com.br",
       "insercoes": {
+        "Lula": 1,
         "Bolsonaro": 1
       }
     },
@@ -15596,7 +15581,7 @@
       "site": "http://www.jovempanitaperuna.com.br",
       "insercoes": {
         "Bolsonaro": 1,
-        "Lula": 2
+        "Lula": 3
       }
     },
     {
@@ -15645,8 +15630,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "contato@nossaradiofm.com.br",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -15795,8 +15780,7 @@
       "url": "http://192.163.213.186:9300/",
       "site": "http://www.radiomanchete.com.br",
       "insercoes": {
-        "Lula": 1,
-        "Bolsonaro": 2
+        "Lula": 1
       }
     },
     {
@@ -15805,8 +15789,8 @@
       "url": "http://shout35.crossradio.com.br:8086/;",
       "site": "http://www.radiomania.com.br",
       "insercoes": {
-        "Bolsonaro": 3,
-        "Lula": 4
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -15925,8 +15909,8 @@
       "url": "http://199.201.89.15:9300/",
       "site": "http://www.ucpfm.com.br",
       "insercoes": {
-        "Lula": 2,
-        "Bolsonaro": 2
+        "Bolsonaro": 2,
+        "Lula": 2
       }
     },
     {
@@ -16237,8 +16221,8 @@
       "url": "https://servidor24.brlogic.com:8524/live",
       "site": "contato@nossaradiofm.com.br",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 2
+        "Bolsonaro": 4,
+        "Lula": 4
       }
     },
     {
@@ -16307,7 +16291,7 @@
       "url": "https://24923.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0NzYxOSwiaXNzIjoidGlzcnYifQ.EflFTVtF_vT06XM-p9dQCaKbN3J9CMnVFuxOKNctVD8",
       "site": "contato@ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -16377,7 +16361,7 @@
       "site": "interativa87@gmail.com",
       "insercoes": {
         "Lula": 1,
-        "Bolsonaro": 3
+        "Bolsonaro": 4
       }
     },
     {
@@ -16405,9 +16389,7 @@
       "location": "Teresina",
       "url": "http://suaradio1.dyndns.ws:13421/stream",
       "site": "Teresina, Brasil",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Meio Norte FM Timon",
@@ -16435,8 +16417,7 @@
       "url": "http://stm1.xcast.com.br:11210/",
       "site": "Teresina, Brasil",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Lula": 1
       }
     },
     {
@@ -16455,8 +16436,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -16575,9 +16556,7 @@
       "location": "Vicentina",
       "url": "http://206.51.228.226:9948/",
       "site": "Vicentina, Brasil",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "RIC 1490 Rede Rádio Imaculada Conceição",
@@ -16585,7 +16564,7 @@
       "url": "http://www.caikron.com.br:8000/stream",
       "site": "Dourados, Brasil",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 1
       }
     },
@@ -16605,7 +16584,7 @@
       "url": "http://autodj.com.br:9094/",
       "site": "contato@radiopantanalfm.com.br",
       "insercoes": {
-        "Bolsonaro": 3
+        "Bolsonaro": 2
       }
     }
   ],
@@ -16626,8 +16605,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkzOTM0NiwiaXNzIjoidGlzcnYifQ.Gsm6lRd5CXCrP9ddBrJVpDm4KXJP7RsSIoYCcZiNIOs",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -16836,8 +16815,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
@@ -16988,8 +16967,8 @@
       "url": "https://cdn-cms.tunein.com/service/Audio/georestricted.enUS.mp3",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -17098,8 +17077,8 @@
       "url": "https://player.painelvox.com/player-ssl/8742/",
       "site": "http://integracaofmsurubim.com.br/",
       "insercoes": {
-        "Lula": 4,
-        "Bolsonaro": 5
+        "Bolsonaro": 7,
+        "Lula": 4
       }
     },
     {
@@ -17318,7 +17297,7 @@
       "url": "https://23263.live.streamtheworld.com/SP_STUDIOC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCmCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2NjkyMTAzNCwiaXNzIjoidGlzcnYifQ.nZzKwuvJfwN5yso1LanxH3lsw09h6pMSdY9LvyL3nzQ",
       "site": "http://www.ipda.com.br",
       "insercoes": {
-        "Lula": 14
+        "Lula": 15
       }
     },
     {
@@ -17347,6 +17326,7 @@
       "url": "http://192.99.4.205:8164/",
       "site": "Recife, Brasil",
       "insercoes": {
+        "Lula": 1,
         "Bolsonaro": 1
       }
     },
@@ -17446,7 +17426,7 @@
       "url": "http://hd5.matutos.com.br:9256/",
       "site": "Santa Cruz do Capibaribe, Brasil",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -17576,8 +17556,7 @@
       "url": "http://69.16.236.247:9304/",
       "site": "http://bandnewsdifusora.com.br",
       "insercoes": {
-        "Bolsonaro": 0,
-        "Lula": 0
+        "Bolsonaro": 1
       }
     },
     {
@@ -17790,8 +17769,8 @@
       "url": "https://22823.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPhg4ngPhg4ngAcABBENCoCsAP_AAAAAACiQJFBBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAkAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAABAAAAAAACAAAAAAAAQAAAAkAwAP__3__f__-_f___5___-__f_V__97fn9_____93P___9v-_9__________3_7997AAAAkEgMgAVAAyABwAEAAMgAaQBEAEUAJgATwBSgDvASIAw0BkQDJAGTgMuAZyAz4BpEDWANZAbrA5EDlQHLgPHCAGQAtgDngYeBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe7A-QD5QH2BgBYATwAtgMPAZGA0IBugDiQHUAOzAe6A-UNAKARUAkQBjADJwGcgM8AZ8A5IBygD8BAAkAJ4AWwGHgNCAboA4kB1ADswHuiIA4CRAGTgM5AZ8A5IBygD8BUAoAJgC8wGRAM5AZ4Az4BuQDkgHKAPwFABQGHgNCAa8A4kB9gyASAEwBeYDIgGcgM8AZ8A5IBygD8BgAUBh4DQgHEgPiAfYOgUAAVAAyABwAEAAMgAaQBEAEUAJgATwAxAClAHeARYAuoCKgEiAMNAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBqoDWAGxgN1AcXA5IDlQHLgPHAeqA-sB-A4BEAFsAc4A7gCEQMPAxABiwDIQGTAMvAaFA0UDRgGlANNAamA14BtADbAG3AOJgceByADnQHSAOwAdmA7UB4EDyQPKAe0A90B8QD5YH2AfaA_EB-xCAmABkAJgAYgB3gJEAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAO1AeOA_AgARAHOAw8BoQDRQGlANTAbYA24BxIDowHYQPJA8oB6ID3QHxAPsAfsSgKgAZAA4AEQAJgAYgBSgDvALqAioBIgDIgGTgMsAZyAzwBnwDSAGsAOAAdqA_AkAMAHcAw8BiwDQgGlANyAcSA6QB2ADygHtAPsKQIQAKgAZAA4ACAAGQANIAiACKAEwAJ4AUgAxAClAHeARYBIgDDQGMAMiAZIAycBlwDOQGeAM-gaQBpMDWANZAbGA3WByYHKAOXAdqA8cB-BQAoAOcAdwBdQGHgMWAZMA0IBogDSoGpAamA14BwQDiQHYAPKAe0A90B8QD7AH7AA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY2Njk0Nzk0NiwiaXNzIjoidGlzcnYifQ.uzz5btpE1kmCRekpKAc0-j2eVPmF6LzJxMs9K-DRf7I",
       "site": "http://jovempanfm.uol.com.br/",
       "insercoes": {
-        "Bolsonaro": 1,
-        "Lula": 1
+        "Lula": 3,
+        "Bolsonaro": 1
       }
     },
     {
@@ -17989,7 +17968,7 @@
       "url": "http://ip2.paineldj5.com.br:9258/castelo128k",
       "site": "Vitoria",
       "insercoes": {
-        "Bolsonaro": 1
+        "Bolsonaro": 2
       }
     },
     {
@@ -18037,9 +18016,7 @@
       "location": "Vitoria",
       "url": "http://stm2.voxhd.com.br:7686/",
       "site": "Vitoria",
-      "insercoes": {
-        "Lula": 1
-      }
+      "insercoes": {}
     },
     {
       "name": "Rádio Líder FM Laranja da Terra",
@@ -18139,8 +18116,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     }
   ],
@@ -18191,8 +18168,8 @@
       "url": "http://radioaovivo.senado.leg.br/fm.mp3",
       "site": "radio@senado.gov.br",
       "insercoes": {
-        "Bolsonaro": 4,
-        "Lula": 4
+        "Lula": 6,
+        "Bolsonaro": 5
       }
     },
     {
