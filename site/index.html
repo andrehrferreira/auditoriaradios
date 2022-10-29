@@ -165,7 +165,6 @@
                   class="elevation-1"
                   :search="search"
                   :items-per-page="50"
-                  :custom-filter="filterOnlyCapsText"
                 >
                   <template v-slot:top>
                     <v-text-field
@@ -254,15 +253,7 @@
                     calories: '',
                     items: []
                 }
-            },
-            methods: {
-                filterOnlyCapsText (value, search, item) {
-                    return value != null &&
-                    search != null &&
-                    typeof value === 'string' &&
-                    value.toString().toLocaleUpperCase().indexOf(search) !== -1
-                },
-            },
+            }
         });
     </script>
 </body>
