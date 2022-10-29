@@ -131,3 +131,5 @@
 [1666955648361] - sim
 [1666955648379] - venda de livros
 [1666955648379] - sim sim sim
+[1666955885470] - c
+[1666955885470] - no ano passado a morrer mas é sinônimo
