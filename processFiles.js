@@ -44,7 +44,7 @@ function generateMunicipios() {
 
 //
 function processaInsercoes(){
-  let insercoes = JSON.parse(fs.readFileSync('./insercoes.json', 'utf8'))
+  let insercoes = JSON.parse(fs.readFileSync('./relatorio.json', 'utf8'))
 
   //
   let temp = {}
@@ -70,7 +70,7 @@ function processaInsercoes(){
 
   }
 
-  fs.writeFileSync('./site/data/insercoes.json', JSON.stringify(temp, null, 2))
+  fs.writeFileSync('./site/data/relatorio.json', JSON.stringify(temp, null, 2))
 
   return temp
 }
