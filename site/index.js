@@ -30,20 +30,6 @@ $(window).on( "load", async () => {
             }
         }
     )
-
-    console.log(relatorio);
-
-    for (let radio in relatorio) {
-        for(let item of relatorio[radio]){
-            $('#relatorio').append(`<tr>
-                <td>${item.radio}</td>
-                <td>${item.local}</td>
-                <td>${item.campanha}</td>
-                <td>${new Date(item.dataHora).toLocaleDateString()} ${new Date(item.dataHora).toLocaleTimeString()}</td>
-                <td>${item.frase}</td>
-            </tr>`)
-        }
-    }
 });
 
 let toHandler = null

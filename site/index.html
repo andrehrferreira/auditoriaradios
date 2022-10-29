@@ -58,6 +58,9 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -67,106 +70,113 @@
     <meta property="og:description" content="Monitoramos mais de 700 rádios em todo Brasil, veja o resultado!">
     <meta property="og:type" content="">
     <meta property="og:image" content="https://monitoraradios.com/social.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
-    <div class="mx-auto radiosBox" style="border: 1px solid #CCC; height: 250px; margin-top: 20px; padding: 20px; background-color: #FFF;">
-        <div class="row mx-auto">
-            <div class="col-md-5">
-                <h3>Resumo</h3>
-                <ul class="table">
-                    <li>Rádios cadastradas: <span id="radiosCount"></span></li>
-                    <li>Propagandas Bolsonaro: <span id="insercoesBolsonaro"></span></li>
-                    <li>Propagandas Lula: <span id="insercoesLula"></span></li>
-                    <li>Citações Bolsonaro: <span id="citacoesBolsonaro"></span></li>
-                    <li>Citações Lula: <span id="citacoesLula"></span></li>                    
-                    <li>Última atualização: <span id="lastUpdate"></span></li>
-                    <li>Arquivos em análise: <span id="queueFiles"></span></li>
-                </ul>
-            </div>
+    <div id="app">
+        <div class="mx-auto radiosBox" style="border: 1px solid #CCC; height: 250px; margin-top: 20px; padding: 20px; background-color: #FFF;">
+            <div class="row mx-auto">
+                <div class="col-md-5">
+                    <h3>Resumo</h3>
+                    <ul class="table">
+                        <li>Rádios cadastradas: <span id="radiosCount"></span></li>
+                        <li>Propagandas Bolsonaro: <span id="insercoesBolsonaro"></span></li>
+                        <li>Propagandas Lula: <span id="insercoesLula"></span></li>
+                        <li>Citações Bolsonaro: <span id="citacoesBolsonaro"></span></li>
+                        <li>Citações Lula: <span id="citacoesLula"></span></li>                    
+                        <li>Última atualização: <span id="lastUpdate"></span></li>
+                        <li>Arquivos em análise: <span id="queueFiles"></span></li>
+                    </ul>
+                </div>
 
-            <div class="col-md-4" style="font-size: 12px;">
-                Total de propagandas politicas por candidato
-                <p class="text-center" style="width: 200px; height: 200px">
-                    <canvas id="chartGeral"></canvas>
-                </p>
-            </div>
+                <div class="col-md-4" style="font-size: 12px;">
+                    Total de propagandas politicas por candidato
+                    <p class="text-center" style="width: 200px; height: 200px">
+                        <canvas id="chartGeral"></canvas>
+                    </p>
+                </div>
 
-            <div class="col-md-3 h-96">
-                <h3>Relatórios</h3>
+                <div class="col-md-3 h-96">
+                    <h3>Relatórios</h3>
 
-                <a href="./relatorio.csv" target="_blank" class="btn btn-success btn-lg" title="Download Relatório CSV">
-                    <i class="fa-regular fa-file-excel"></i>
-                    Download CSV
-                </a>
+                    <a href="./relatorio.csv" target="_blank" class="btn btn-success btn-lg" title="Download Relatório CSV">
+                        <i class="fa-regular fa-file-excel"></i>
+                        Download CSV
+                    </a>
 
-                <a href="./relatorio.json" target="_blank" class="btn btn-dark btn-lg" style="margin-top: 10px;" title="Download Relatório JSON">
-                    <i class="fa-regular fa-file-code"></i>
-                    Download JSON
-                </a>
+                    <a href="./relatorio.json" target="_blank" class="btn btn-dark btn-lg" style="margin-top: 10px;" title="Download Relatório JSON">
+                        <i class="fa-regular fa-file-code"></i>
+                        Download JSON
+                    </a>
 
-                <a href="https://drive.google.com/drive/folders/1ZJ5LssMr8q7FtaoXQ6fVL4_cg4el5WhV?usp=sharing" target="_blank" class="btn btn-primary btn-lg" style="margin-top: 10px;" title="Arquivos de áudio">
-                    <i class="fa-solid fa-play"></i>
-                    Arquivos de áudio
-                </a>
-            </div>
-        </div>
-    </div>
-
-    <div class="row mx-auto radiosBox" style="margin-top: 20px; padding: 10px">
-        <div class="col-md-7 d-flex justify-content-center">
-            <div class="map-container">
-                <div class="map">Alternative content</div>
+                    <a href="https://drive.google.com/drive/folders/1ZJ5LssMr8q7FtaoXQ6fVL4_cg4el5WhV?usp=sharing" target="_blank" class="btn btn-primary btn-lg" style="margin-top: 10px;" title="Arquivos de áudio">
+                        <i class="fa-solid fa-play"></i>
+                        Arquivos de áudio
+                    </a>
+                </div>
             </div>
         </div>
-        <div class="col-md-5 h-96" style="height: 800px; overflow-y: scroll; padding: 10px">
-            <div id="player">
+
+        <div class="row mx-auto radiosBox" style="margin-top: 20px; padding: 10px">
+            <div class="col-md-7 d-flex justify-content-center">
+                <div class="map-container">
+                    <div class="map">Alternative content</div>
+                </div>
+            </div>
+            <div class="col-md-5 h-96" style="height: 800px; overflow-y: scroll; padding: 10px">
+                <div id="player">
+                    
+                </div>
+                <h1>Rádios</h1>
                 
-            </div>
-            <h1>Rádios</h1>
-            
-            <form class="pb-2"><input type="text" class="form-control" placeholder="Procurar rádio" onkeyup="onSearchKeyUp(this.value)"></form>
+                <form class="pb-2"><input type="text" class="form-control" placeholder="Procurar rádio" onkeyup="onSearchKeyUp(this.value)"></form>
 
-            <div class="accordion" id="mainAccordion">
-                <div class="alert alert-info">Selecione um estado</div>
+                <div class="accordion" id="mainAccordion">
+                    <div class="alert alert-info">Selecione um estado</div>
+                </div>
+            </div>
+
+            <div class="mx-auto flex footer" style="text-align: center" style="padding-top: 20px;">
+                <a href="https://andreferreira.com.br/" target="_blank" style="color: black">Criador por André Ferreira</a>
+
+                <a href="https://www.youtube.com/channel/UCK_hOn8ViTRILUn0XGZ5YPQ" target="_blank" style="color: black" title="Youtube">
+                    <i class="fa-brands fa-youtube"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/" target="_blank" style="color: black" title="Linkedin">
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>
+
+                <a href="https://github.com/andrehrferreira" target="_blank" style="color: black" title="Linkedin">
+                    <i class="fa-brands fa-github"></i>
+                </a>
             </div>
         </div>
 
-        <div class="mx-auto flex footer" style="text-align: center" style="padding-top: 20px;">
-            <a href="https://andreferreira.com.br/" target="_blank" style="color: black">Criador por André Ferreira</a>
-
-            <a href="https://www.youtube.com/channel/UCK_hOn8ViTRILUn0XGZ5YPQ" target="_blank" style="color: black" title="Youtube">
-                <i class="fa-brands fa-youtube"></i>
-            </a>
-
-            <a href="https://www.linkedin.com/" target="_blank" style="color: black" title="Linkedin">
-                <i class="fa-brands fa-linkedin"></i>
-            </a>
-
-            <a href="https://github.com/andrehrferreira" target="_blank" style="color: black" title="Linkedin">
-                <i class="fa-brands fa-github"></i>
-            </a>
+        <div class="row mx-auto radiosBox" style="margin-top: 20px; padding: 10px; background-color: #FFF;">
+            <div style="padding-top: 20px; padding-bottom: 20px">
+                <v-data-table
+                  :headers="headers"
+                  :items="items"
+                  item-key="name"
+                  class="elevation-1"
+                  :search="search"
+                  :items-per-page="50"
+                  :custom-filter="filterOnlyCapsText"
+                >
+                  <template v-slot:top>
+                    <v-text-field
+                      v-model="search"
+                      label="Buscar"
+                      class="mx-4"
+                    ></v-text-field>
+                  </template>
+            </div>
         </div>
-    </div>
-
-    <div class="row mx-auto radiosBox" style="margin-top: 20px; padding: 10px">
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>Radio</th>
-                    <th>Local</th>
-                    <th>Campanha</th>
-                    <th>Data e Hora</th>
-                    <th>Frase detectada</th>
-                </tr>
-            </thead>
-            <tbody id="relatorio">
-                
-            </tbody>
-        </table>
     </div>
 
     <!-- ... -->
@@ -183,6 +193,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
 
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
     <script>
@@ -202,5 +214,55 @@
         gtag('js', new Date());
 
         gtag('config', 'G-GWN9WHMLMP');
+    </script>
+
+    <script>
+        new Vue({
+            el: '#app',
+            vuetify: new Vuetify(),
+            async mounted(){
+                let itemsRaw = await $.getJSON("/relatorio.json");
+                this.items = [];
+
+                for (let radio in itemsRaw) {
+                    for(let item in itemsRaw[radio]){
+                        if(itemsRaw[radio][item].radio && itemsRaw[radio][item].local){
+                            this.items.push({
+                                radio: itemsRaw[radio][item].radio,
+                                local: itemsRaw[radio][item].local,
+                                campanha: itemsRaw[radio][item].campanha,
+                                dataHora: `${new Date(itemsRaw[radio][item].dataHora).toLocaleDateString()} ${new Date(itemsRaw[radio][item].dataHora).toLocaleTimeString()}`,
+                                frase: itemsRaw[radio][item].frase
+                            });
+                        }                        
+                    }
+                }
+            },
+            computed: {
+                headers () {
+                    return [
+                        { text: 'Radio', value: 'radio' },
+                        { text: 'Local', value: 'local' },
+                        { text: 'Campanha', value: 'campanha' },
+                        { text: 'Data e Hora', value: 'dataHora' }
+                    ]
+                },
+            },
+            data() {
+                return {
+                    search: '',
+                    calories: '',
+                    items: []
+                }
+            },
+            methods: {
+                filterOnlyCapsText (value, search, item) {
+                    return value != null &&
+                    search != null &&
+                    typeof value === 'string' &&
+                    value.toString().toLocaleUpperCase().indexOf(search) !== -1
+                },
+            },
+        });
     </script>
 </body>
