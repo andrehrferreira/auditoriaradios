@@ -69,11 +69,11 @@ node poolProcess.js
 
 ## Fontes
 
-https://ufpafalabrasil.gitlab.io/
-https://github.com/alphacep/vosk-api
-https://github.com/falabrasil/speech-datasets
-https://alphacephei.com/vosk/integrations
-https://alphacephei.com/vosk/models
-https://github.com/Jam3/audiobuffer-to-wav
-https://tunein.com/
-https://deepgram.com/
+* https://ufpafalabrasil.gitlab.io/
+* https://github.com/alphacep/vosk-api
+* https://github.com/falabrasil/speech-datasets
+* https://alphacephei.com/vosk/integrations
+* https://alphacephei.com/vosk/models
+* https://github.com/Jam3/audiobuffer-to-wav
+* https://tunein.com/
+* https://deepgram.com/
