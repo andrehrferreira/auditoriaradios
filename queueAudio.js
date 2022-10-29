@@ -55,9 +55,11 @@ module.exports = class QueueAudio {
             const outFile = fs.readFileSync(file, "utf8");
             //const buffer = fs.readFileSync(file.replace(".index", ".wav"));
 
-            try{ await this.process(outFile, file); }
-            catch(e){ console.log(e); }  
-            
+            if(outFile){
+                try{ await this.process(outFile, file); }
+                catch(e){ console.log(e); } 
+            }
+                         
             try{ fs.unlinkSync(file, () => {});} catch(e){ }
             try{ fs.unlinkSync(file.replace(".index", ".wav"), () => {}); } catch(e){ }
 

@@ -560,6 +560,13 @@
       "frase": "agora domingo vinte e dois bolsonaro presidente",
       "radio": "Jovem Pan News Piracicaba",
       "local": "Piracicaba "
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:14:34 GMT-0300 (Brasilia Standard Time)",
+      "frase": "a propaganda do lula estar enganando você",
+      "radio": "Jovem Pan News Piracicaba",
+      "local": "Piracicaba "
     }
   ],
   "Jovem Pan News São Paulo": [
@@ -845,6 +852,13 @@
       "frase": "fala presidente lula",
       "radio": "Pinga Fogo FM",
       "local": "Maringá"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 11:32:56 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Pinga Fogo FM",
+      "local": "Maringá"
     }
   ],
   "RIC 1490 Rede Rádio Imaculada Conceição": [
@@ -1044,6 +1058,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:34:33 GMT-0300 (Brasilia Standard Time)",
       "frase": "salário mínimo e congelar qualquer reajuste da aposentadoria",
+      "radio": "Rádio 105 FM",
+      "local": "Jaraguá do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:18:05 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio 105 FM",
       "local": "Jaraguá do Sul"
     },
@@ -1890,6 +1911,13 @@
       "frase": "aposentados que não votam em bolsonaro",
       "radio": "Rádio Bom Jesus 98 FM",
       "local": "Belo Horizonte"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 10:52:09 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Rádio Bom Jesus 98 FM",
+      "local": "Belo Horizonte"
     }
   ],
   "Rádio Brasil": [
@@ -2262,6 +2290,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 10:49:11 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
+      "radio": "Rádio Cidade FM Tubarão",
+      "local": "Belém"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 11:24:53 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
       "radio": "Rádio Cidade FM Tubarão",
       "local": "Belém"
     }
@@ -2747,6 +2782,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:49:08 GMT-0300 (Brasilia Standard Time)",
       "frase": "aposentados que não votam em bolsonaro",
+      "radio": "Rádio Cultura",
+      "local": "Timbo"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:49:45 GMT-0300 (Brasilia Standard Time)",
+      "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio Cultura",
       "local": "Timbo"
     }
@@ -5507,6 +5549,13 @@
       "frase": "é só com bolsonaro que se o direito está garantido",
       "radio": "Rádio Piratininga AM",
       "local": "Jaú"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:49:44 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Piratininga AM",
+      "local": "Jaú"
     }
   ],
   "Rádio Pomerode": [
@@ -5960,6 +6009,13 @@
       "campanha": "Lula",
       "dataHora": "Fri Oct 28 2022 10:53:31 GMT-0300 (Brasilia Standard Time)",
       "frase": "fala presidente lula",
+      "radio": "Rádio Som Maior FM",
+      "local": "Criciuma"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:40:27 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
       "radio": "Rádio Som Maior FM",
       "local": "Criciuma"
     }
@@ -6467,6 +6523,13 @@
       "frase": "aposentados que não votam em bolsonaro",
       "radio": "Rádio Vitoriosa FM Uberlândia",
       "local": "Uberlandia"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 10:40:29 GMT-0300 (Brasilia Standard Time)",
+      "frase": "agora domingo vinte e dois bolsonaro presidente",
+      "radio": "Rádio Vitoriosa FM Uberlândia",
+      "local": "Uberlandia"
     }
   ],
   "Rádio Vitória AM": [],
@@ -6574,12 +6637,12 @@
     }
   ],
   "total": {
-    "insercoesLula": 680,
-    "insercoesBolsonaro": 635,
-    "citacoesLula": 2247,
-    "citacoesBolsonaro": 2250
+    "insercoesLula": 685,
+    "insercoesBolsonaro": 643,
+    "citacoesLula": 2283,
+    "citacoesBolsonaro": 2277
   },
-  "lastUpdate": 1667021694696,
+  "lastUpdate": 1667022224633,
   "radiosCount": 1832,
-  "queueFiles": 123821
+  "queueFiles": 123021
 }
