@@ -505,7 +505,7 @@
       "cleanName": "radio105fm",
       "insercoes": {
         "Lula": 5,
-        "Bolsonaro": 25
+        "Bolsonaro": 26
       }
     },
     {
@@ -999,7 +999,7 @@
       "site": "http://www.radiosuper.mobi/",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 9,
+        "Bolsonaro": 10,
         "Lula": 4
       }
     },
@@ -1601,7 +1601,7 @@
       "site": "http://www.xodofm.com.br",
       "cleanName": "radioxodofm",
       "insercoes": {
-        "Lula": 7,
+        "Lula": 8,
         "Bolsonaro": 0
       }
     },
@@ -2351,7 +2351,7 @@
       "site": "Belo Horizonte, Brasil",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 9,
+        "Bolsonaro": 10,
         "Lula": 4
       }
     },
@@ -2954,7 +2954,7 @@
       "cleanName": "radio105fm",
       "insercoes": {
         "Lula": 5,
-        "Bolsonaro": 25
+        "Bolsonaro": 26
       }
     },
     {
@@ -3145,7 +3145,7 @@
       "cleanName": "radio105fm",
       "insercoes": {
         "Lula": 5,
-        "Bolsonaro": 25
+        "Bolsonaro": 26
       }
     },
     {
@@ -3167,7 +3167,7 @@
       "cleanName": "radiobandeirantesararangua",
       "insercoes": {
         "Bolsonaro": 11,
-        "Lula": 4
+        "Lula": 5
       }
     },
     {
@@ -3398,7 +3398,7 @@
       "cleanName": "radio105fm",
       "insercoes": {
         "Lula": 5,
-        "Bolsonaro": 25
+        "Bolsonaro": 26
       }
     },
     {
@@ -3431,7 +3431,7 @@
       "cleanName": "radiosupernova",
       "insercoes": {
         "Bolsonaro": 6,
-        "Lula": 1
+        "Lula": 2
       }
     },
     {
@@ -3562,7 +3562,7 @@
       "site": "http://www.superfm89.com.br",
       "cleanName": "radiosuperfm",
       "insercoes": {
-        "Bolsonaro": 9,
+        "Bolsonaro": 10,
         "Lula": 4
       }
     }
@@ -3652,7 +3652,7 @@
       "site": "comercial@massafmserragaucha.com.br",
       "cleanName": "radiomassafmserragaucha",
       "insercoes": {
-        "Lula": 2,
+        "Lula": 3,
         "Bolsonaro": 7
       }
     },

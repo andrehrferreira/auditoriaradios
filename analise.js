@@ -50,9 +50,8 @@ fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                             });
 
                             fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},LULA,${fraseCampanhaLula}\n`);    
+                            summaryInsercoes.lula++;
                         }
-                        
-                        summaryInsercoes.lula++;
                     }
                 }
             }
@@ -81,9 +80,8 @@ fs.appendFileSync("relatorio.csv", "RADIO,LOCALIDADE,DATAEHORA,CAMPANHA,FRASE\n"
                             });
 
                             fs.appendFileSync("relatorio.csv", `${Radio},${Local},${new Date(parseInt(dataHora[1])).toString()},BOLSONARO,${fraseCampanhaBolsonaro}\n`);
+                            summaryInsercoes.bolsonaro++;
                         }
-
-                        summaryInsercoes.bolsonaro++;
                     }
                 }
             }

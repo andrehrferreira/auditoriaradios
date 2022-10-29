@@ -1909,6 +1909,13 @@
     },
     {
       "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 14:16:36 GMT-0300 (Brasilia Standard Time)",
+      "frase": "se você voltar do lula estará votando numa mentira",
+      "radio": "Rádio 105 FM",
+      "local": "Jaraguá do Sul"
+    },
+    {
+      "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 08:02:15 GMT-0300 (Brasilia Standard Time)",
       "frase": "a propaganda do lula estar enganando você",
       "radio": "Rádio 105 FM",
@@ -3115,6 +3122,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 12:11:17 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Bandeirantes Araranguá",
+      "local": "Ararangua"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 13:17:31 GMT-0300 (Brasilia Standard Time)",
+      "frase": "aposentados que não votam em bolsonaro",
       "radio": "Rádio Bandeirantes Araranguá",
       "local": "Ararangua"
     }
@@ -8439,6 +8453,13 @@
       "frase": "bolsonaro vinte e dois",
       "radio": "Rádio Massa FM Serra Gaúcha",
       "local": "Nova Prata"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 13:39:45 GMT-0300 (Brasilia Standard Time)",
+      "frase": "com bolsonaro o que já estava ruim pode ficar pior",
+      "radio": "Rádio Massa FM Serra Gaúcha",
+      "local": "Nova Prata"
     }
   ],
   "Rádio Mega Hits": [
@@ -10872,6 +10893,13 @@
       "frase": "votar no lula é votar numa grande mentira",
       "radio": "Rádio Super FM",
       "local": "Belo Horizonte"
+    },
+    {
+      "campanha": "Bolsonaro",
+      "dataHora": "Fri Oct 28 2022 14:04:58 GMT-0300 (Brasilia Standard Time)",
+      "frase": "não pode correr risco do pt voltar",
+      "radio": "Rádio Super FM",
+      "local": "Belo Horizonte"
     }
   ],
   "Rádio Super Nova": [
@@ -10921,6 +10949,13 @@
       "campanha": "Bolsonaro",
       "dataHora": "Fri Oct 28 2022 12:15:19 GMT-0300 (Brasilia Standard Time)",
       "frase": "bolsonaro vinte e dois",
+      "radio": "Rádio Super Nova",
+      "local": "Jaragua do Sul"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 14:16:37 GMT-0300 (Brasilia Standard Time)",
+      "frase": "fala presidente lula",
       "radio": "Rádio Super Nova",
       "local": "Jaragua do Sul"
     }
@@ -11663,6 +11698,13 @@
       "frase": "presidente lula o brasil da esperança",
       "radio": "Rádio Xodó FM",
       "local": "Aracaju"
+    },
+    {
+      "campanha": "Lula",
+      "dataHora": "Fri Oct 28 2022 14:04:56 GMT-0300 (Brasilia Standard Time)",
+      "frase": "bolsonaro disse que para proteger o patrimônio",
+      "radio": "Rádio Xodó FM",
+      "local": "Aracaju"
     }
   ],
   "Rádio Xodó FM Aracaju": [
@@ -11751,12 +11793,12 @@
     }
   ],
   "total": {
-    "insercoesLula": 1147,
-    "insercoesBolsonaro": 1236,
-    "citacoesLula": 4609,
-    "citacoesBolsonaro": 4275
+    "insercoesLula": 672,
+    "insercoesBolsonaro": 946,
+    "citacoesLula": 4628,
+    "citacoesBolsonaro": 4295
   },
-  "lastUpdate": 1667054040017,
+  "lastUpdate": 1667054448835,
   "radiosCount": 1832,
-  "queueFiles": 70841
+  "queueFiles": 70226
 }
