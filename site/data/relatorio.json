@@ -1,50 +1,68 @@
 {
   "103fmaracaju": {
-    "Lula": 10,
-    "Bolsonaro": 6
+    "Lula": 12,
+    "Bolsonaro": 9
   },
   "alternativafmeldorado": {
-    "Bolsonaro": 5,
+    "Bolsonaro": 6,
     "Lula": 1
   },
   "bandnewsfmmanaus": {
     "Bolsonaro": 1
   },
+  "clubefmfervedouro": {
+    "Lula": 1
+  },
+  "clubefmrecife": {
+    "Bolsonaro": 2
+  },
+  "clubefmtaiobeiras": {
+    "Lula": 1
+  },
   "demaisfmpresidentegetulio": {
-    "Bolsonaro": 18,
-    "Lula": 8
+    "Bolsonaro": 19,
+    "Lula": 12
   },
   "educativainatel": {
     "Lula": 1
   },
   "itatiaiafmbelohorizonte": {
-    "Bolsonaro": 7,
+    "Bolsonaro": 10,
     "Lula": 4
   },
+  "jovempanfmbarretos": {
+    "Lula": 1
+  },
   "jovempanfmbelohorizonte": {
-    "Bolsonaro": 11,
-    "Lula": 6
+    "Bolsonaro": 14,
+    "Lula": 8
   },
   "jovempanfmbrasilia": {
-    "Lula": 4,
-    "Bolsonaro": 4
+    "Lula": 5,
+    "Bolsonaro": 5
   },
   "jovempanfmcampinas": {
     "Bolsonaro": 1
   },
-  "jovempanfmgoiania": {
+  "jovempanfmcascavel": {
     "Bolsonaro": 1
   },
+  "jovempanfmgoiania": {
+    "Bolsonaro": 3
+  },
   "jovempanfmipatinga": {
-    "Lula": 9,
-    "Bolsonaro": 10
+    "Lula": 11,
+    "Bolsonaro": 12
   },
   "jovempanfmitaperuna": {
-    "Bolsonaro": 3,
-    "Lula": 3
+    "Bolsonaro": 7,
+    "Lula": 7
+  },
+  "jovempanfmitapetininga": {
+    "Lula": 1
   },
   "jovempanfmnatal": {
-    "Bolsonaro": 14,
+    "Bolsonaro": 15,
     "Lula": 2
   },
   "jovempanfmpiracicaba": {
@@ -63,26 +81,29 @@
   },
   "jovempannewsbarretos": {
     "Bolsonaro": 3,
-    "Lula": 4
+    "Lula": 5
   },
   "jovempannewscriciuma": {
     "Lula": 3,
-    "Bolsonaro": 6
+    "Bolsonaro": 7
   },
   "jovempannewsimbe": {
     "Lula": 3,
-    "Bolsonaro": 9
+    "Bolsonaro": 10
   },
   "jovempannewspiracicaba": {
-    "Bolsonaro": 5
+    "Bolsonaro": 7
   },
   "jovempannewssaopaulo": {
-    "Lula": 4,
-    "Bolsonaro": 4
+    "Lula": 6,
+    "Bolsonaro": 6
   },
   "marianafm": {
-    "Bolsonaro": 17,
-    "Lula": 16
+    "Bolsonaro": 19,
+    "Lula": 17
+  },
+  "morenafm": {
+    "Bolsonaro": 2
   },
   "maximusfm": {
     "Bolsonaro": 1
@@ -92,11 +113,11 @@
     "Lula": 1
   },
   "nossaradiosaopaulo": {
-    "Bolsonaro": 13,
+    "Bolsonaro": 15,
     "Lula": 7
   },
   "pingafogofm": {
-    "Bolsonaro": 7,
+    "Bolsonaro": 8,
     "Lula": 5
   },
   "ric1490rederadioimaculadaconceicao": {
@@ -115,23 +136,32 @@
     "Lula": 4
   },
   "radiosentineladovale": {
-    "Bolsonaro": 1
+    "Bolsonaro": 2
   },
   "radiouniversitariaufg": {
-    "Lula": 10,
-    "Bolsonaro": 7
+    "Lula": 12,
+    "Bolsonaro": 8
+  },
+  "radio887fm": {
+    "Lula": 1
   },
   "radio105fm": {
-    "Lula": 8,
-    "Bolsonaro": 31
+    "Lula": 9,
+    "Bolsonaro": 42
   },
   "radio89fmbarrabonita": {
-    "Lula": 1
+    "Lula": 2
   },
   "radio915fm": {
     "Bolsonaro": 1
   },
+  "radio92fm": {
+    "Bolsonaro": 1
+  },
   "radio92fmcriciuma": {
+    "Bolsonaro": 2
+  },
+  "radio93fm": {
     "Bolsonaro": 1
   },
   "radio94fm": {
@@ -139,48 +169,55 @@
     "Bolsonaro": 1
   },
   "radio94fmsantarem": {
-    "Lula": 8,
-    "Bolsonaro": 5
+    "Lula": 12,
+    "Bolsonaro": 7
   },
   "radio94popfm": {
     "Bolsonaro": 1
   },
   "radio96fmbauru": {
-    "Bolsonaro": 4,
-    "Lula": 1
+    "Bolsonaro": 5,
+    "Lula": 2
   },
   "radio98fmbelohorizonte": {
-    "Lula": 1
+    "Lula": 1,
+    "Bolsonaro": 4
   },
   "radio98fmcampinagrande": {
-    "Bolsonaro": 13,
+    "Bolsonaro": 15,
     "Lula": 7
   },
   "radio98fmnatal": {
-    "Lula": 9,
-    "Bolsonaro": 9
+    "Lula": 10,
+    "Bolsonaro": 11
   },
   "radio99fm": {
     "Lula": 1
   },
   "radio995fm": {
-    "Lula": 10,
-    "Bolsonaro": 7
+    "Lula": 12,
+    "Bolsonaro": 9
   },
   "radioacordavidafm": {
     "Lula": 1
   },
   "radioatardefm": {
-    "Lula": 6,
-    "Bolsonaro": 10
+    "Lula": 8,
+    "Bolsonaro": 14
+  },
+  "radioavozdovalefm": {
+    "Bolsonaro": 1
   },
   "radioaliancaam": {
-    "Lula": 2,
-    "Bolsonaro": 4
+    "Lula": 3,
+    "Bolsonaro": 5
+  },
+  "radioalternativafm": {
+    "Bolsonaro": 1
   },
   "radioamerica": {
-    "Lula": 2,
-    "Bolsonaro": 4
+    "Lula": 6,
+    "Bolsonaro": 5
   },
   "radioamericaam": {
     "Bolsonaro": 2,
@@ -189,16 +226,19 @@
   "radioaparecidadosul": {
     "Lula": 1
   },
+  "radioaranasfm": {
+    "Bolsonaro": 1
+  },
   "radioatenasfm": {
     "Lula": 1
   },
   "radioatividadefmbrasilia": {
-    "Bolsonaro": 7,
-    "Lula": 7
+    "Bolsonaro": 8,
+    "Lula": 8
   },
   "radioatlanticofm": {
-    "Bolsonaro": 8,
-    "Lula": 3
+    "Bolsonaro": 9,
+    "Lula": 5
   },
   "radiobandfmbarretos": {
     "Lula": 2,
@@ -218,24 +258,24 @@
     "Lula": 1
   },
   "radiobandfmtupa": {
-    "Lula": 2,
-    "Bolsonaro": 5
+    "Lula": 3,
+    "Bolsonaro": 7
   },
   "radiobandeirantesararangua": {
-    "Bolsonaro": 14,
-    "Lula": 5
+    "Bolsonaro": 15,
+    "Lula": 6
   },
   "radiobandeirantesgoiania": {
-    "Bolsonaro": 4,
-    "Lula": 1
+    "Bolsonaro": 9,
+    "Lula": 2
   },
   "radiobarreirasam": {
-    "Lula": 4,
-    "Bolsonaro": 8
+    "Lula": 5,
+    "Bolsonaro": 11
   },
   "radiobeiramarfm": {
-    "Lula": 7,
-    "Bolsonaro": 3
+    "Lula": 8,
+    "Bolsonaro": 5
   },
   "radiobelavista": {
     "Bolsonaro": 1
@@ -245,26 +285,32 @@
     "Bolsonaro": 1
   },
   "radiobomjesus98fm": {
-    "Bolsonaro": 11,
-    "Lula": 7
+    "Bolsonaro": 15,
+    "Lula": 10
   },
   "radiobrasil": {
     "Bolsonaro": 1,
-    "Lula": 1
+    "Lula": 2
   },
   "radiocbnblumenau": {
-    "Bolsonaro": 19,
-    "Lula": 10
+    "Bolsonaro": 23,
+    "Lula": 12
   },
   "radiocbncampinas": {
     "Lula": 1
   },
   "radiocbnnatal": {
     "Bolsonaro": 6,
-    "Lula": 9
+    "Lula": 10
   },
   "radiocdl": {
-    "Lula": 5,
+    "Lula": 6,
+    "Bolsonaro": 4
+  },
+  "radiocampoalegre": {
+    "Lula": 1
+  },
+  "radiocancellafm": {
     "Bolsonaro": 3
   },
   "radiocandides": {
@@ -277,44 +323,56 @@
     "Lula": 1
   },
   "radiocapitalfm95": {
-    "Bolsonaro": 5,
-    "Lula": 2
+    "Bolsonaro": 7,
+    "Lula": 3
+  },
+  "radiocentral": {
+    "Bolsonaro": 2
   },
   "radioceres": {
-    "Bolsonaro": 17,
-    "Lula": 7
+    "Bolsonaro": 20,
+    "Lula": 8
   },
   "radiocerroazul": {
     "Lula": 1
   },
+  "radiocidadebelafm": {
+    "Lula": 1
+  },
   "radiocidadefm": {
-    "Bolsonaro": 7,
-    "Lula": 10
+    "Bolsonaro": 11,
+    "Lula": 13
   },
   "radiocidadefmtubarao": {
     "Lula": 1,
-    "Bolsonaro": 20
+    "Bolsonaro": 23
   },
   "radiocidadefortaleza": {
-    "Lula": 1,
+    "Lula": 2,
     "Bolsonaro": 1
   },
   "radiocidadelitoral": {
-    "Bolsonaro": 4
+    "Bolsonaro": 5
   },
-  "radiocidadeemdia": {
-    "Bolsonaro": 8,
-    "Lula": 3
-  },
-  "radioclaretianafm": {
+  "radiocidadedasarvores": {
     "Bolsonaro": 1
   },
+  "radiocidadeemdia": {
+    "Bolsonaro": 10,
+    "Lula": 5
+  },
+  "radioclaretianafm": {
+    "Bolsonaro": 2
+  },
   "radioclipfm": {
-    "Lula": 3,
-    "Bolsonaro": 4
+    "Lula": 5,
+    "Bolsonaro": 5
   },
   "radioclube98": {
     "Bolsonaro": 3,
+    "Lula": 1
+  },
+  "radioclubeamfortaleza": {
     "Lula": 1
   },
   "radioclubefm": {
@@ -322,62 +380,66 @@
     "Lula": 4
   },
   "radioclubedeinhapim": {
-    "Lula": 5,
-    "Bolsonaro": 7
+    "Lula": 6,
+    "Bolsonaro": 11
   },
   "radioclubedemaraba": {
     "Lula": 1
   },
   "radioclubedesaojoaobatista": {
-    "Bolsonaro": 9,
-    "Lula": 3
+    "Bolsonaro": 17,
+    "Lula": 4
   },
   "radiocolina": {
     "Lula": 2,
     "Bolsonaro": 1
   },
   "radiocolonialfm": {
-    "Lula": 1
+    "Lula": 2
   },
   "radioconceicao1059fm": {
     "Bolsonaro": 8,
     "Lula": 2
   },
   "radiocorupafm": {
-    "Bolsonaro": 11,
-    "Lula": 6
+    "Bolsonaro": 14,
+    "Lula": 10
   },
   "radiocostaverdefm": {
     "Lula": 1
   },
   "radiocultura": {
     "Lula": 16,
-    "Bolsonaro": 13
+    "Bolsonaro": 17
   },
   "radioculturaam": {
     "Bolsonaro": 11,
-    "Lula": 13
+    "Lula": 15
   },
   "radioculturaamarapongas": {
     "Bolsonaro": 10,
     "Lula": 12
   },
+  "radioculturabrasil": {
+    "Lula": 2
+  },
   "radioculturafm": {
-    "Bolsonaro": 4,
-    "Lula": 1
+    "Bolsonaro": 6,
+    "Lula": 2
   },
   "radioculturasantosdumont": {
     "Lula": 1,
     "Bolsonaro": 1
   },
   "radiod2fm": {
-    "Bolsonaro": 2
+    "Bolsonaro": 2,
+    "Lula": 1
   },
   "radiodc2fm": {
     "Lula": 1
   },
   "radiodeltafm": {
-    "Lula": 3,
+    "Lula": 4,
     "Bolsonaro": 2
   },
   "radiodeuseamorportobelo": {
@@ -385,32 +447,44 @@
     "Lula": 1
   },
   "radiodeuseamorsaopaulo": {
-    "Lula": 15
+    "Lula": 15,
+    "Bolsonaro": 2
+  },
+  "radiodifusora1450am": {
+    "Bolsonaro": 1
   },
   "radiodifusora98fm": {
-    "Lula": 1
+    "Lula": 3
   },
+  "radiodifusoraam": {},
   "radiodifusorahd": {
+    "Bolsonaro": 1
+  },
+  "radiodifusoraprime": {
     "Bolsonaro": 1
   },
   "radiodiplomatafm": {
     "Lula": 1,
-    "Bolsonaro": 1
+    "Bolsonaro": 3
   },
-  "radiodiariofm": {},
+  "radiodiariofm": {
+    "Lula": 2
+  },
   "radiodumontfm": {
-    "Lula": 5,
+    "Lula": 6,
     "Bolsonaro": 5
   },
   "radioeducadoraam": {
-    "Bolsonaro": 4,
-    "Lula": 10
+    "Bolsonaro": 6,
+    "Lula": 14
   },
   "radioeducadorafm": {
-    "Lula": 3
+    "Lula": 4
   },
+  "radioeducativafm": {},
   "radioeldoradoam": {
-    "Bolsonaro": 2
+    "Bolsonaro": 4,
+    "Lula": 2
   },
   "radioeldoradofm": {
     "Lula": 4,
@@ -421,60 +495,68 @@
   },
   "radioesperancaestancia": {
     "Lula": 4,
-    "Bolsonaro": 11
+    "Bolsonaro": 12
   },
   "radioestacaofm": {
     "Bolsonaro": 5,
-    "Lula": 5
+    "Lula": 8
   },
   "radioexcelsioram": {
-    "Lula": 3,
+    "Lula": 4,
     "Bolsonaro": 3
   },
   "radioexpressofm": {
     "Lula": 5,
-    "Bolsonaro": 7
+    "Bolsonaro": 9
   },
   "radiofm104": {
     "Bolsonaro": 1,
-    "Lula": 2
+    "Lula": 3
   },
   "radiofmcidade97": {
     "Lula": 5,
     "Bolsonaro": 2
   },
   "radiofmitabaiana": {
-    "Lula": 9,
-    "Bolsonaro": 8
+    "Lula": 10,
+    "Bolsonaro": 11
   },
   "radiofmliberdade": {
-    "Bolsonaro": 15,
+    "Bolsonaro": 19,
     "Lula": 4
   },
   "radiofmsergipe": {
     "Bolsonaro": 4
   },
   "radiofanfm": {
-    "Bolsonaro": 5,
-    "Lula": 7
+    "Bolsonaro": 6,
+    "Lula": 8
   },
   "radiofanfmcarmopolis": {
-    "Bolsonaro": 9,
-    "Lula": 3
+    "Bolsonaro": 11,
+    "Lula": 5
+  },
+  "radiofavoritafm": {
+    "Bolsonaro": 2
   },
   "radiofontefm": {
     "Bolsonaro": 2
   },
-  "radiofontedevida": {},
+  "radiofontedevida": {
+    "Lula": 1
+  },
   "radiofraiburgoam": {
     "Bolsonaro": 8,
-    "Lula": 4
+    "Lula": 6
   },
   "radiofreicanecafm": {
     "Lula": 1,
     "Bolsonaro": 1
   },
   "radiofurbfm": {
+    "Lula": 1
+  },
+  "radiogazetafmcuiaba": {
     "Lula": 1
   },
   "radioglobofeiradesantana": {
@@ -490,85 +572,121 @@
     "Lula": 3
   },
   "radiogospelfmararas": {
-    "Bolsonaro": 1,
-    "Lula": 2
+    "Bolsonaro": 2,
+    "Lula": 3
   },
   "radiogospelfmsaopaulo": {
     "Lula": 1
   },
   "radiograndevalefm": {
-    "Bolsonaro": 1
+    "Bolsonaro": 2
   },
   "radioguarabirafm": {
-    "Bolsonaro": 3
+    "Bolsonaro": 8,
+    "Lula": 1
   },
   "radioguaranyfm": {
     "Lula": 4,
     "Bolsonaro": 2
   },
   "radioguaira": {
-    "Bolsonaro": 2
+    "Bolsonaro": 2,
+    "Lula": 2
   },
   "radioiguassu": {
     "Lula": 9,
     "Bolsonaro": 8
   },
+  "radioimparsomfm": {
+    "Lula": 1
+  },
   "radioimprensafm": {
     "Lula": 3,
     "Bolsonaro": 7
   },
-  "radioinconfidenciafm": {},
+  "radioinconfidenciaam": {
+    "Bolsonaro": 2
+  },
+  "radioinconfidenciafm": {
+    "Bolsonaro": 1
+  },
   "radiointegracaofm": {
-    "Lula": 9,
-    "Bolsonaro": 14
+    "Lula": 15,
+    "Bolsonaro": 18
   },
   "radiointerativafm": {
     "Lula": 3,
-    "Bolsonaro": 9
+    "Bolsonaro": 10
   },
   "radiointerativafmgoiania": {
-    "Bolsonaro": 2,
-    "Lula": 4
+    "Bolsonaro": 4,
+    "Lula": 5
   },
   "radioitabaianafm": {
-    "Lula": 6,
-    "Bolsonaro": 4
+    "Lula": 7,
+    "Bolsonaro": 5
   },
   "radioitabira": {},
+  "radioitapoanfm": {
+    "Lula": 1
+  },
   "radioitapua": {
     "Bolsonaro": 1
   },
   "radioitatiaiafmjuizdefora": {
-    "Bolsonaro": 12,
+    "Bolsonaro": 13,
     "Lula": 2
   },
-  "radiojeremoabofm": {
+  "radioitatiaiafmmontesclaros": {
+    "Lula": 1
+  },
+  "radioitatiaiaouropreto": {
     "Bolsonaro": 1
   },
+  "radioitatiaiavaledoaco": {
+    "Bolsonaro": 1
+  },
+  "radiojm": {
+    "Bolsonaro": 7,
+    "Lula": 1
+  },
+  "radiojeremoabofm": {
+    "Bolsonaro": 1,
+    "Lula": 2
+  },
   "radiojornal": {
-    "Bolsonaro": 8,
+    "Bolsonaro": 9,
     "Lula": 5
   },
+  "radiojornalfm": {
+    "Bolsonaro": 1
+  },
   "radioliberalfm": {
-    "Bolsonaro": 27,
-    "Lula": 32
+    "Bolsonaro": 40,
+    "Lula": 54
   },
   "radioliberdadefm": {},
+  "radioliberdadefmbelohorizonte": {
+    "Bolsonaro": 1
+  },
+  "radiolimeira": {
+    "Lula": 2
+  },
   "radioluzesdaribalta": {
-    "Bolsonaro": 15,
-    "Lula": 16
+    "Bolsonaro": 19,
+    "Lula": 17
   },
   "radioliderfmvaledoaco": {
-    "Bolsonaro": 11,
+    "Bolsonaro": 12,
     "Lula": 4
   },
   "radiomampitubafm": {
-    "Bolsonaro": 13,
-    "Lula": 8
+    "Bolsonaro": 14,
+    "Lula": 10
   },
   "radiomancheteam": {
-    "Lula": 3,
-    "Bolsonaro": 5
+    "Lula": 4,
+    "Bolsonaro": 6
   },
   "radiomaniafmrio": {
     "Lula": 3,
@@ -578,31 +696,53 @@
     "Lula": 1
   },
   "radiomaristela": {},
+  "radiomassafmblumenau": {
+    "Lula": 2,
+    "Bolsonaro": 2
+  },
+  "radiomassafmbrusque": {
+    "Lula": 2,
+    "Bolsonaro": 1
+  },
   "radiomassafmcacador": {
-    "Bolsonaro": 7,
-    "Lula": 2
+    "Bolsonaro": 10,
+    "Lula": 3
+  },
+  "radiomassafmcriciuma": {
+    "Bolsonaro": 1
   },
   "radiomassafmserragaucha": {
-    "Lula": 3,
-    "Bolsonaro": 10
+    "Lula": 4,
+    "Bolsonaro": 14
+  },
+  "radiomassafmtubarao": {
+    "Bolsonaro": 1
+  },
+  "radiomaxfm": {
+    "Lula": 1,
+    "Bolsonaro": 2
   },
   "radiomegahits": {
     "Lula": 1
   },
   "radiomeionortefmquixada": {
     "Bolsonaro": 2,
-    "Lula": 2
+    "Lula": 3
   },
   "radiomelodiafm": {
-    "Bolsonaro": 2
+    "Bolsonaro": 3,
+    "Lula": 1
   },
   "radiomenina": {},
+  "radiomontanafm": {
+    "Bolsonaro": 1
+  },
   "radiomoradadosolfm": {
-    "Lula": 8,
-    "Bolsonaro": 6
+    "Lula": 10,
+    "Bolsonaro": 7
   },
   "radiomultisomcataguases": {
-    "Lula": 10,
+    "Lula": 12,
     "Bolsonaro": 12
   },
   "radiomundomelhorfm": {
@@ -610,46 +750,55 @@
     "Lula": 8
   },
   "radiomaximafm": {
-    "Bolsonaro": 8,
-    "Lula": 7
+    "Bolsonaro": 9,
+    "Lula": 8
   },
   "radionacionalgospel": {
-    "Bolsonaro": 8,
-    "Lula": 14
+    "Bolsonaro": 11,
+    "Lula": 18
   },
   "radionativafmpocosdecaldas": {
-    "Lula": 7,
-    "Bolsonaro": 15
+    "Lula": 11,
+    "Bolsonaro": 20
   },
   "radionazarefm": {
     "Bolsonaro": 11,
-    "Lula": 12
+    "Lula": 14
   },
   "radionordestefm": {
     "Lula": 1
   },
   "radionossafm": {
-    "Bolsonaro": 6,
-    "Lula": 7
+    "Bolsonaro": 10,
+    "Lula": 8
   },
   "radionovaaliancaam": {
-    "Bolsonaro": 10
+    "Bolsonaro": 11
   },
   "radionovafm": {
     "Bolsonaro": 1
   },
   "radionovatupa": {
-    "Bolsonaro": 1
+    "Bolsonaro": 1,
+    "Lula": 2
+  },
+  "radionovasdepazrecife": {
+    "Bolsonaro": 2
   },
   "radioocaminhofm": {
-    "Lula": 1,
+    "Lula": 4,
+    "Bolsonaro": 3
+  },
+  "radioondalivrefm": {
+    "Lula": 3,
     "Bolsonaro": 2
   },
   "radioondasulfm": {
     "Bolsonaro": 1
   },
   "radioouro107fm": {
-    "Bolsonaro": 8
+    "Bolsonaro": 8,
+    "Lula": 4
   },
   "radiopop95fm": {
     "Lula": 3,
@@ -657,24 +806,40 @@
   },
   "radiopalmeirafm": {
     "Lula": 2,
-    "Bolsonaro": 2
+    "Bolsonaro": 3
   },
   "radiopantanalfm": {
-    "Bolsonaro": 11,
+    "Bolsonaro": 14,
     "Lula": 1
   },
+  "radioparanaibafm": {
+    "Bolsonaro": 1,
+    "Lula": 1
+  },
+  "radioparanaeducativa": {},
   "radiopinhaisfm": {
     "Bolsonaro": 1
   },
   "radiopiratiningaam": {
-    "Lula": 5,
-    "Bolsonaro": 11
+    "Lula": 8,
+    "Bolsonaro": 17
+  },
+  "radioplusfmaracati": {
+    "Lula": 1
   },
   "radiopomerode": {
-    "Lula": 5,
-    "Bolsonaro": 5
+    "Lula": 9,
+    "Bolsonaro": 7
+  },
+  "radiopontefm": {
+    "Bolsonaro": 1
   },
   "radiopositivafm": {
+    "Bolsonaro": 1,
+    "Lula": 1
+  },
+  "radiopovofeiradesantana": {
+    "Lula": 2,
     "Bolsonaro": 1
   },
   "radiopraiafm": {},
@@ -682,44 +847,52 @@
     "Bolsonaro": 1
   },
   "radioprincesafm": {
-    "Bolsonaro": 3,
-    "Lula": 2
+    "Bolsonaro": 7,
+    "Lula": 4
   },
   "radioprincesadovalefm": {
     "Bolsonaro": 1
   },
+  "radioraulandfm": {
+    "Bolsonaro": 1
+  },
   "radioraizesfm": {
-    "Bolsonaro": 10,
-    "Lula": 3
+    "Bolsonaro": 13,
+    "Lula": 8
   },
   "radiorealsaocarlos": {
-    "Bolsonaro": 17
+    "Bolsonaro": 22
   },
   "radioregionalfm": {
-    "Lula": 2
+    "Lula": 2,
+    "Bolsonaro": 1
   },
   "radiosagres730am": {
-    "Lula": 9,
-    "Bolsonaro": 9
+    "Lula": 10,
+    "Bolsonaro": 12
   },
   "radiosantabarbarafm": {},
   "radiosantacruz": {
-    "Bolsonaro": 10
-  },
-  "radiosantacruzam550khz": {
-    "Lula": 8,
-    "Bolsonaro": 8
-  },
-  "radiosantafe": {
-    "Bolsonaro": 12,
+    "Bolsonaro": 11,
     "Lula": 2
   },
+  "radiosantacruz105fm": {
+    "Bolsonaro": 1
+  },
+  "radiosantacruzam550khz": {
+    "Lula": 10,
+    "Bolsonaro": 11
+  },
+  "radiosantafe": {
+    "Bolsonaro": 15,
+    "Lula": 3
+  },
   "radiosantoamarofm": {
-    "Bolsonaro": 3
+    "Bolsonaro": 4
   },
   "radiosenadobrasilia": {
-    "Lula": 15,
-    "Bolsonaro": 20
+    "Lula": 22,
+    "Bolsonaro": 23
   },
   "radioserranafm": {
     "Lula": 1
@@ -729,15 +902,18 @@
     "Bolsonaro": 1
   },
   "radiosociedadedabahia": {
-    "Lula": 3,
-    "Bolsonaro": 4
+    "Lula": 4,
+    "Bolsonaro": 5
   },
   "radiosommaiorfm": {
-    "Bolsonaro": 13,
+    "Bolsonaro": 15,
     "Lula": 6
   },
   "radiosomzoomsatfortaleza": {
     "Lula": 2
+  },
+  "radiostilofm": {
+    "Bolsonaro": 1
   },
   "radiostudiofm": {},
   "radiosubaeam": {
@@ -745,29 +921,44 @@
   },
   "radiosucessobambuifm": {
     "Bolsonaro": 2,
-    "Lula": 2
+    "Lula": 3
+  },
+  "radiosucessofmgoiania": {
+    "Bolsonaro": 1
   },
   "radiosuperfm": {
     "Bolsonaro": 10,
     "Lula": 4
   },
   "radiosupernova": {
-    "Bolsonaro": 10,
+    "Bolsonaro": 11,
     "Lula": 3
   },
   "radiosuperruralfm": {
     "Lula": 1
   },
-  "radiosaojoaodelrei": {
+  "radiosupersom": {
     "Lula": 1
+  },
+  "radiosaojoaodelrei": {
+    "Lula": 2,
+    "Bolsonaro": 2
   },
   "radiotamaran": {
     "Bolsonaro": 2
   },
-  "radiotiradentesmanaus": {},
+  "radioternurafm": {
+    "Bolsonaro": 1
+  },
+  "radiotiradentesmanaus": {
+    "Lula": 1
+  },
   "radiotopfmsaopaulo": {
-    "Lula": 12,
-    "Bolsonaro": 38
+    "Lula": 19,
+    "Bolsonaro": 51
+  },
+  "radiotransamericabarretos": {
+    "Bolsonaro": 1
   },
   "radiotransamericasaojoaonepomuceno": {
     "Bolsonaro": 1
@@ -776,14 +967,23 @@
     "Bolsonaro": 1
   },
   "radiotupa": {
-    "Lula": 1
+    "Lula": 1,
+    "Bolsonaro": 1
   },
   "radioucpfm": {
-    "Bolsonaro": 9,
+    "Bolsonaro": 10,
     "Lula": 5
+  },
+  "radiouelfm": {
+    "Bolsonaro": 2,
+    "Lula": 1
   },
   "radioufmgeducativa": {
     "Bolsonaro": 1
+  },
+  "radiouniderpfm": {
+    "Bolsonaro": 2,
+    "Lula": 3
   },
   "radiouniversitariafmuberlandia": {
     "Bolsonaro": 2
@@ -791,22 +991,28 @@
   "radiouniaofm": {
     "Bolsonaro": 3
   },
+  "radiovoxfm": {
+    "Lula": 1
+  },
   "radiovale": {
     "Bolsonaro": 1
   },
   "radiovaledoriogrande": {
     "Lula": 1
   },
+  "radiovangfm": {
+    "Lula": 1
+  },
   "radiovanguardaam": {
-    "Bolsonaro": 2,
+    "Bolsonaro": 3,
     "Lula": 1
   },
   "radiovinhafm": {
     "Lula": 1
   },
   "radiovitoriosafmuberlandia": {
-    "Lula": 12,
-    "Bolsonaro": 9
+    "Lula": 14,
+    "Bolsonaro": 11
   },
   "radiovitoriaam": {},
   "radiovitoriafm": {},
@@ -814,26 +1020,29 @@
     "Lula": 5,
     "Bolsonaro": 2
   },
+  "radiovox90fm": {
+    "Bolsonaro": 1
+  },
   "radiovoz": {
     "Bolsonaro": 1,
     "Lula": 1
   },
   "radioxodofm": {
-    "Lula": 9
+    "Lula": 10
   },
   "radioxodofmaracaju": {
-    "Lula": 3,
+    "Lula": 4,
     "Bolsonaro": 6
   },
   "superradiocristalam1350": {
     "Bolsonaro": 1
   },
   "superradiopatosfm": {
-    "Bolsonaro": 1
+    "Bolsonaro": 2
   },
   "superradiosaopaulo": {
     "Lula": 3,
-    "Bolsonaro": 6
+    "Bolsonaro": 8
   },
   "total": {},
   "lastupdate": {},
